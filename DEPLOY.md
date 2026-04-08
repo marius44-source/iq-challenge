@@ -96,3 +96,45 @@ python -m http.server 5500
 ```
 
 Open `http://127.0.0.1:5500/`.
+
+---
+
+## After your first local commit (automated on this machine)
+
+The `iq-test` folder already has a **`main`** branch with an initial commit (`Initial IQ Challenge site`).
+
+### Push to GitHub (GitHub CLI — recommended)
+
+1. Install GitHub CLI if needed: `winget install GitHub.cli`
+2. In **PowerShell** (from any folder):
+
+   ```powershell
+   gh auth login
+   ```
+
+   Follow the prompts (browser login is easiest).
+
+3. From **`iq-test`**, run:
+
+   ```powershell
+   cd "c:\Users\marius.semeniuc\Desktop\Marius all\Marius all\Cursor\iq-test"
+   .\complete-github-push.ps1
+   ```
+
+   By default it creates a **public** repo named **`iq-challenge-site`** and pushes `main`. If that name is taken on GitHub, set another name first:
+
+   ```powershell
+   $env:GITHUB_REPO_NAME = "your-unique-name"
+   .\complete-github-push.ps1
+   ```
+
+   If you already created an **empty** repo on the website and only need to push:
+
+   ```powershell
+   git remote add origin https://github.com/USER/REPO.git
+   git push -u origin main
+   ```
+
+### Cloudflare Pages (still in the browser)
+
+After the code is on GitHub, continue with **Pasul 5** above: connect the repository in Cloudflare Pages, **no build command**, output directory **`/`** or **`.`**.
