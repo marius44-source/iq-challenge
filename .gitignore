@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+node_modules/
+.cache/
+.cursor/
+*.swp
+*.tmp
+__pycache__/
+*.pyc
+.venv/
+venv/
+scripts/.fr_ro_mymemory_cache.json

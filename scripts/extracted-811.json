@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "TPR811_1_01",
+    "question": "What comes next in the pattern? 2, 4, 6, 8, __",
+    "hint": "Count by 2s.",
+    "options": [
+      "9",
+      "10",
+      "12",
+      "11"
+    ],
+    "explanation": "The pattern counts up by 2 each time: 2, 4, 6, 8, 10."
+  },
+  {
+    "id": "TPR811_1_02",
+    "question": "What comes next? 5, 10, 15, 20, __",
+    "hint": "These are multiples of a number.",
+    "options": [
+      "22",
+      "30",
+      "25",
+      "24"
+    ],
+    "explanation": "The pattern counts up by 5 each time: 5, 10, 15, 20, 25."
+  },
+  {
+    "id": "TPR811_1_03",
+    "question": "What comes next? 3, 6, 9, 12, __",
+    "hint": "Think about the 3-times table.",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "13"
+    ],
+    "explanation": "The pattern counts up by 3 each time: 3, 6, 9, 12, 15."
+  },
+  {
+    "id": "TPR811_1_04",
+    "question": "What comes next? 10, 20, 30, 40, __",
+    "hint": "Count by 10s.",
+    "options": [
+      "45",
+      "55",
+      "50",
+      "60"
+    ],
+    "explanation": "The pattern counts up by 10 each time: 10, 20, 30, 40, 50."
+  },
+  {
+    "id": "TPR811_1_05",
+    "question": "What comes next? 4, 8, 12, 16, __",
+    "hint": "These are multiples of 4.",
+    "options": [
+      "18",
+      "22",
+      "24",
+      "20"
+    ],
+    "explanation": "The pattern counts up by 4 each time: 4, 8, 12, 16, 20."
+  },
+  {
+    "id": "TPR811_1_06",
+    "question": "What is the missing number? 1, 3, 5, __, 9",
+    "hint": "These are all odd numbers.",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "4"
+    ],
+    "explanation": "These are odd numbers going up by 2: 1, 3, 5, 7, 9."
+  },
+  {
+    "id": "TPR811_1_07",
+    "question": "What comes next? 2, 5, 8, 11, __",
+    "hint": "How much is added each time?",
+    "options": [
+      "12",
+      "13",
+      "15",
+      "14"
+    ],
+    "explanation": "Each number is 3 more than the last: 2, 5, 8, 11, 14."
+  },
+  {
+    "id": "TPR811_1_08",
+    "question": "What is the missing number? 6, 12, __, 24, 30",
+    "hint": "Count by 6s.",
+    "options": [
+      "15",
+      "18",
+      "20",
+      "16"
+    ],
+    "explanation": "The pattern counts up by 6: 6, 12, 18, 24, 30."
+  },
+  {
+    "id": "TPR811_1_09",
+    "question": "What comes next in the pattern? ○, □, ○, □, ○, __",
+    "hint": "The shapes take turns.",
+    "options": [
+      "○",
+      "△",
+      "□",
+      "◇"
+    ],
+    "explanation": "Circle and square alternate. After circle comes square: ○, □, ○, □, ○, □."
+  },
+  {
+    "id": "TPR811_1_10",
+    "question": "What comes next? 7, 14, 21, 28, __",
+    "hint": "Think about the 7-times table.",
+    "options": [
+      "30",
+      "32",
+      "36",
+      "35"
+    ],
+    "explanation": "The pattern counts up by 7 each time: 7, 14, 21, 28, 35."
+  },
+  {
+    "id": "TPR811_1_11",
+    "question": "What is the missing number? 10, __, 30, 40, 50",
+    "hint": "Count by 10s.",
+    "options": [
+      "15",
+      "25",
+      "20",
+      "12"
+    ],
+    "explanation": "The pattern counts up by 10: 10, 20, 30, 40, 50."
+  },
+  {
+    "id": "TPR811_1_12",
+    "question": "What comes next? 1, 4, 7, 10, __",
+    "hint": "How much is added each time?",
+    "options": [
+      "12",
+      "14",
+      "11",
+      "13"
+    ],
+    "explanation": "Each number is 3 more than the last: 1, 4, 7, 10, 13."
+  },
+  {
+    "id": "TPR811_1_13",
+    "question": "What comes next in the pattern? A, B, A, B, A, __",
+    "hint": "The letters take turns.",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "explanation": "A and B alternate: A, B, A, B, A, B."
+  },
+  {
+    "id": "TPR811_1_14",
+    "question": "What comes next? 8, 16, 24, 32, __",
+    "hint": "These are multiples of 8.",
+    "options": [
+      "36",
+      "38",
+      "40",
+      "42"
+    ],
+    "explanation": "The pattern counts up by 8: 8, 16, 24, 32, 40."
+  },
+  {
+    "id": "TPR811_1_15",
+    "question": "What is the missing number? 5, 10, __, 20, 25",
+    "hint": "Count by 5s.",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "15"
+    ],
+    "explanation": "The pattern counts up by 5: 5, 10, 15, 20, 25."
+  },
+  {
+    "id": "TPR811_1_16",
+    "question": "What comes next? 9, 18, 27, 36, __",
+    "hint": "These are multiples of 9.",
+    "options": [
+      "45",
+      "40",
+      "42",
+      "44"
+    ],
+    "explanation": "The pattern counts up by 9: 9, 18, 27, 36, 45."
+  },
+  {
+    "id": "TPR811_1_17",
+    "question": "What comes next in the pattern? ★, ♥, ★, ♥, ★, __",
+    "hint": "Two symbols take turns.",
+    "options": [
+      "★",
+      "♥",
+      "♦",
+      "○"
+    ],
+    "explanation": "Star and heart alternate: ★, ♥, ★, ♥, ★, ♥."
+  },
+  {
+    "id": "TPR811_1_18",
+    "question": "What is the missing number? 2, 4, __, 8, 10",
+    "hint": "Count by 2s.",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "3"
+    ],
+    "explanation": "The pattern counts up by 2: 2, 4, 6, 8, 10."
+  },
+  {
+    "id": "TPR811_1_19",
+    "question": "What comes next? 11, 22, 33, 44, __",
+    "hint": "These are multiples of 11.",
+    "options": [
+      "50",
+      "55",
+      "54",
+      "56"
+    ],
+    "explanation": "The pattern counts up by 11: 11, 22, 33, 44, 55."
+  },
+  {
+    "id": "TPR811_1_20",
+    "question": "What comes next in the pattern? 1, 2, 1, 2, 1, __",
+    "hint": "The numbers repeat over and over.",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "0"
+    ],
+    "explanation": "The numbers 1 and 2 alternate: 1, 2, 1, 2, 1, 2."
+  },
+  {
+    "id": "TPR811_2_01",
+    "question": "In a grid, Row 1 is: 2, 4, 6, 8. Row 2 is: 3, 6, 9, 12. Row 3 is: 4, 8, __, 16. What is the missing number?",
+    "hint": "Each row lists multiples of its first number.",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "explanation": "Row 3 is multiples of 4: 4, 8, 12, 16."
+  },
+  {
+    "id": "TPR811_2_02",
+    "question": "What comes next? 1, 2, 4, 8, __",
+    "hint": "Each number is doubled.",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "explanation": "Each number is multiplied by 2: 1, 2, 4, 8, 16."
+  },
+  {
+    "id": "TPR811_2_03",
+    "question": "What comes next? 3, 9, 27, __",
+    "hint": "Each number is multiplied by the same amount.",
+    "options": [
+      "36",
+      "54",
+      "81",
+      "30"
+    ],
+    "explanation": "Each number is multiplied by 3: 3, 9, 27, 81."
+  },
+  {
+    "id": "TPR811_2_04",
+    "question": "What comes next in the symbol pattern? △, △, □, △, △, □, △, △, __",
+    "hint": "Find the repeating group of symbols.",
+    "options": [
+      "△",
+      "□",
+      "○",
+      "★"
+    ],
+    "explanation": "The pattern repeats △, △, □ over and over. Position 9 is □."
+  },
+  {
+    "id": "TPR811_2_05",
+    "question": "Grid: Row 1 is 1, 2, 3. Row 2 is 2, 4, 6. Row 3 is 3, 6, __. What is the missing number?",
+    "hint": "Each row multiplies the top row by the row number.",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "explanation": "Row 3 = top row × 3. So 3 × 3 = 9."
+  },
+  {
+    "id": "TPR811_2_06",
+    "question": "What comes next? 2, 6, 18, 54, __",
+    "hint": "Multiply by the same number each time.",
+    "options": [
+      "108",
+      "162",
+      "72",
+      "60"
+    ],
+    "explanation": "Each number is multiplied by 3: 2, 6, 18, 54, 162."
+  },
+  {
+    "id": "TPR811_2_07",
+    "question": "What comes next? 64, 32, 16, __",
+    "hint": "Each number is halved.",
+    "options": [
+      "12",
+      "10",
+      "4",
+      "8"
+    ],
+    "explanation": "Each number is divided by 2: 64, 32, 16, 8."
+  },
+  {
+    "id": "TPR811_2_08",
+    "question": "Grid: Row 1 is 1, 3, 5, 7. Row 2 is 2, 6, 10, 14. Row 3 is 3, 9, __, 21. What is the missing number?",
+    "hint": "Row 2 = Row 1 × 2. What is Row 3?",
+    "options": [
+      "12",
+      "15",
+      "13",
+      "17"
+    ],
+    "explanation": "Row 3 = Row 1 × 3. So 5 × 3 = 15."
+  },
+  {
+    "id": "TPR811_2_09",
+    "question": "What comes next? 4, 8, 16, 32, __",
+    "hint": "Each number doubles.",
+    "options": [
+      "48",
+      "40",
+      "64",
+      "36"
+    ],
+    "explanation": "Each number is multiplied by 2: 4, 8, 16, 32, 64."
+  },
+  {
+    "id": "TPR811_2_10",
+    "question": "What comes next in the pattern? ★, ♦, ♦, ★, ♦, ♦, ★, ♦, ♦, ★, __",
+    "hint": "Find the repeating group.",
+    "options": [
+      "★",
+      "♦",
+      "○",
+      "□"
+    ],
+    "explanation": "The pattern repeats ★, ♦, ♦. Position 11 is ♦."
+  },
+  {
+    "id": "TPR811_2_11",
+    "question": "What comes next? 5, 25, 125, __",
+    "hint": "Multiply by the same number each time.",
+    "options": [
+      "150",
+      "500",
+      "250",
+      "625"
+    ],
+    "explanation": "Each number is multiplied by 5: 5, 25, 125, 625."
+  },
+  {
+    "id": "TPR811_2_12",
+    "question": "Grid: Row 1 is 2, 4, 6. Row 2 is 3, 6, 9. Row 3 is 5, 10, __. What is the missing number?",
+    "hint": "Each row lists multiples of its first number.",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "20"
+    ],
+    "explanation": "Row 3 is multiples of 5: 5, 10, 15."
+  },
+  {
+    "id": "TPR811_2_13",
+    "question": "What comes next? 1, 4, 9, 16, __",
+    "hint": "These are perfect squares: 1², 2², 3², 4²...",
+    "options": [
+      "20",
+      "25",
+      "24",
+      "36"
+    ],
+    "explanation": "These are square numbers: 1, 4, 9, 16, 25 (which are 1², 2², 3², 4², 5²)."
+  },
+  {
+    "id": "TPR811_2_14",
+    "question": "What comes next in the pattern? A, A, B, A, A, B, A, A, B, __",
+    "hint": "Find the repeating group of 3.",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The pattern repeats A, A, B. Position 10 starts a new group with A."
+  },
+  {
+    "id": "TPR811_2_15",
+    "question": "What comes next? 1, 1, 2, 3, 5, 8, __",
+    "hint": "Add the previous two numbers together.",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "explanation": "Each number is the sum of the two before it: 5 + 8 = 13. This is called the Fibonacci sequence."
+  },
+  {
+    "id": "TPR811_2_16",
+    "question": "Grid: Row 1 is 1, 2, 3, 4. Row 2 is 2, 4, 6, 8. Row 3 is 4, 8, __, 16. What is the missing number?",
+    "hint": "Row 3 = Row 1 × 4.",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "9"
+    ],
+    "explanation": "Row 3 = Row 1 × 4. So 3 × 4 = 12."
+  },
+  {
+    "id": "TPR811_2_17",
+    "question": "What comes next? 10, 100, 1000, __",
+    "hint": "Multiply by 10 each time.",
+    "options": [
+      "1100",
+      "2000",
+      "10000",
+      "5000"
+    ],
+    "explanation": "Each number is multiplied by 10: 10, 100, 1000, 10000."
+  },
+  {
+    "id": "TPR811_2_18",
+    "question": "What comes next? 1, 3, 6, 10, __",
+    "hint": "Look at the differences: +2, +3, +4...",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "12"
+    ],
+    "explanation": "Differences increase by 1 each time: +2, +3, +4, +5. So 10 + 5 = 15. These are called triangle numbers."
+  },
+  {
+    "id": "TPR811_2_19",
+    "question": "What comes next? 1000, 500, 250, 125, __",
+    "hint": "Each number is halved.",
+    "options": [
+      "62.5",
+      "100",
+      "75",
+      "60"
+    ],
+    "explanation": "Each number is divided by 2: 1000, 500, 250, 125, 62.5."
+  },
+  {
+    "id": "TPR811_2_20",
+    "question": "What comes next? 1, 8, 27, 64, __",
+    "hint": "These are cube numbers: 1³, 2³, 3³, 4³...",
+    "options": [
+      "100",
+      "81",
+      "125",
+      "216"
+    ],
+    "explanation": "These are cube numbers: 1³=1, 2³=8, 3³=27, 4³=64, 5³=125."
+  },
+  {
+    "id": "TPR811_3_01",
+    "question": "What comes next? 1, 3, 7, 15, __",
+    "hint": "Try multiplying by 2 and then adding 1.",
+    "options": [
+      "29",
+      "30",
+      "31",
+      "23"
+    ],
+    "explanation": "Rule: ×2 then +1. 1→3, 3→7, 7→15, 15→31."
+  },
+  {
+    "id": "TPR811_3_02",
+    "question": "What comes next? 2, 5, 11, 23, __",
+    "hint": "Try ×2 then +1.",
+    "options": [
+      "35",
+      "46",
+      "47",
+      "45"
+    ],
+    "explanation": "Rule: ×2 then +1. 2→5, 5→11, 11→23, 23→47."
+  },
+  {
+    "id": "TPR811_3_03",
+    "question": "What comes next in the pattern? ○, ○, □, △, ○, ○, □, △, ○, ○, __",
+    "hint": "Find the repeating group of 4 symbols.",
+    "options": [
+      "○",
+      "△",
+      "□",
+      "★"
+    ],
+    "explanation": "The pattern repeats: ○, ○, □, △. Position 11 is □."
+  },
+  {
+    "id": "TPR811_3_04",
+    "question": "What comes next? 1, 4, 13, 40, __",
+    "hint": "Try ×3 then +1.",
+    "options": [
+      "80",
+      "121",
+      "120",
+      "81"
+    ],
+    "explanation": "Rule: ×3 then +1. 1→4, 4→13, 13→40, 40→121."
+  },
+  {
+    "id": "TPR811_3_05",
+    "question": "Grid: Row 1 is 1, 4, 7. Row 2 is 3, 10, 17. Row 3 is 5, 16, __. Each row follows the same adding rule, and column 1 goes 1, 3, 5. What is the missing number?",
+    "hint": "Row 1 adds 3 each time. Row 2 adds 7 each time. Row 3 adds... look at the first two numbers.",
+    "options": [
+      "27",
+      "25",
+      "21",
+      "23"
+    ],
+    "explanation": "Row 3: 5, 16, 27. The difference is 11 each time (5+11=16, 16+11=27)."
+  },
+  {
+    "id": "TPR811_3_06",
+    "question": "What comes next? 2, 6, 14, 30, __",
+    "hint": "Try ×2 then +2.",
+    "options": [
+      "58",
+      "60",
+      "62",
+      "56"
+    ],
+    "explanation": "Rule: ×2 then +2. 2→6, 6→14, 14→30, 30→62."
+  },
+  {
+    "id": "TPR811_3_07",
+    "question": "What comes next? 3, 7, 15, 31, __",
+    "hint": "Try ×2 then +1.",
+    "options": [
+      "47",
+      "62",
+      "63",
+      "60"
+    ],
+    "explanation": "Rule: ×2 then +1. 3→7, 7→15, 15→31, 31→63."
+  },
+  {
+    "id": "TPR811_3_08",
+    "question": "What comes next? 1, 2, 5, 10, 17, __",
+    "hint": "Look at the differences between numbers: 1, 3, 5, 7...",
+    "options": [
+      "24",
+      "25",
+      "26",
+      "22"
+    ],
+    "explanation": "Differences are odd numbers: +1, +3, +5, +7, +9. So 17 + 9 = 26."
+  },
+  {
+    "id": "TPR811_3_09",
+    "question": "Grid: Row 1 is 1, 4, 7. Row 2 is 2, 8, 14. Row 3 is 3, 12, __. What is the missing number?",
+    "hint": "Row 2 = Row 1 × 2. Row 3 = Row 1 × ?",
+    "options": [
+      "18",
+      "21",
+      "15",
+      "24"
+    ],
+    "explanation": "Row 3 = Row 1 × 3. So 7 × 3 = 21."
+  },
+  {
+    "id": "TPR811_3_10",
+    "question": "What comes next? 0, 1, 3, 7, 15, __",
+    "hint": "Try ×2 then +1.",
+    "options": [
+      "31",
+      "30",
+      "23",
+      "29"
+    ],
+    "explanation": "Rule: ×2 then +1. 0→1, 1→3, 3→7, 7→15, 15→31."
+  },
+  {
+    "id": "TPR811_3_11",
+    "question": "What comes next? 2, 3, 5, 9, 17, __",
+    "hint": "Look at the differences: they double each time.",
+    "options": [
+      "25",
+      "33",
+      "31",
+      "34"
+    ],
+    "explanation": "Differences double: +1, +2, +4, +8, +16. So 17 + 16 = 33."
+  },
+  {
+    "id": "TPR811_3_12",
+    "question": "What comes next? 1, 2, 6, 24, __",
+    "hint": "1×2=2, 2×3=6, 6×4=24, 24×?...",
+    "options": [
+      "48",
+      "120",
+      "96",
+      "30"
+    ],
+    "explanation": "Multiply by increasing numbers: ×2, ×3, ×4, ×5. So 24 × 5 = 120."
+  },
+  {
+    "id": "TPR811_3_13",
+    "question": "Grid: Row 1 is 2, 3, 4. Row 2 is 5, 7, 9. Row 3 is 11, 15, __. The rule between rows is ×2 then +1. What is the missing number?",
+    "hint": "Apply the rule to each number in Row 2.",
+    "options": [
+      "17",
+      "18",
+      "19",
+      "21"
+    ],
+    "explanation": "9 × 2 + 1 = 19."
+  },
+  {
+    "id": "TPR811_3_14",
+    "question": "What comes next? 100, 98, 94, 86, 70, __",
+    "hint": "Look at how much is subtracted: 2, 4, 8, 16...",
+    "options": [
+      "54",
+      "38",
+      "50",
+      "42"
+    ],
+    "explanation": "Subtractions double: −2, −4, −8, −16, −32. So 70 − 32 = 38."
+  },
+  {
+    "id": "TPR811_3_15",
+    "question": "What comes next? 1, 4, 10, 22, __",
+    "hint": "Try ×2 then +2.",
+    "options": [
+      "44",
+      "46",
+      "34",
+      "40"
+    ],
+    "explanation": "Rule: ×2 then +2. 1→4, 4→10, 10→22, 22→46."
+  },
+  {
+    "id": "TPR811_3_16",
+    "question": "What comes next? 5, 11, 23, 47, __",
+    "hint": "Try ×2 then +1.",
+    "options": [
+      "94",
+      "95",
+      "93",
+      "96"
+    ],
+    "explanation": "Rule: ×2 then +1. 5→11, 11→23, 23→47, 47→95."
+  },
+  {
+    "id": "TPR811_3_17",
+    "question": "What comes next? 1, 2, 4, 7, 11, 16, __",
+    "hint": "Differences increase by 1 each time: +1, +2, +3, +4, +5...",
+    "options": [
+      "21",
+      "22",
+      "20",
+      "23"
+    ],
+    "explanation": "Differences: +1, +2, +3, +4, +5, +6. So 16 + 6 = 22."
+  },
+  {
+    "id": "TPR811_3_18",
+    "question": "Grid columns: Col 1 is 1, 2, 4. Col 2 is 1, 3, 9. Col 3 is 1, 4, __. What is the missing number?",
+    "hint": "Col 1 is powers of 2. Col 2 is powers of 3. Col 3 is powers of ?",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "20"
+    ],
+    "explanation": "Col 3 is powers of 4: 4⁰=1, 4¹=4, 4²=16."
+  },
+  {
+    "id": "TPR811_3_19",
+    "question": "What comes next? 2, 5, 14, 41, __",
+    "hint": "Try ×3 then −1.",
+    "options": [
+      "82",
+      "122",
+      "123",
+      "124"
+    ],
+    "explanation": "Rule: ×3 then −1. 2→5, 5→14, 14→41, 41→122."
+  },
+  {
+    "id": "TPR811_3_20",
+    "question": "What comes next? 1, 3, 9, 27, 81, __",
+    "hint": "Each number is multiplied by 3.",
+    "options": [
+      "162",
+      "243",
+      "108",
+      "100"
+    ],
+    "explanation": "Each number is ×3: 1, 3, 9, 27, 81, 243."
+  },
+  {
+    "id": "TNR811_1_01",
+    "question": "What is 3 × 4?",
+    "hint": "Think of 3 groups of 4.",
+    "options": [
+      "7",
+      "10",
+      "12",
+      "14"
+    ],
+    "explanation": "3 × 4 = 12."
+  },
+  {
+    "id": "TNR811_1_02",
+    "question": "What is 5 × 6?",
+    "hint": "Think of 5 groups of 6.",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "36"
+    ],
+    "explanation": "5 × 6 = 30."
+  },
+  {
+    "id": "TNR811_1_03",
+    "question": "What comes next? 5, 10, 15, 20, __",
+    "hint": "Count by 5s.",
+    "options": [
+      "24",
+      "25",
+      "30",
+      "22"
+    ],
+    "explanation": "Counting by 5s: 5, 10, 15, 20, 25."
+  },
+  {
+    "id": "TNR811_1_04",
+    "question": "What is double 8?",
+    "hint": "Double means ×2.",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "10"
+    ],
+    "explanation": "Double 8 = 8 × 2 = 16."
+  },
+  {
+    "id": "TNR811_1_05",
+    "question": "What is 4 × 7?",
+    "hint": "Think of 4 groups of 7.",
+    "options": [
+      "24",
+      "21",
+      "28",
+      "32"
+    ],
+    "explanation": "4 × 7 = 28."
+  },
+  {
+    "id": "TNR811_1_06",
+    "question": "What comes next? 3, 6, 9, 12, __",
+    "hint": "Count by 3s.",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "explanation": "Counting by 3s: 3, 6, 9, 12, 15."
+  },
+  {
+    "id": "TNR811_1_07",
+    "question": "What is double 15?",
+    "hint": "Double means multiply by 2.",
+    "options": [
+      "25",
+      "28",
+      "30",
+      "35"
+    ],
+    "explanation": "Double 15 = 15 × 2 = 30."
+  },
+  {
+    "id": "TNR811_1_08",
+    "question": "What is 5 × 8?",
+    "hint": "Think of 5 groups of 8.",
+    "options": [
+      "35",
+      "45",
+      "40",
+      "48"
+    ],
+    "explanation": "5 × 8 = 40."
+  },
+  {
+    "id": "TNR811_1_09",
+    "question": "Count by 4s: 4, 8, 12, __, 20. What is missing?",
+    "hint": "What is 12 + 4?",
+    "options": [
+      "14",
+      "16",
+      "15",
+      "18"
+    ],
+    "explanation": "Counting by 4s: 4, 8, 12, 16, 20."
+  },
+  {
+    "id": "TNR811_1_10",
+    "question": "What is 3 × 9?",
+    "hint": "Think of 3 groups of 9.",
+    "options": [
+      "24",
+      "27",
+      "21",
+      "29"
+    ],
+    "explanation": "3 × 9 = 27."
+  },
+  {
+    "id": "TNR811_1_11",
+    "question": "What is double 25?",
+    "hint": "Double means ×2.",
+    "options": [
+      "45",
+      "50",
+      "55",
+      "40"
+    ],
+    "explanation": "Double 25 = 25 × 2 = 50."
+  },
+  {
+    "id": "TNR811_1_12",
+    "question": "What is 4 × 8?",
+    "hint": "Think of 4 groups of 8.",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "explanation": "4 × 8 = 32."
+  },
+  {
+    "id": "TNR811_1_13",
+    "question": "Count by 6s: 6, 12, 18, __, 30. What is missing?",
+    "hint": "What is 18 + 6?",
+    "options": [
+      "22",
+      "26",
+      "24",
+      "20"
+    ],
+    "explanation": "Counting by 6s: 6, 12, 18, 24, 30."
+  },
+  {
+    "id": "TNR811_1_14",
+    "question": "What is 5 × 9?",
+    "hint": "Think of 5 groups of 9.",
+    "options": [
+      "40",
+      "50",
+      "45",
+      "54"
+    ],
+    "explanation": "5 × 9 = 45."
+  },
+  {
+    "id": "TNR811_1_15",
+    "question": "What is double 12?",
+    "hint": "Double means ×2.",
+    "options": [
+      "22",
+      "24",
+      "20",
+      "26"
+    ],
+    "explanation": "Double 12 = 12 × 2 = 24."
+  },
+  {
+    "id": "TNR811_1_16",
+    "question": "What is 3 × 7?",
+    "hint": "Think of 3 groups of 7.",
+    "options": [
+      "18",
+      "24",
+      "21",
+      "28"
+    ],
+    "explanation": "3 × 7 = 21."
+  },
+  {
+    "id": "TNR811_1_17",
+    "question": "Count by 3s: 3, 6, 9, 12, 15, __. What comes next?",
+    "hint": "Add 3 each time.",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "19"
+    ],
+    "explanation": "Counting by 3s: 3, 6, 9, 12, 15, 18."
+  },
+  {
+    "id": "TNR811_1_18",
+    "question": "What is 4 × 9?",
+    "hint": "Think of 4 groups of 9.",
+    "options": [
+      "32",
+      "36",
+      "40",
+      "27"
+    ],
+    "explanation": "4 × 9 = 36."
+  },
+  {
+    "id": "TNR811_1_19",
+    "question": "What is double 35?",
+    "hint": "Double means ×2.",
+    "options": [
+      "60",
+      "65",
+      "70",
+      "75"
+    ],
+    "explanation": "Double 35 = 35 × 2 = 70."
+  },
+  {
+    "id": "TNR811_1_20",
+    "question": "What is 5 × 7?",
+    "hint": "Think of 5 groups of 7.",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "42"
+    ],
+    "explanation": "5 × 7 = 35."
+  },
+  {
+    "id": "TNR811_2_01",
+    "question": "What is half of 48?",
+    "hint": "Half means ÷2.",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "28"
+    ],
+    "explanation": "Half of 48 = 48 ÷ 2 = 24."
+  },
+  {
+    "id": "TNR811_2_02",
+    "question": "What is triple 9?",
+    "hint": "Triple means ×3.",
+    "options": [
+      "18",
+      "27",
+      "24",
+      "21"
+    ],
+    "explanation": "Triple 9 = 9 × 3 = 27."
+  },
+  {
+    "id": "TNR811_2_03",
+    "question": "Pattern: 2, 4, 3, 6, 5, 10, 9, __. The rule alternates: double, then subtract 1. What comes next?",
+    "hint": "9 is after a subtract step. What operation comes next?",
+    "options": [
+      "10",
+      "18",
+      "8",
+      "12"
+    ],
+    "explanation": "The pattern alternates ×2 and −1. After 9 we double: 9 × 2 = 18."
+  },
+  {
+    "id": "TNR811_2_04",
+    "question": "What is half of 64?",
+    "hint": "Half means ÷2.",
+    "options": [
+      "30",
+      "34",
+      "32",
+      "36"
+    ],
+    "explanation": "Half of 64 = 64 ÷ 2 = 32."
+  },
+  {
+    "id": "TNR811_2_05",
+    "question": "What is triple 12?",
+    "hint": "Triple means ×3.",
+    "options": [
+      "24",
+      "30",
+      "36",
+      "48"
+    ],
+    "explanation": "Triple 12 = 12 × 3 = 36."
+  },
+  {
+    "id": "TNR811_2_06",
+    "question": "Pattern: 1, 3, 2, 6, 5, 15, 14, __. The rule alternates: ×3, then −1. What comes next?",
+    "hint": "14 came from subtracting 1. What operation comes next?",
+    "options": [
+      "13",
+      "28",
+      "42",
+      "15"
+    ],
+    "explanation": "Alternates ×3 and −1. After 14 we multiply: 14 × 3 = 42."
+  },
+  {
+    "id": "TNR811_2_07",
+    "question": "What is half of 100?",
+    "hint": "Half means ÷2.",
+    "options": [
+      "40",
+      "50",
+      "55",
+      "45"
+    ],
+    "explanation": "Half of 100 = 100 ÷ 2 = 50."
+  },
+  {
+    "id": "TNR811_2_08",
+    "question": "What is triple 15?",
+    "hint": "Triple means ×3.",
+    "options": [
+      "30",
+      "40",
+      "45",
+      "60"
+    ],
+    "explanation": "Triple 15 = 15 × 3 = 45."
+  },
+  {
+    "id": "TNR811_2_09",
+    "question": "What comes next? 80, 40, 20, __",
+    "hint": "Each number is halved.",
+    "options": [
+      "15",
+      "10",
+      "5",
+      "12"
+    ],
+    "explanation": "Each number is divided by 2: 80, 40, 20, 10."
+  },
+  {
+    "id": "TNR811_2_10",
+    "question": "What is half of 36?",
+    "hint": "Half means ÷2.",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "14"
+    ],
+    "explanation": "Half of 36 = 36 ÷ 2 = 18."
+  },
+  {
+    "id": "TNR811_2_11",
+    "question": "What is triple 20?",
+    "hint": "Triple means ×3.",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "80"
+    ],
+    "explanation": "Triple 20 = 20 × 3 = 60."
+  },
+  {
+    "id": "TNR811_2_12",
+    "question": "Pattern: 1, 2, 4, 5, 10, 11, 22, __. The rule alternates: +1, then ×2. What comes next?",
+    "hint": "22 came from doubling. What operation comes next?",
+    "options": [
+      "23",
+      "24",
+      "44",
+      "32"
+    ],
+    "explanation": "Alternates +1 and ×2. After 22 we add 1: 22 + 1 = 23."
+  },
+  {
+    "id": "TNR811_2_13",
+    "question": "What is half of 56?",
+    "hint": "Half means ÷2.",
+    "options": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "explanation": "Half of 56 = 56 ÷ 2 = 28."
+  },
+  {
+    "id": "TNR811_2_14",
+    "question": "What is triple 8?",
+    "hint": "Triple means ×3.",
+    "options": [
+      "16",
+      "20",
+      "24",
+      "28"
+    ],
+    "explanation": "Triple 8 = 8 × 3 = 24."
+  },
+  {
+    "id": "TNR811_2_15",
+    "question": "What comes next? 96, 48, 24, 12, __",
+    "hint": "Each number is halved.",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "4"
+    ],
+    "explanation": "Each number is divided by 2: 96, 48, 24, 12, 6."
+  },
+  {
+    "id": "TNR811_2_16",
+    "question": "What is half of 72?",
+    "hint": "Half means ÷2.",
+    "options": [
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "explanation": "Half of 72 = 72 ÷ 2 = 36."
+  },
+  {
+    "id": "TNR811_2_17",
+    "question": "What is triple 25?",
+    "hint": "Triple means ×3.",
+    "options": [
+      "50",
+      "65",
+      "75",
+      "100"
+    ],
+    "explanation": "Triple 25 = 25 × 3 = 75."
+  },
+  {
+    "id": "TNR811_2_18",
+    "question": "Pattern: 5, 15, 10, 30, 25, 75, 70, __. The rule alternates: ×3, then −5. What comes next?",
+    "hint": "70 came from subtracting 5. What operation comes next?",
+    "options": [
+      "65",
+      "140",
+      "210",
+      "105"
+    ],
+    "explanation": "Alternates ×3 and −5. After 70 we multiply: 70 × 3 = 210."
+  },
+  {
+    "id": "TNR811_2_19",
+    "question": "What is half of 84?",
+    "hint": "Half means ÷2.",
+    "options": [
+      "38",
+      "40",
+      "42",
+      "44"
+    ],
+    "explanation": "Half of 84 = 84 ÷ 2 = 42."
+  },
+  {
+    "id": "TNR811_2_20",
+    "question": "What is triple 30?",
+    "hint": "Triple means ×3.",
+    "options": [
+      "60",
+      "90",
+      "100",
+      "120"
+    ],
+    "explanation": "Triple 30 = 30 × 3 = 90."
+  },
+  {
+    "id": "TNR811_3_01",
+    "question": "What comes next? 1, 3, 7, 15, 31, __",
+    "hint": "Try ×2 then +1.",
+    "options": [
+      "47",
+      "62",
+      "63",
+      "60"
+    ],
+    "explanation": "Rule: ×2 then +1. 1→3, 3→7, 7→15, 15→31, 31→63."
+  },
+  {
+    "id": "TNR811_3_02",
+    "question": "What comes next? 2, 6, 18, 54, __",
+    "hint": "Each number is ×3.",
+    "options": [
+      "108",
+      "162",
+      "72",
+      "60"
+    ],
+    "explanation": "Each number is multiplied by 3: 2, 6, 18, 54, 162."
+  },
+  {
+    "id": "TNR811_3_03",
+    "question": "What comes next? 100, 97, 91, 82, 70, __",
+    "hint": "Look at the differences: −3, −6, −9, −12...",
+    "options": [
+      "58",
+      "55",
+      "52",
+      "60"
+    ],
+    "explanation": "Differences increase by 3: −3, −6, −9, −12, −15. So 70 − 15 = 55."
+  },
+  {
+    "id": "TNR811_3_04",
+    "question": "What comes next? 3, 4, 6, 10, 18, __",
+    "hint": "Look at the differences: 1, 2, 4, 8... they double.",
+    "options": [
+      "26",
+      "34",
+      "28",
+      "36"
+    ],
+    "explanation": "Differences double: +1, +2, +4, +8, +16. So 18 + 16 = 34."
+  },
+  {
+    "id": "TNR811_3_05",
+    "question": "What comes next? 2, 5, 11, 23, 47, __",
+    "hint": "Try ×2 then +1.",
+    "options": [
+      "94",
+      "95",
+      "93",
+      "96"
+    ],
+    "explanation": "Rule: ×2 then +1. 2→5, 5→11, 11→23, 23→47, 47→95."
+  },
+  {
+    "id": "TNR811_3_06",
+    "question": "What comes next? 256, 128, 64, 32, __",
+    "hint": "Each number is halved.",
+    "options": [
+      "24",
+      "16",
+      "8",
+      "20"
+    ],
+    "explanation": "Each number is divided by 2: 256, 128, 64, 32, 16."
+  },
+  {
+    "id": "TNR811_3_07",
+    "question": "What comes next? 1, 4, 13, 40, __",
+    "hint": "Try ×3 then +1.",
+    "options": [
+      "80",
+      "120",
+      "121",
+      "81"
+    ],
+    "explanation": "Rule: ×3 then +1. 1→4, 4→13, 13→40, 40→121."
+  },
+  {
+    "id": "TNR811_3_08",
+    "question": "What comes next? 50, 46, 40, 32, 22, __",
+    "hint": "Differences increase: −4, −6, −8, −10...",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "8"
+    ],
+    "explanation": "Differences increase by 2: −4, −6, −8, −10, −12. So 22 − 12 = 10."
+  },
+  {
+    "id": "TNR811_3_09",
+    "question": "What comes next? 3, 9, 27, 81, __",
+    "hint": "Each number is ×3.",
+    "options": [
+      "162",
+      "243",
+      "108",
+      "100"
+    ],
+    "explanation": "Each number is multiplied by 3: 3, 9, 27, 81, 243."
+  },
+  {
+    "id": "TNR811_3_10",
+    "question": "What comes next? 2, 3, 5, 9, 17, __",
+    "hint": "Differences double: +1, +2, +4, +8...",
+    "options": [
+      "25",
+      "33",
+      "34",
+      "31"
+    ],
+    "explanation": "Differences double: +1, +2, +4, +8, +16. So 17 + 16 = 33."
+  },
+  {
+    "id": "TNR811_3_11",
+    "question": "What comes next? 1, 5, 13, 29, __",
+    "hint": "Try ×2 then +3.",
+    "options": [
+      "57",
+      "58",
+      "61",
+      "45"
+    ],
+    "explanation": "Rule: ×2 then +3. 1→5, 5→13, 13→29, 29→61."
+  },
+  {
+    "id": "TNR811_3_12",
+    "question": "What comes next? 200, 195, 185, 170, 150, __",
+    "hint": "Differences increase: −5, −10, −15, −20...",
+    "options": [
+      "130",
+      "125",
+      "120",
+      "135"
+    ],
+    "explanation": "Differences increase by 5: −5, −10, −15, −20, −25. So 150 − 25 = 125."
+  },
+  {
+    "id": "TNR811_3_13",
+    "question": "What comes next? 4, 16, 64, 256, __",
+    "hint": "Each number is ×4.",
+    "options": [
+      "512",
+      "1024",
+      "768",
+      "640"
+    ],
+    "explanation": "Each number is multiplied by 4: 4, 16, 64, 256, 1024."
+  },
+  {
+    "id": "TNR811_3_14",
+    "question": "What comes next? 1, 2, 6, 24, 120, __",
+    "hint": "Multiply by 2, then 3, then 4, then 5...",
+    "options": [
+      "240",
+      "600",
+      "720",
+      "360"
+    ],
+    "explanation": "×2, ×3, ×4, ×5, ×6. So 120 × 6 = 720. These are called factorials."
+  },
+  {
+    "id": "TNR811_3_15",
+    "question": "What comes next? 5, 8, 14, 26, 50, __",
+    "hint": "Differences double: +3, +6, +12, +24...",
+    "options": [
+      "74",
+      "98",
+      "76",
+      "100"
+    ],
+    "explanation": "Differences double: +3, +6, +12, +24, +48. So 50 + 48 = 98."
+  },
+  {
+    "id": "TNR811_3_16",
+    "question": "What comes next? 3, 10, 31, 94, __",
+    "hint": "Try ×3 then +1.",
+    "options": [
+      "188",
+      "282",
+      "283",
+      "281"
+    ],
+    "explanation": "Rule: ×3 then +1. 3→10, 10→31, 31→94, 94→283."
+  },
+  {
+    "id": "TNR811_3_17",
+    "question": "What comes next? 80, 77, 71, 62, 50, __",
+    "hint": "Differences increase: −3, −6, −9, −12...",
+    "options": [
+      "35",
+      "38",
+      "40",
+      "42"
+    ],
+    "explanation": "Differences increase by 3: −3, −6, −9, −12, −15. So 50 − 15 = 35."
+  },
+  {
+    "id": "TNR811_3_18",
+    "question": "What comes next? 1, 2, 4, 8, 16, 32, __",
+    "hint": "Each number doubles.",
+    "options": [
+      "48",
+      "60",
+      "64",
+      "36"
+    ],
+    "explanation": "Each number is ×2: 1, 2, 4, 8, 16, 32, 64."
+  },
+  {
+    "id": "TNR811_3_19",
+    "question": "What comes next? 2, 7, 22, 67, __",
+    "hint": "Try ×3 then +1.",
+    "options": [
+      "134",
+      "200",
+      "201",
+      "202"
+    ],
+    "explanation": "Rule: ×3 then +1. 2→7, 7→22, 22→67, 67→202."
+  },
+  {
+    "id": "TNR811_3_20",
+    "question": "What comes next? 1000, 990, 970, 940, 900, __",
+    "hint": "Differences increase: −10, −20, −30, −40...",
+    "options": [
+      "860",
+      "850",
+      "840",
+      "870"
+    ],
+    "explanation": "Differences increase by 10: −10, −20, −30, −40, −50. So 900 − 50 = 850."
+  },
+  {
+    "id": "TLR811_1_01",
+    "question": "All dogs are animals. Spot is a dog. What is Spot?",
+    "hint": "If Spot is a dog, and all dogs are animals...",
+    "options": [
+      "A plant",
+      "An animal",
+      "A bird",
+      "A fish"
+    ],
+    "explanation": "All dogs are animals. Spot is a dog. So Spot is an animal."
+  },
+  {
+    "id": "TLR811_1_02",
+    "question": "All apples are fruits. All fruits are food. Are all apples food?",
+    "hint": "Follow the chain: apples → fruits → food.",
+    "options": [
+      "Yes",
+      "No",
+      "Only some",
+      "We cannot tell"
+    ],
+    "explanation": "Apples are fruits, and fruits are food. So all apples are food."
+  },
+  {
+    "id": "TLR811_1_03",
+    "question": "Tom is taller than Sam. Sam is taller than Ben. Who is the tallest?",
+    "hint": "Put them in order of height.",
+    "options": [
+      "Sam",
+      "Ben",
+      "Tom",
+      "They are the same"
+    ],
+    "explanation": "Tom > Sam > Ben. Tom is the tallest."
+  },
+  {
+    "id": "TLR811_1_04",
+    "question": "All cats have tails. Whiskers is a cat. Does Whiskers have a tail?",
+    "hint": "If all cats have tails, and Whiskers is a cat...",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Only sometimes"
+    ],
+    "explanation": "All cats have tails. Whiskers is a cat. So Whiskers has a tail."
+  },
+  {
+    "id": "TLR811_1_05",
+    "question": "Ana is older than Ben. Ben is older than Cara. Who is the youngest?",
+    "hint": "Put them in order from oldest to youngest.",
+    "options": [
+      "Ana",
+      "Ben",
+      "Cara",
+      "They are the same age"
+    ],
+    "explanation": "Ana > Ben > Cara in age. Cara is the youngest."
+  },
+  {
+    "id": "TLR811_1_06",
+    "question": "All birds have feathers. A robin is a bird. Does a robin have feathers?",
+    "hint": "If all birds have feathers...",
+    "options": [
+      "No",
+      "Yes",
+      "Only in winter",
+      "Maybe"
+    ],
+    "explanation": "All birds have feathers. A robin is a bird. So a robin has feathers."
+  },
+  {
+    "id": "TLR811_1_07",
+    "question": "Red is bigger than Blue. Blue is bigger than Green. Which is the smallest?",
+    "hint": "Order them by size.",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "They are equal"
+    ],
+    "explanation": "Red > Blue > Green. Green is the smallest."
+  },
+  {
+    "id": "TLR811_1_08",
+    "question": "All fish live in water. A goldfish is a fish. Where does a goldfish live?",
+    "hint": "If all fish live in water...",
+    "options": [
+      "On land",
+      "In trees",
+      "In water",
+      "In the sky"
+    ],
+    "explanation": "All fish live in water. A goldfish is a fish. So a goldfish lives in water."
+  },
+  {
+    "id": "TLR811_1_09",
+    "question": "Book A has more pages than Book B. Book B has more pages than Book C. Which has the fewest pages?",
+    "hint": "Order the books by page count.",
+    "options": [
+      "Book A",
+      "Book B",
+      "Book C",
+      "They are equal"
+    ],
+    "explanation": "A > B > C in pages. Book C has the fewest."
+  },
+  {
+    "id": "TLR811_1_10",
+    "question": "All squares have 4 sides. This shape is a square. How many sides does it have?",
+    "hint": "If it is a square...",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "All squares have 4 sides. This shape is a square. So it has 4 sides."
+  },
+  {
+    "id": "TLR811_1_11",
+    "question": "Pizza is cheaper than steak. Steak is cheaper than lobster. Which is the cheapest?",
+    "hint": "Put them in price order.",
+    "options": [
+      "Steak",
+      "Lobster",
+      "Pizza",
+      "They cost the same"
+    ],
+    "explanation": "Pizza < Steak < Lobster in price. Pizza is cheapest."
+  },
+  {
+    "id": "TLR811_1_12",
+    "question": "All roses are flowers. All flowers are plants. Is a rose a plant?",
+    "hint": "Follow the chain: roses → flowers → plants.",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Only red roses"
+    ],
+    "explanation": "Roses are flowers, and flowers are plants. So roses are plants."
+  },
+  {
+    "id": "TLR811_1_13",
+    "question": "Team A scored more than Team B. Team B scored more than Team C. Who scored the most?",
+    "hint": "Rank the teams by score.",
+    "options": [
+      "Team C",
+      "Team B",
+      "Team A",
+      "It is a tie"
+    ],
+    "explanation": "A > B > C in score. Team A scored the most."
+  },
+  {
+    "id": "TLR811_1_14",
+    "question": "All coins are round. A penny is a coin. What shape is a penny?",
+    "hint": "If all coins are round...",
+    "options": [
+      "Square",
+      "Triangle",
+      "Round",
+      "Oval"
+    ],
+    "explanation": "All coins are round. A penny is a coin. So a penny is round."
+  },
+  {
+    "id": "TLR811_1_15",
+    "question": "Mia runs faster than Lily. Lily runs faster than Zoe. Who is the slowest?",
+    "hint": "Rank them by speed.",
+    "options": [
+      "Mia",
+      "Lily",
+      "Zoe",
+      "They are equal"
+    ],
+    "explanation": "Mia > Lily > Zoe in speed. Zoe is the slowest."
+  },
+  {
+    "id": "TLR811_1_16",
+    "question": "All triangles have 3 sides. This shape has 3 sides. Could it be a triangle?",
+    "hint": "Triangles have 3 sides. Does having 3 sides mean it must be a triangle?",
+    "options": [
+      "Yes, it could be",
+      "No, never",
+      "Only if it is big",
+      "Only if it is red"
+    ],
+    "explanation": "All triangles have 3 sides, and this shape has 3 sides, so it could be a triangle."
+  },
+  {
+    "id": "TLR811_1_17",
+    "question": "An elephant is heavier than a horse. A horse is heavier than a dog. Which is the lightest?",
+    "hint": "Rank them by weight.",
+    "options": [
+      "Elephant",
+      "Horse",
+      "Dog",
+      "They weigh the same"
+    ],
+    "explanation": "Elephant > Horse > Dog in weight. The dog is lightest."
+  },
+  {
+    "id": "TLR811_1_18",
+    "question": "All pencils can write. This is a pencil. Can it write?",
+    "hint": "If all pencils can write...",
+    "options": [
+      "Yes",
+      "No",
+      "Only sometimes",
+      "We don't know"
+    ],
+    "explanation": "All pencils can write. This is a pencil. So it can write."
+  },
+  {
+    "id": "TLR811_1_19",
+    "question": "Box A is wider than Box B. Box B is wider than Box C. Which is the widest?",
+    "hint": "Rank the boxes by width.",
+    "options": [
+      "Box C",
+      "Box B",
+      "Box A",
+      "They are equal"
+    ],
+    "explanation": "A > B > C in width. Box A is the widest."
+  },
+  {
+    "id": "TLR811_1_20",
+    "question": "All ice cream is cold. This is ice cream. Is it cold?",
+    "hint": "If all ice cream is cold...",
+    "options": [
+      "No",
+      "Maybe",
+      "Yes",
+      "Only in winter"
+    ],
+    "explanation": "All ice cream is cold. This is ice cream. So it is cold."
+  },
+  {
+    "id": "TLR811_2_01",
+    "question": "All chocolate is sweet. This candy is sweet. Is it DEFINITELY chocolate?",
+    "hint": "Just because all chocolate is sweet, does that mean all sweet things are chocolate?",
+    "options": [
+      "Yes, definitely",
+      "No, not necessarily",
+      "Only dark chocolate",
+      "Always"
+    ],
+    "explanation": "All chocolate is sweet, but other things can be sweet too. It is not necessarily chocolate."
+  },
+  {
+    "id": "TLR811_2_02",
+    "question": "Anna is taller than Ben. Ben is taller than Cara. Cara is taller than Dan. Who is the second tallest?",
+    "hint": "Put all four in height order.",
+    "options": [
+      "Anna",
+      "Ben",
+      "Cara",
+      "Dan"
+    ],
+    "explanation": "Anna > Ben > Cara > Dan. Ben is second tallest."
+  },
+  {
+    "id": "TLR811_2_03",
+    "question": "All cars have wheels. This vehicle has wheels. Is it DEFINITELY a car?",
+    "hint": "Do only cars have wheels?",
+    "options": [
+      "Yes",
+      "No, not necessarily",
+      "Only if it is red",
+      "Always"
+    ],
+    "explanation": "Many vehicles have wheels (bikes, buses, trucks). It is not necessarily a car."
+  },
+  {
+    "id": "TLR811_2_04",
+    "question": "Red is bigger than Blue. Blue is bigger than Green. Green is bigger than Yellow. Which is third biggest?",
+    "hint": "Rank all four by size.",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "explanation": "Red > Blue > Green > Yellow. Green is third biggest."
+  },
+  {
+    "id": "TLR811_2_05",
+    "question": "All squares are rectangles. This shape is a rectangle. Is it DEFINITELY a square?",
+    "hint": "All squares are rectangles, but are all rectangles squares?",
+    "options": [
+      "Yes",
+      "No, not necessarily",
+      "Only if it is small",
+      "Always"
+    ],
+    "explanation": "All squares are rectangles, but not all rectangles are squares. It might not be a square."
+  },
+  {
+    "id": "TLR811_2_06",
+    "question": "Kim got 90 marks. Lee got 85 marks. Min got 95 marks. Pat got 80 marks. Who came second?",
+    "hint": "Rank them from highest to lowest.",
+    "options": [
+      "Kim",
+      "Lee",
+      "Min",
+      "Pat"
+    ],
+    "explanation": "Min (95) > Kim (90) > Lee (85) > Pat (80). Kim came second."
+  },
+  {
+    "id": "TLR811_2_07",
+    "question": "All dogs bark. An animal is barking. Is it DEFINITELY a dog?",
+    "hint": "Are dogs the only animals that bark?",
+    "options": [
+      "Yes, for sure",
+      "No, not necessarily",
+      "Only big dogs bark",
+      "Always"
+    ],
+    "explanation": "Other animals might bark too (like seals). It is not necessarily a dog."
+  },
+  {
+    "id": "TLR811_2_08",
+    "question": "Book A has 200 pages. Book B has 150 pages. Book C has 300 pages. Book D has 250 pages. Which is the third longest?",
+    "hint": "Rank from most pages to fewest.",
+    "options": [
+      "Book A",
+      "Book B",
+      "Book C",
+      "Book D"
+    ],
+    "explanation": "C (300) > D (250) > A (200) > B (150). Book A is third longest."
+  },
+  {
+    "id": "TLR811_2_09",
+    "question": "All even numbers are divisible by 2. The number 15 is not divisible by 2. What can we say about 15?",
+    "hint": "If it is not divisible by 2, can it be even?",
+    "options": [
+      "It is even",
+      "It is not even",
+      "We cannot tell",
+      "It might be even"
+    ],
+    "explanation": "All even numbers are divisible by 2. 15 is not divisible by 2. So 15 is not even."
+  },
+  {
+    "id": "TLR811_2_10",
+    "question": "Amy, Ben, Cat, and Dan run a race. Amy beats Ben. Cat beats Amy. Dan beats Cat. Who wins?",
+    "hint": "If Dan beats Cat, and Cat beats Amy...",
+    "options": [
+      "Amy",
+      "Ben",
+      "Cat",
+      "Dan"
+    ],
+    "explanation": "Dan > Cat > Amy > Ben. Dan wins the race."
+  },
+  {
+    "id": "TLR811_2_11",
+    "question": "All bikes have 2 wheels. This vehicle has 2 wheels. Is it DEFINITELY a bike?",
+    "hint": "Are bikes the only things with 2 wheels?",
+    "options": [
+      "Yes",
+      "No, not necessarily",
+      "Only mountain bikes",
+      "Always"
+    ],
+    "explanation": "Scooters and motorcycles also have 2 wheels. It is not necessarily a bike."
+  },
+  {
+    "id": "TLR811_2_12",
+    "question": "Four friends got different scores: 70, 80, 90, 100. James scored more than 80 but less than 100. What was his score?",
+    "hint": "Which score is between 80 and 100?",
+    "options": [
+      "70",
+      "80",
+      "90",
+      "100"
+    ],
+    "explanation": "The only score between 80 and 100 is 90."
+  },
+  {
+    "id": "TLR811_2_13",
+    "question": "All spiders have 8 legs. This creature has 8 legs. Is it DEFINITELY a spider?",
+    "hint": "Are spiders the only creatures with 8 legs?",
+    "options": [
+      "Yes",
+      "No, not necessarily",
+      "Only big ones",
+      "Always"
+    ],
+    "explanation": "Scorpions also have 8 legs. Having 8 legs does not mean it must be a spider."
+  },
+  {
+    "id": "TLR811_2_14",
+    "question": "The oak is taller than the birch. The pine is taller than the oak. The elm is shorter than the birch. Which tree is the tallest?",
+    "hint": "Put all four trees in order.",
+    "options": [
+      "Oak",
+      "Birch",
+      "Pine",
+      "Elm"
+    ],
+    "explanation": "Pine > Oak > Birch > Elm. The pine is tallest."
+  },
+  {
+    "id": "TLR811_2_15",
+    "question": "All planets orbit a star. Earth orbits a star. Does this PROVE Earth is a planet?",
+    "hint": "Do only planets orbit stars?",
+    "options": [
+      "Yes, it proves it",
+      "No, it does not prove it",
+      "Only sometimes",
+      "Always"
+    ],
+    "explanation": "Comets and asteroids also orbit stars. Orbiting a star alone does not prove something is a planet."
+  },
+  {
+    "id": "TLR811_2_16",
+    "question": "Sam has more stickers than Mia. Mia has more than Jo. Jo has more than Lee. Who has the fewest stickers?",
+    "hint": "Put them in order.",
+    "options": [
+      "Sam",
+      "Mia",
+      "Jo",
+      "Lee"
+    ],
+    "explanation": "Sam > Mia > Jo > Lee. Lee has the fewest."
+  },
+  {
+    "id": "TLR811_2_17",
+    "question": "If it is raining, the ground is wet. The ground is wet. Is it DEFINITELY raining?",
+    "hint": "Could the ground be wet for other reasons?",
+    "options": [
+      "Yes, definitely",
+      "No, not necessarily",
+      "Only in summer",
+      "Always"
+    ],
+    "explanation": "Someone could have used a hose or sprinkler. A wet ground does not prove rain."
+  },
+  {
+    "id": "TLR811_2_18",
+    "question": "The cat weighs less than the dog. The dog weighs less than the sheep. The sheep weighs less than the cow. Which animal weighs the most?",
+    "hint": "Rank them by weight.",
+    "options": [
+      "Cat",
+      "Dog",
+      "Sheep",
+      "Cow"
+    ],
+    "explanation": "Cat < Dog < Sheep < Cow. The cow weighs the most."
+  },
+  {
+    "id": "TLR811_2_19",
+    "question": "All apples are fruits. This is NOT a fruit. Could it be an apple?",
+    "hint": "If all apples are fruits, and this is not a fruit...",
+    "options": [
+      "Yes",
+      "No, it cannot",
+      "Maybe",
+      "Only green ones"
+    ],
+    "explanation": "All apples are fruits. If it is not a fruit, it cannot be an apple."
+  },
+  {
+    "id": "TLR811_2_20",
+    "question": "Four children are ages 8, 9, 10, 11. Kai is older than Zoe. Zoe is older than Leo. Leo is older than Ivy. How old is Zoe?",
+    "hint": "Kai is oldest, then Zoe, then Leo, then Ivy.",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation": "Kai=11, Zoe=10, Leo=9, Ivy=8. Zoe is 10."
+  },
+  {
+    "id": "TLR811_3_01",
+    "question": "If it rains, Tom takes an umbrella. If Tom takes an umbrella, he stays dry. It is raining. Will Tom stay dry?",
+    "hint": "Follow the chain: rain → umbrella → stays dry.",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Only if it is cold"
+    ],
+    "explanation": "Rain → umbrella → stays dry. It is raining, so Tom stays dry."
+  },
+  {
+    "id": "TLR811_3_02",
+    "question": "If A is true, then B is true. B is NOT true. Is A true?",
+    "hint": "If A being true always makes B true, and B is false...",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "We cannot tell"
+    ],
+    "explanation": "If A were true, B would have to be true. But B is not true. So A cannot be true."
+  },
+  {
+    "id": "TLR811_3_03",
+    "question": "Today is Wednesday. What day was it 3 days ago?",
+    "hint": "Count backwards: Tuesday, Monday, Sunday.",
+    "options": [
+      "Monday",
+      "Sunday",
+      "Saturday",
+      "Tuesday"
+    ],
+    "explanation": "Wednesday − 1 = Tuesday, − 2 = Monday, − 3 = Sunday."
+  },
+  {
+    "id": "TLR811_3_04",
+    "question": "If you study, you pass the test. If you pass the test, you get a reward. Maya studied. Does Maya get a reward?",
+    "hint": "Follow the chain: study → pass → reward.",
+    "options": [
+      "Yes",
+      "No",
+      "Only sometimes",
+      "We cannot tell"
+    ],
+    "explanation": "Study → pass → reward. Maya studied, so she gets a reward."
+  },
+  {
+    "id": "TLR811_3_05",
+    "question": "If Anna goes swimming, she wears goggles. Anna is NOT wearing goggles. Is Anna swimming?",
+    "hint": "If swimming always means goggles, and there are no goggles...",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Only on Mondays"
+    ],
+    "explanation": "If she were swimming, she would be wearing goggles. She is not wearing goggles, so she is not swimming."
+  },
+  {
+    "id": "TLR811_3_06",
+    "question": "Today is March 28th. What is the date 5 days from now?",
+    "hint": "March has 31 days. Count forward from the 28th.",
+    "options": [
+      "March 33rd",
+      "April 1st",
+      "April 2nd",
+      "April 3rd"
+    ],
+    "explanation": "March has 31 days. 28 + 5 = 33. 33 − 31 = 2. So it is April 2nd."
+  },
+  {
+    "id": "TLR811_3_07",
+    "question": "If Max eats cake, he feels sick. Max does NOT feel sick. Did Max eat cake?",
+    "hint": "If cake always makes him sick, and he is not sick...",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Only chocolate cake"
+    ],
+    "explanation": "If he had eaten cake, he would feel sick. He does not feel sick, so he did not eat cake."
+  },
+  {
+    "id": "TLR811_3_08",
+    "question": "If A leads to B, B leads to C, C leads to D. A happens. Does D happen?",
+    "hint": "Follow the chain from A to D.",
+    "options": [
+      "Yes",
+      "No",
+      "Only sometimes",
+      "We cannot tell"
+    ],
+    "explanation": "A → B → C → D. A happens, so D happens."
+  },
+  {
+    "id": "TLR811_3_09",
+    "question": "It is October. How many months until March (counting forward)?",
+    "hint": "Count: November, December, January, February, March.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "explanation": "Nov (1), Dec (2), Jan (3), Feb (4), Mar (5). That is 5 months."
+  },
+  {
+    "id": "TLR811_3_10",
+    "question": "If a shape has 4 equal sides and 4 right angles, it is a square. This shape does NOT have 4 equal sides. Is it definitely NOT a square?",
+    "hint": "Can something be a square without 4 equal sides?",
+    "options": [
+      "Yes, it is not a square",
+      "No, it could still be a square",
+      "Maybe",
+      "Only if it is big"
+    ],
+    "explanation": "A square must have 4 equal sides. If it does not, it is not a square."
+  },
+  {
+    "id": "TLR811_3_11",
+    "question": "If you press the button, the light turns on. If the light turns on, the bell rings. You pressed the button. What happens?",
+    "hint": "Follow the chain: button → light → bell.",
+    "options": [
+      "Nothing",
+      "Only the light turns on",
+      "The bell rings",
+      "The button breaks"
+    ],
+    "explanation": "Button → light on → bell rings. You pressed the button, so the bell rings."
+  },
+  {
+    "id": "TLR811_3_12",
+    "question": "Today is Friday. What day will it be in 10 days?",
+    "hint": "10 = 7 + 3. One full week plus 3 extra days.",
+    "options": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "explanation": "10 days = 1 week + 3 days. Friday + 3 = Monday."
+  },
+  {
+    "id": "TLR811_3_13",
+    "question": "All students in Class A play football. Tom does NOT play football. Is Tom in Class A?",
+    "hint": "If everyone in Class A plays football, and Tom does not...",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Only on weekends"
+    ],
+    "explanation": "All Class A students play football. Tom does not, so he is not in Class A."
+  },
+  {
+    "id": "TLR811_3_14",
+    "question": "If it snows, school is closed. If school is closed, children play outside. It did NOT snow. Can we be SURE children are NOT playing outside?",
+    "hint": "Could school be closed for another reason?",
+    "options": [
+      "Yes, we can be sure",
+      "No, we cannot be sure",
+      "Only in summer",
+      "Always"
+    ],
+    "explanation": "School could close for other reasons (holidays, repairs). Children might still play outside."
+  },
+  {
+    "id": "TLR811_3_15",
+    "question": "Today is November 30th. What date is it in 3 days?",
+    "hint": "November has 30 days, so what comes after November 30th?",
+    "options": [
+      "November 33rd",
+      "December 1st",
+      "December 2nd",
+      "December 3rd"
+    ],
+    "explanation": "November has 30 days. Nov 30 + 1 = Dec 1, + 2 = Dec 2, + 3 = Dec 3."
+  },
+  {
+    "id": "TLR811_3_16",
+    "question": "X is bigger than Y. Y is bigger than Z. Z is bigger than W. W is bigger than V. Which is the biggest?",
+    "hint": "Who is at the top of the chain?",
+    "options": [
+      "V",
+      "W",
+      "Y",
+      "X"
+    ],
+    "explanation": "X > Y > Z > W > V. X is the biggest."
+  },
+  {
+    "id": "TLR811_3_17",
+    "question": "All fish can swim. Something cannot swim. Is it a fish?",
+    "hint": "If all fish swim, and this thing cannot swim...",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Only small fish"
+    ],
+    "explanation": "All fish can swim. If it cannot swim, it is not a fish."
+  },
+  {
+    "id": "TLR811_3_18",
+    "question": "Today is Tuesday. What day will it be in 25 days?",
+    "hint": "25 ÷ 7 = 3 weeks and 4 extra days.",
+    "options": [
+      "Friday",
+      "Saturday",
+      "Sunday",
+      "Monday"
+    ],
+    "explanation": "25 = 3 weeks + 4 days. Tuesday + 4 days = Saturday."
+  },
+  {
+    "id": "TLR811_3_19",
+    "question": "If A is true, B must be true. If B is true, C must be true. C is NOT true. Is A true?",
+    "hint": "Work backwards: if C is false, what about B? And then A?",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "We cannot tell"
+    ],
+    "explanation": "If A → B → C. C is false, so B is false, so A is false."
+  },
+  {
+    "id": "TLR811_3_20",
+    "question": "Every cat is furry. Every furry thing is soft. Every soft thing is nice to hug. Whiskers is a cat. Is Whiskers nice to hug?",
+    "hint": "Follow the chain: cat → furry → soft → nice to hug.",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Only kittens"
+    ],
+    "explanation": "Cat → furry → soft → nice to hug. Whiskers is a cat, so Whiskers is nice to hug."
+  },
+  {
+    "id": "TSR811_1_01",
+    "question": "How many faces does a cube have?",
+    "hint": "Think of a dice — count the flat sides.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "explanation": "A cube has 6 flat faces."
+  },
+  {
+    "id": "TSR811_1_02",
+    "question": "How many edges does a cube have?",
+    "hint": "An edge is where two faces meet. Count all the lines.",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "explanation": "A cube has 12 edges."
+  },
+  {
+    "id": "TSR811_1_03",
+    "question": "How many vertices (corners) does a cube have?",
+    "hint": "A vertex is a point where edges meet.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "explanation": "A cube has 8 vertices (corners)."
+  },
+  {
+    "id": "TSR811_1_04",
+    "question": "What shape is each face of a cube?",
+    "hint": "All faces of a cube are the same shape.",
+    "options": [
+      "Triangle",
+      "Rectangle",
+      "Square",
+      "Circle"
+    ],
+    "explanation": "Each face of a cube is a square."
+  },
+  {
+    "id": "TSR811_1_05",
+    "question": "How many faces does a rectangular box (cuboid) have?",
+    "hint": "Think of a shoebox. Count the flat sides.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "explanation": "A cuboid (rectangular box) has 6 faces."
+  },
+  {
+    "id": "TSR811_1_06",
+    "question": "How many flat faces does a sphere have?",
+    "hint": "A sphere is like a ball.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "explanation": "A sphere has 0 flat faces. It is entirely curved."
+  },
+  {
+    "id": "TSR811_1_07",
+    "question": "How many flat faces does a cylinder have?",
+    "hint": "Think of a tin can. What flat parts does it have?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "A cylinder has 2 flat faces (the top circle and the bottom circle)."
+  },
+  {
+    "id": "TSR811_1_08",
+    "question": "Which 3D shape has 6 square faces that are all the same size?",
+    "hint": "All faces are identical squares.",
+    "options": [
+      "Cuboid",
+      "Cube",
+      "Prism",
+      "Pyramid"
+    ],
+    "explanation": "A cube has 6 identical square faces."
+  },
+  {
+    "id": "TSR811_1_09",
+    "question": "How many flat faces does a cone have?",
+    "hint": "Think of an ice cream cone. It has one flat base.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "A cone has 1 flat face (its circular base)."
+  },
+  {
+    "id": "TSR811_1_10",
+    "question": "How many edges does a triangular pyramid (tetrahedron) have?",
+    "hint": "It has 4 triangular faces. Count where those triangles meet.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "explanation": "A triangular pyramid (tetrahedron) has 6 edges."
+  },
+  {
+    "id": "TSR811_1_11",
+    "question": "If you look at a cube from directly in front, what shape do you see?",
+    "hint": "You see one face of the cube head-on.",
+    "options": [
+      "Triangle",
+      "Circle",
+      "Square",
+      "Rectangle"
+    ],
+    "explanation": "Looking directly at one face of a cube, you see a square."
+  },
+  {
+    "id": "TSR811_1_12",
+    "question": "How many faces does a triangular prism have?",
+    "hint": "Think of a Toblerone box — 2 triangles and some rectangles.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "A triangular prism has 5 faces: 2 triangles and 3 rectangles."
+  },
+  {
+    "id": "TSR811_1_13",
+    "question": "How many vertices does a triangular pyramid (tetrahedron) have?",
+    "hint": "Count the pointy corners.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "A triangular pyramid has 4 vertices."
+  },
+  {
+    "id": "TSR811_1_14",
+    "question": "What shape is the base of a cone?",
+    "hint": "The flat bottom of a cone is...",
+    "options": [
+      "Square",
+      "Triangle",
+      "Circle",
+      "Oval"
+    ],
+    "explanation": "The base of a cone is a circle."
+  },
+  {
+    "id": "TSR811_1_15",
+    "question": "How many edges does a cuboid have?",
+    "hint": "A cuboid is like a cube but with rectangular faces. Count the lines.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "explanation": "A cuboid has 12 edges, same as a cube."
+  },
+  {
+    "id": "TSR811_1_16",
+    "question": "How many faces does a square-based pyramid have?",
+    "hint": "It has a square base and triangular sides.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "explanation": "A square-based pyramid has 5 faces: 1 square base and 4 triangles."
+  },
+  {
+    "id": "TSR811_1_17",
+    "question": "If you stack 2 cubes on top of each other, the combined shape most looks like a...",
+    "hint": "Two cubes stacked make a taller shape.",
+    "options": [
+      "Cube",
+      "Sphere",
+      "Cuboid",
+      "Cylinder"
+    ],
+    "explanation": "Two cubes stacked form a cuboid (rectangular box)."
+  },
+  {
+    "id": "TSR811_1_18",
+    "question": "How many vertices does a cuboid have?",
+    "hint": "Count all the corners of a rectangular box.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "explanation": "A cuboid has 8 vertices, same as a cube."
+  },
+  {
+    "id": "TSR811_1_19",
+    "question": "How many curved surfaces does a sphere have?",
+    "hint": "A sphere is perfectly round all over.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "explanation": "A sphere has 1 curved surface."
+  },
+  {
+    "id": "TSR811_1_20",
+    "question": "How many faces does a hexagonal prism have?",
+    "hint": "It has 2 hexagonal ends and rectangular sides. A hexagon has 6 sides.",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "10"
+    ],
+    "explanation": "A hexagonal prism has 8 faces: 2 hexagons + 6 rectangles."
+  },
+  {
+    "id": "TSR811_2_01",
+    "question": "If you cut a cube exactly in half, parallel to one of its faces, what shape is the cross-section?",
+    "hint": "You are slicing straight across, like slicing bread.",
+    "options": [
+      "Triangle",
+      "Circle",
+      "Square",
+      "Rectangle"
+    ],
+    "explanation": "Cutting a cube parallel to a face gives a square cross-section."
+  },
+  {
+    "id": "TSR811_2_02",
+    "question": "8 small cubes are arranged in a 2×2×2 cube. How many small cubes are completely hidden (no face showing at all)?",
+    "hint": "In a 2×2×2 arrangement, every cube is on the outside.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "explanation": "In a 2×2×2 cube, every small cube is a corner cube with faces showing. None are hidden."
+  },
+  {
+    "id": "TSR811_2_03",
+    "question": "How many edges does a triangular prism have?",
+    "hint": "3 edges on top triangle + 3 on bottom + 3 connecting them.",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "12"
+    ],
+    "explanation": "A triangular prism has 9 edges: 3 + 3 + 3."
+  },
+  {
+    "id": "TSR811_2_04",
+    "question": "You line up 3 cubes in a row, touching face to face. How many small cube faces are hidden (touching another cube)?",
+    "hint": "Where cubes touch, 2 faces are hidden at each join.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "explanation": "There are 2 joins. Each join hides 2 faces. Total hidden faces: 2 × 2 = 4."
+  },
+  {
+    "id": "TSR811_2_05",
+    "question": "How many edges does a square-based pyramid have?",
+    "hint": "4 edges around the base + 4 going up to the top point.",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "10"
+    ],
+    "explanation": "A square-based pyramid has 8 edges: 4 base + 4 lateral."
+  },
+  {
+    "id": "TSR811_2_06",
+    "question": "If you cut a cylinder across the middle (perpendicular to its height), what shape is the cross-section?",
+    "hint": "You are slicing it like cutting a log straight across.",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Circle",
+      "Oval"
+    ],
+    "explanation": "Cutting a cylinder straight across gives a circle."
+  },
+  {
+    "id": "TSR811_2_07",
+    "question": "27 small cubes make a 3×3×3 cube. How many small cubes have at least one face showing on the outside?",
+    "hint": "Only the cube in the very centre is fully hidden.",
+    "options": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "explanation": "Only 1 cube (the centre) is hidden. 27 − 1 = 26 cubes have at least one face showing."
+  },
+  {
+    "id": "TSR811_2_08",
+    "question": "How many faces does a pentagonal prism have?",
+    "hint": "2 pentagon ends + rectangular sides. A pentagon has 5 sides.",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation": "A pentagonal prism has 7 faces: 2 pentagons + 5 rectangles."
+  },
+  {
+    "id": "TSR811_2_09",
+    "question": "How many vertices does a square-based pyramid have?",
+    "hint": "4 corners on the base + 1 point at the top.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "explanation": "A square-based pyramid has 5 vertices: 4 at the base + 1 apex."
+  },
+  {
+    "id": "TSR811_2_10",
+    "question": "4 cubes are arranged in a 2×2 flat square (one layer). How many faces are visible on the top?",
+    "hint": "Each cube shows 1 face on top.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "explanation": "Each of the 4 cubes shows 1 top face. Total = 4 top faces."
+  },
+  {
+    "id": "TSR811_2_11",
+    "question": "How many faces does a hexagonal pyramid have?",
+    "hint": "1 hexagonal base + triangular sides. A hexagon has 6 sides.",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "explanation": "A hexagonal pyramid has 7 faces: 1 hexagon + 6 triangles."
+  },
+  {
+    "id": "TSR811_2_12",
+    "question": "If you slice a cube from one edge straight across to the opposite edge (diagonally through the middle), the cross-section is a...",
+    "hint": "The cut goes diagonally but stays flat.",
+    "options": [
+      "Triangle",
+      "Square",
+      "Rectangle",
+      "Circle"
+    ],
+    "explanation": "Slicing from one edge to the opposite edge gives a rectangular cross-section."
+  },
+  {
+    "id": "TSR811_2_13",
+    "question": "How many faces does a triangular pyramid (tetrahedron) have?",
+    "hint": "All of its faces are triangles.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "A triangular pyramid has 4 triangular faces."
+  },
+  {
+    "id": "TSR811_2_14",
+    "question": "8 cubes are arranged in a 2×2×2 cube. How many small cube faces are visible from the outside of the big cube?",
+    "hint": "The big cube has 6 faces, each made of 4 small faces.",
+    "options": [
+      "16",
+      "20",
+      "24",
+      "32"
+    ],
+    "explanation": "6 big faces × 4 small faces each = 24 visible small faces."
+  },
+  {
+    "id": "TSR811_2_15",
+    "question": "How many vertices does a pentagonal pyramid have?",
+    "hint": "5 corners on the base + 1 point at the top.",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "10"
+    ],
+    "explanation": "A pentagonal pyramid has 6 vertices: 5 base + 1 apex."
+  },
+  {
+    "id": "TSR811_2_16",
+    "question": "How many edges does a hexagonal prism have?",
+    "hint": "6 on top + 6 on bottom + 6 connecting them.",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "explanation": "A hexagonal prism has 18 edges: 6 + 6 + 6."
+  },
+  {
+    "id": "TSR811_2_17",
+    "question": "You remove one corner cube from a 2×2×2 arrangement. How many small cubes remain?",
+    "hint": "Start with 8 small cubes and take 1 away.",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "explanation": "8 − 1 = 7 cubes remain."
+  },
+  {
+    "id": "TSR811_2_18",
+    "question": "How many vertices does a triangular prism have?",
+    "hint": "3 corners on each triangular end.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "explanation": "A triangular prism has 6 vertices: 3 on each triangle."
+  },
+  {
+    "id": "TSR811_2_19",
+    "question": "If you paint all faces of a 2×2×2 cube and take it apart, how many small cubes have exactly 3 painted faces?",
+    "hint": "In a 2×2×2 cube, every small cube is in a corner.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "0"
+    ],
+    "explanation": "All 8 cubes in a 2×2×2 are corner cubes, so all 8 have exactly 3 painted faces."
+  },
+  {
+    "id": "TSR811_2_20",
+    "question": "How many faces does an octagonal prism have?",
+    "hint": "2 octagon ends + rectangular sides. An octagon has 8 sides.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "16"
+    ],
+    "explanation": "An octagonal prism has 10 faces: 2 octagons + 8 rectangles."
+  },
+  {
+    "id": "TSR811_3_01",
+    "question": "A cube's net (unfolded flat version) is made of how many squares?",
+    "hint": "Each face of the cube becomes one square in the net.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "explanation": "A cube has 6 faces, so its net has 6 squares."
+  },
+  {
+    "id": "TSR811_3_02",
+    "question": "In a 3×3×3 cube made of 27 small cubes, how many small cubes are completely hidden (no face showing)?",
+    "hint": "Only the very centre cube has no face on the outside.",
+    "options": [
+      "0",
+      "1",
+      "4",
+      "8"
+    ],
+    "explanation": "Only the 1 cube in the exact centre is completely hidden."
+  },
+  {
+    "id": "TSR811_3_03",
+    "question": "When you fold a cross-shaped net (like a plus sign made of 6 squares), what 3D shape do you get?",
+    "hint": "The cross-shaped net is one of the most common nets for a very familiar shape.",
+    "options": [
+      "Pyramid",
+      "Cuboid",
+      "Cube",
+      "Prism"
+    ],
+    "explanation": "A cross-shaped net of 6 squares folds into a cube."
+  },
+  {
+    "id": "TSR811_3_04",
+    "question": "In a 3×3×3 cube, how many small cubes have exactly 3 faces showing?",
+    "hint": "Corner cubes have 3 faces showing. How many corners does a cube have?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "explanation": "A cube has 8 corners. Each corner cube has exactly 3 faces showing."
+  },
+  {
+    "id": "TSR811_3_05",
+    "question": "If you glue 2 cubes together on one face, how many total faces does the new shape have?",
+    "hint": "Each cube has 6 faces, but 2 faces are hidden where they are glued.",
+    "options": [
+      "8",
+      "10",
+      "11",
+      "12"
+    ],
+    "explanation": "6 + 6 = 12 total faces. Subtract 2 hidden faces: 12 − 2 = 10."
+  },
+  {
+    "id": "TSR811_3_06",
+    "question": "In a 3×3×3 cube, how many small cubes have exactly 2 faces showing?",
+    "hint": "Edge cubes (not corners) have 2 faces showing. How many edges does a cube have?",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "24"
+    ],
+    "explanation": "A cube has 12 edges. Each edge has 1 non-corner cube. 12 × 1 = 12 cubes with 2 faces."
+  },
+  {
+    "id": "TSR811_3_07",
+    "question": "If you cut a cube with one straight cut, what is the maximum number of pieces you get?",
+    "hint": "One cut can only split something into 2 parts.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "explanation": "One straight cut through any shape makes at most 2 pieces."
+  },
+  {
+    "id": "TSR811_3_08",
+    "question": "In a 3×3×3 cube, how many small cubes have exactly 1 face showing?",
+    "hint": "Centre-of-face cubes have 1 face showing. A cube has 6 faces.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "explanation": "Each of the 6 faces has 1 centre cube. 6 × 1 = 6 cubes with exactly 1 face."
+  },
+  {
+    "id": "TSR811_3_09",
+    "question": "A net for a square-based pyramid is made of how many shapes?",
+    "hint": "Count the base and the triangular sides.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "explanation": "The net has 5 shapes: 1 square (base) + 4 triangles (sides)."
+  },
+  {
+    "id": "TSR811_3_10",
+    "question": "If you glue 3 cubes in a row (face-to-face), how many faces does the new shape have?",
+    "hint": "3 cubes = 18 total faces. There are 2 joins, each hiding 2 faces.",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "explanation": "3 × 6 = 18 faces. 2 joins × 2 hidden faces = 4 hidden. 18 − 4 = 14."
+  },
+  {
+    "id": "TSR811_3_11",
+    "question": "In a 4×4×4 cube (64 small cubes), how many small cubes are on the very outside?",
+    "hint": "Total cubes minus the hidden interior cubes. The interior is 2×2×2.",
+    "options": [
+      "48",
+      "52",
+      "56",
+      "60"
+    ],
+    "explanation": "Interior = 2×2×2 = 8 cubes. Outside = 64 − 8 = 56."
+  },
+  {
+    "id": "TSR811_3_12",
+    "question": "If you paint a 3×3×3 cube and take it apart, how many small cubes have NO paint at all?",
+    "hint": "Only the cube in the very centre has no painted face.",
+    "options": [
+      "0",
+      "1",
+      "4",
+      "8"
+    ],
+    "explanation": "Only the 1 centre cube is not touching the outside, so it has no paint."
+  },
+  {
+    "id": "TSR811_3_13",
+    "question": "A net for a triangular prism has how many shapes?",
+    "hint": "2 triangular ends + rectangular sides.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "The net has 5 shapes: 2 triangles + 3 rectangles."
+  },
+  {
+    "id": "TSR811_3_14",
+    "question": "If you paint a 2×2×2 cube and break it into 8 small cubes, how many have exactly 3 painted faces?",
+    "hint": "Every cube in a 2×2×2 is a corner cube.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "explanation": "All 8 are corner cubes, so all 8 have exactly 3 painted faces."
+  },
+  {
+    "id": "TSR811_3_15",
+    "question": "Looking at a cube from one corner, at most how many faces can you see at the same time?",
+    "hint": "Looking at a corner, you can see the faces that meet at that corner.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "From one corner of a cube you can see at most 3 faces."
+  },
+  {
+    "id": "TSR811_3_16",
+    "question": "In a 3×3×3 cube, the total number of small cube faces visible from the outside is...?",
+    "hint": "The big cube has 6 faces, each made up of 9 small faces.",
+    "options": [
+      "36",
+      "48",
+      "54",
+      "27"
+    ],
+    "explanation": "6 large faces × 9 small faces each = 54 visible small faces."
+  },
+  {
+    "id": "TSR811_3_17",
+    "question": "If you glue 2 cubes side by side and then put a third cube on top of one of them (L-shape), how many faces does the shape have?",
+    "hint": "Start: 2 cubes glued = 10 faces. Adding a third on top hides 2 more faces.",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "explanation": "2 cubes glued = 10 faces. Adding the 3rd cube: 10 + 6 − 2 = 14 faces."
+  },
+  {
+    "id": "TSR811_3_18",
+    "question": "How many small cubes are needed to build a 4×4×4 cube?",
+    "hint": "Multiply 4 × 4 × 4.",
+    "options": [
+      "16",
+      "32",
+      "48",
+      "64"
+    ],
+    "explanation": "4 × 4 × 4 = 64 small cubes."
+  },
+  {
+    "id": "TSR811_3_19",
+    "question": "In a 3×3×3 cube, how many small cubes share a face with the centre cube?",
+    "hint": "The centre cube is touched by cubes above, below, left, right, front, and back.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "explanation": "The centre cube is touched on 6 sides: up, down, left, right, front, back."
+  },
+  {
+    "id": "TSR811_3_20",
+    "question": "If you glue 6 cubes together in a 2×3×1 flat rectangle, how many faces does the shape have?",
+    "hint": "6 cubes = 36 faces. Count the internal joins that hide faces.",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "explanation": "6 × 6 = 36 faces. There are 7 internal joins (4 horizontal + 3 vertical), each hiding 2 faces: 36 − 14 = 22."
+  },
+  {
+    "id": "TMP811_1_01",
+    "question": "A farmer has 25 sheep. All but 9 run away. How many sheep are left?",
+    "hint": "'All but 9' means 9 did NOT run away.",
+    "options": [
+      "16",
+      "9",
+      "25",
+      "0"
+    ],
+    "explanation": "'All but 9 run away' means 9 stay. The answer is 9."
+  },
+  {
+    "id": "TMP811_1_02",
+    "question": "3 friends share 12 cookies equally. How many does each friend get?",
+    "hint": "Divide 12 by 3.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "12 ÷ 3 = 4 cookies each."
+  },
+  {
+    "id": "TMP811_1_03",
+    "question": "A shop sells apples for £2 each. How much do 5 apples cost?",
+    "hint": "Multiply the price by the number of apples.",
+    "options": [
+      "£7",
+      "£8",
+      "£10",
+      "£12"
+    ],
+    "explanation": "5 × £2 = £10."
+  },
+  {
+    "id": "TMP811_1_04",
+    "question": "How many months of the year have 28 days?",
+    "hint": "Think carefully — do only some months reach 28 days?",
+    "options": [
+      "1",
+      "6",
+      "12",
+      "2"
+    ],
+    "explanation": "All 12 months have at least 28 days!"
+  },
+  {
+    "id": "TMP811_1_05",
+    "question": "A book has 6 chapters with 10 pages each. How many pages in total?",
+    "hint": "Multiply chapters by pages per chapter.",
+    "options": [
+      "16",
+      "50",
+      "60",
+      "66"
+    ],
+    "explanation": "6 × 10 = 60 pages."
+  },
+  {
+    "id": "TMP811_1_06",
+    "question": "You have 3 boxes with 4 balls in each. How many balls in total?",
+    "hint": "Multiply boxes by balls per box.",
+    "options": [
+      "7",
+      "9",
+      "12",
+      "15"
+    ],
+    "explanation": "3 × 4 = 12 balls."
+  },
+  {
+    "id": "TMP811_1_07",
+    "question": "In a race, you overtake the person in 2nd place. What place are you now in?",
+    "hint": "If you pass the person in 2nd, you take their position.",
+    "options": [
+      "1st",
+      "2nd",
+      "3rd",
+      "4th"
+    ],
+    "explanation": "You take 2nd place. You passed the 2nd-place runner, not the 1st."
+  },
+  {
+    "id": "TMP811_1_08",
+    "question": "A baker makes 5 cakes per hour. How many cakes in 4 hours?",
+    "hint": "Multiply cakes per hour by hours.",
+    "options": [
+      "9",
+      "15",
+      "20",
+      "25"
+    ],
+    "explanation": "5 × 4 = 20 cakes."
+  },
+  {
+    "id": "TMP811_1_09",
+    "question": "Tom has 8 toys. He gets 3 more for his birthday. How many does he have now?",
+    "hint": "Add the new toys to what he had.",
+    "options": [
+      "5",
+      "10",
+      "11",
+      "12"
+    ],
+    "explanation": "8 + 3 = 11 toys."
+  },
+  {
+    "id": "TMP811_1_10",
+    "question": "Which weighs more: 1 kg of feathers or 1 kg of rocks?",
+    "hint": "Look at the weight — both are 1 kg.",
+    "options": [
+      "Feathers",
+      "Rocks",
+      "They weigh the same",
+      "It depends"
+    ],
+    "explanation": "Both weigh 1 kg, so they weigh the same!"
+  },
+  {
+    "id": "TMP811_1_11",
+    "question": "A spider has 8 legs. How many legs do 3 spiders have?",
+    "hint": "Multiply legs per spider by number of spiders.",
+    "options": [
+      "16",
+      "20",
+      "24",
+      "28"
+    ],
+    "explanation": "3 × 8 = 24 legs."
+  },
+  {
+    "id": "TMP811_1_12",
+    "question": "You have 20 sweets and eat 3 each day. After 4 days, how many are left?",
+    "hint": "Work out how many you ate in total first.",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "12"
+    ],
+    "explanation": "4 × 3 = 12 eaten. 20 − 12 = 8 left."
+  },
+  {
+    "id": "TMP811_1_13",
+    "question": "How many sides does a circle have?",
+    "hint": "A side is a straight edge. Does a circle have any straight edges?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "explanation": "A circle has 0 straight sides."
+  },
+  {
+    "id": "TMP811_1_14",
+    "question": "A car has 4 wheels. How many wheels do 5 cars have?",
+    "hint": "Multiply wheels per car by number of cars.",
+    "options": [
+      "9",
+      "15",
+      "16",
+      "20"
+    ],
+    "explanation": "5 × 4 = 20 wheels."
+  },
+  {
+    "id": "TMP811_1_15",
+    "question": "A dozen eggs is 12. How many eggs is half a dozen?",
+    "hint": "Half of 12 is...",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "explanation": "Half a dozen = 12 ÷ 2 = 6."
+  },
+  {
+    "id": "TMP811_1_16",
+    "question": "If today is your 9th birthday, how many birthdays have you had?",
+    "hint": "Your 1st birthday was when you turned 1, your 9th is now.",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "1"
+    ],
+    "explanation": "Your 9th birthday means you have had 9 birthdays."
+  },
+  {
+    "id": "TMP811_1_17",
+    "question": "There are 7 days in a week. How many days are in 3 weeks?",
+    "hint": "Multiply days per week by weeks.",
+    "options": [
+      "10",
+      "14",
+      "21",
+      "28"
+    ],
+    "explanation": "3 × 7 = 21 days."
+  },
+  {
+    "id": "TMP811_1_18",
+    "question": "You have £5.00 and spend £1.50. How much do you have left?",
+    "hint": "Subtract what you spent.",
+    "options": [
+      "£2.50",
+      "£3.00",
+      "£3.50",
+      "£4.00"
+    ],
+    "explanation": "£5.00 − £1.50 = £3.50."
+  },
+  {
+    "id": "TMP811_1_19",
+    "question": "4 friends each have 6 marbles. How many marbles in total?",
+    "hint": "Multiply friends by marbles each.",
+    "options": [
+      "10",
+      "18",
+      "20",
+      "24"
+    ],
+    "explanation": "4 × 6 = 24 marbles."
+  },
+  {
+    "id": "TMP811_1_20",
+    "question": "How many minutes are in half an hour?",
+    "hint": "An hour is 60 minutes.",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "45"
+    ],
+    "explanation": "Half of 60 minutes = 30 minutes."
+  },
+  {
+    "id": "TMP811_2_01",
+    "question": "A snail moves 3 cm per minute. How far does it go in 10 minutes?",
+    "hint": "Multiply speed by time.",
+    "options": [
+      "13 cm",
+      "30 cm",
+      "33 cm",
+      "300 cm"
+    ],
+    "explanation": "3 × 10 = 30 cm."
+  },
+  {
+    "id": "TMP811_2_02",
+    "question": "In a magic square, every row adds to 15. The top row is: 2, ?, 6. What is the missing number?",
+    "hint": "2 + ? + 6 = 15.",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation": "2 + ? + 6 = 15. So ? = 15 − 2 − 6 = 7."
+  },
+  {
+    "id": "TMP811_2_03",
+    "question": "24 sweets are shared equally among 6 children. How many does each child get?",
+    "hint": "Divide sweets by children.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "24 ÷ 6 = 4 sweets each."
+  },
+  {
+    "id": "TMP811_2_04",
+    "question": "A tap fills a bucket in 10 minutes. How many buckets can it fill in 1 hour?",
+    "hint": "1 hour = 60 minutes.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "10"
+    ],
+    "explanation": "60 ÷ 10 = 6 buckets."
+  },
+  {
+    "id": "TMP811_2_05",
+    "question": "In a magic square (total 15), a row is: 6, 5, ?. What is the missing number?",
+    "hint": "6 + 5 + ? = 15.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "6 + 5 + ? = 15. So ? = 15 − 6 − 5 = 4."
+  },
+  {
+    "id": "TMP811_2_06",
+    "question": "A bike travels 12 km per hour. How far does it go in 3 hours?",
+    "hint": "Multiply speed by time.",
+    "options": [
+      "15 km",
+      "24 km",
+      "36 km",
+      "48 km"
+    ],
+    "explanation": "12 × 3 = 36 km."
+  },
+  {
+    "id": "TMP811_2_07",
+    "question": "3 friends find £30. They share it equally. How much does each get?",
+    "hint": "Divide £30 by 3.",
+    "options": [
+      "£5",
+      "£10",
+      "£12",
+      "£15"
+    ],
+    "explanation": "£30 ÷ 3 = £10 each."
+  },
+  {
+    "id": "TMP811_2_08",
+    "question": "A factory makes 50 toys per day. How many toys in 5 days?",
+    "hint": "Multiply toys per day by days.",
+    "options": [
+      "55",
+      "100",
+      "200",
+      "250"
+    ],
+    "explanation": "50 × 5 = 250 toys."
+  },
+  {
+    "id": "TMP811_2_09",
+    "question": "In a magic square (total 15), a row is: 8, 3, ?. What is the missing number?",
+    "hint": "8 + 3 + ? = 15.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "8 + 3 + ? = 15. So ? = 15 − 8 − 3 = 4."
+  },
+  {
+    "id": "TMP811_2_10",
+    "question": "You buy 3 items at £4.50 each. How much do you spend in total?",
+    "hint": "Multiply price by quantity.",
+    "options": [
+      "£12.00",
+      "£13.50",
+      "£14.50",
+      "£15.00"
+    ],
+    "explanation": "3 × £4.50 = £13.50."
+  },
+  {
+    "id": "TMP811_2_11",
+    "question": "A train travels 60 km per hour. How far does it go in 2 hours?",
+    "hint": "Multiply speed by time.",
+    "options": [
+      "62 km",
+      "90 km",
+      "100 km",
+      "120 km"
+    ],
+    "explanation": "60 × 2 = 120 km."
+  },
+  {
+    "id": "TMP811_2_12",
+    "question": "36 apples are packed into boxes of 9. How many boxes are needed?",
+    "hint": "Divide 36 by 9.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "36 ÷ 9 = 4 boxes."
+  },
+  {
+    "id": "TMP811_2_13",
+    "question": "In a magic square (total 15), a row is: 8, 1, ?. What is the missing number?",
+    "hint": "8 + 1 + ? = 15.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "explanation": "8 + 1 + ? = 15. So ? = 15 − 8 − 1 = 6."
+  },
+  {
+    "id": "TMP811_2_14",
+    "question": "You have £20. Books cost £3.50 each. How many books can you buy?",
+    "hint": "Keep subtracting £3.50 until you can't any more.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "explanation": "5 × £3.50 = £17.50 (enough). 6 × £3.50 = £21.00 (too much). You can buy 5."
+  },
+  {
+    "id": "TMP811_2_15",
+    "question": "A garden hose fills 2 litres per minute. How many litres in 15 minutes?",
+    "hint": "Multiply rate by time.",
+    "options": [
+      "17",
+      "25",
+      "30",
+      "32"
+    ],
+    "explanation": "2 × 15 = 30 litres."
+  },
+  {
+    "id": "TMP811_2_16",
+    "question": "5 children share 35 stickers equally. How many does each get?",
+    "hint": "Divide 35 by 5.",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation": "35 ÷ 5 = 7 stickers each."
+  },
+  {
+    "id": "TMP811_2_17",
+    "question": "In a magic square (total 15), a row is: 4, 9, ?. What is the missing number?",
+    "hint": "4 + 9 + ? = 15.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "4 + 9 + ? = 15. So ? = 15 − 4 − 9 = 2."
+  },
+  {
+    "id": "TMP811_2_18",
+    "question": "You save £5 per week. How many weeks to save £40?",
+    "hint": "Divide £40 by £5.",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "explanation": "£40 ÷ £5 = 8 weeks."
+  },
+  {
+    "id": "TMP811_2_19",
+    "question": "A printer prints 10 pages per minute. How long to print 80 pages?",
+    "hint": "Divide pages by pages per minute.",
+    "options": [
+      "6 minutes",
+      "7 minutes",
+      "8 minutes",
+      "10 minutes"
+    ],
+    "explanation": "80 ÷ 10 = 8 minutes."
+  },
+  {
+    "id": "TMP811_2_20",
+    "question": "48 students are split into teams of 8. How many teams are there?",
+    "hint": "Divide 48 by 8.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "explanation": "48 ÷ 8 = 6 teams."
+  },
+  {
+    "id": "TMP811_3_01",
+    "question": "A shop sells pencils for 50p and pens for £1.20. You buy 3 pencils and 2 pens. How much do you spend?",
+    "hint": "Work out each cost separately, then add.",
+    "options": [
+      "£3.50",
+      "£3.90",
+      "£4.10",
+      "£4.50"
+    ],
+    "explanation": "3 × 50p = £1.50. 2 × £1.20 = £2.40. Total: £1.50 + £2.40 = £3.90."
+  },
+  {
+    "id": "TMP811_3_02",
+    "question": "A spider has 8 legs and a dog has 4 legs. In a room there are 3 spiders and 2 dogs. How many legs in total?",
+    "hint": "Calculate spider legs and dog legs separately.",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "explanation": "3 × 8 = 24 spider legs. 2 × 4 = 8 dog legs. 24 + 8 = 32 legs."
+  },
+  {
+    "id": "TMP811_3_03",
+    "question": "A clock shows 3:45. What time will it be in 2 hours and 30 minutes?",
+    "hint": "Add the hours first, then the minutes.",
+    "options": [
+      "5:15",
+      "5:45",
+      "6:15",
+      "6:45"
+    ],
+    "explanation": "3:45 + 2 hours = 5:45. 5:45 + 30 minutes = 6:15."
+  },
+  {
+    "id": "TMP811_3_04",
+    "question": "You have 3 coins: 50p, 20p, and 10p. How many different totals can you make using one or more coins?",
+    "hint": "List all combinations: single coins, pairs, and all three.",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation": "Singles: 50, 20, 10. Pairs: 70, 60, 30. All three: 80. That is 7 totals."
+  },
+  {
+    "id": "TMP811_3_05",
+    "question": "A recipe needs 250 g of flour for 4 people. How much flour is needed for 12 people?",
+    "hint": "12 is 3 times 4.",
+    "options": [
+      "500 g",
+      "625 g",
+      "750 g",
+      "1000 g"
+    ],
+    "explanation": "12 ÷ 4 = 3 times as many. 250 × 3 = 750 g."
+  },
+  {
+    "id": "TMP811_3_06",
+    "question": "A train leaves at 9:15 and arrives at 11:45. How long is the journey?",
+    "hint": "Count the hours and minutes.",
+    "options": [
+      "2 hours",
+      "2 hours 15 minutes",
+      "2 hours 30 minutes",
+      "3 hours"
+    ],
+    "explanation": "9:15 to 11:15 = 2 hours. 11:15 to 11:45 = 30 minutes. Total: 2 hours 30 minutes."
+  },
+  {
+    "id": "TMP811_3_07",
+    "question": "You buy items costing £2.50, £3.75, £1.25, and £4.50. How much change do you get from £20?",
+    "hint": "Add all prices, then subtract from £20.",
+    "options": [
+      "£6.00",
+      "£7.00",
+      "£8.00",
+      "£9.00"
+    ],
+    "explanation": "£2.50 + £3.75 + £1.25 + £4.50 = £12.00. Change: £20 − £12 = £8.00."
+  },
+  {
+    "id": "TMP811_3_08",
+    "question": "A room has chairs (4 legs each) and stools (3 legs each). There are 5 chairs and some stools. The total number of legs is 29. How many stools?",
+    "hint": "Work out the chair legs first, then find the stools.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation": "5 chairs × 4 = 20 legs. 29 − 20 = 9 remaining legs. 9 ÷ 3 = 3 stools."
+  },
+  {
+    "id": "TMP811_3_09",
+    "question": "It takes 5 minutes to saw a log into 2 pieces. How long does it take to saw it into 4 pieces?",
+    "hint": "To get 4 pieces you need 3 cuts, not 4.",
+    "options": [
+      "10 minutes",
+      "15 minutes",
+      "20 minutes",
+      "25 minutes"
+    ],
+    "explanation": "4 pieces need 3 cuts. 3 × 5 = 15 minutes."
+  },
+  {
+    "id": "TMP811_3_10",
+    "question": "A bus carries 45 passengers. 3 buses are needed for a school trip. What is the maximum number of students that can go?",
+    "hint": "Multiply passengers per bus by number of buses.",
+    "options": [
+      "90",
+      "120",
+      "135",
+      "150"
+    ],
+    "explanation": "3 × 45 = 135 students maximum."
+  },
+  {
+    "id": "TMP811_3_11",
+    "question": "You start with £100. You spend a quarter of it, then spend a third of what is left. How much do you have?",
+    "hint": "A quarter of 100 = 25. Then find a third of 75.",
+    "options": [
+      "£40",
+      "£45",
+      "£50",
+      "£55"
+    ],
+    "explanation": "Quarter of £100 = £25 spent, leaving £75. Third of £75 = £25 spent. £75 − £25 = £50."
+  },
+  {
+    "id": "TMP811_3_12",
+    "question": "A meeting starts at 2:50 PM and lasts 1 hour 25 minutes. What time does it end?",
+    "hint": "Add 1 hour, then 25 minutes.",
+    "options": [
+      "3:55 PM",
+      "4:05 PM",
+      "4:15 PM",
+      "4:25 PM"
+    ],
+    "explanation": "2:50 + 1 hour = 3:50. 3:50 + 25 minutes = 4:15 PM."
+  },
+  {
+    "id": "TMP811_3_13",
+    "question": "In a class, there are twice as many girls as boys. There are 12 boys. How many children in total?",
+    "hint": "Girls = 2 × boys.",
+    "options": [
+      "24",
+      "30",
+      "36",
+      "48"
+    ],
+    "explanation": "Girls = 2 × 12 = 24. Total = 12 + 24 = 36 children."
+  },
+  {
+    "id": "TMP811_3_14",
+    "question": "You need to fence a square garden with sides of 8 metres. Fencing costs £5 per metre. What is the total cost?",
+    "hint": "Find the perimeter first, then multiply by cost per metre.",
+    "options": [
+      "£120",
+      "£140",
+      "£160",
+      "£200"
+    ],
+    "explanation": "Perimeter = 4 × 8 = 32 metres. Cost = 32 × £5 = £160."
+  },
+  {
+    "id": "TMP811_3_15",
+    "question": "A film starts at 7:40 PM and is 1 hour 50 minutes long. What time does it end?",
+    "hint": "Add 1 hour to get 8:40, then add 50 minutes.",
+    "options": [
+      "9:10 PM",
+      "9:20 PM",
+      "9:30 PM",
+      "9:40 PM"
+    ],
+    "explanation": "7:40 + 1 hour = 8:40. 8:40 + 50 minutes = 9:30 PM."
+  },
+  {
+    "id": "TMP811_3_16",
+    "question": "In a field there are cows and chickens. You count 8 heads and 26 legs. How many cows are there?",
+    "hint": "Cows have 4 legs, chickens have 2. Set up the equations.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "8 heads total. If all were chickens: 8 × 2 = 16 legs. Extra: 26 − 16 = 10. Each cow adds 2 extra legs: 10 ÷ 2 = 5 cows."
+  },
+  {
+    "id": "TMP811_3_17",
+    "question": "Using 5p, 10p, and 20p coins, how many different ways can you make exactly 25p?",
+    "hint": "List all combinations that add to 25p.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation": "Four ways: (1) 20+5, (2) 10+10+5, (3) 10+5+5+5, (4) 5+5+5+5+5."
+  },
+  {
+    "id": "TMP811_3_18",
+    "question": "A running track is 400 metres. An athlete runs 3 laps. How many kilometres is that?",
+    "hint": "1 km = 1000 metres.",
+    "options": [
+      "0.8 km",
+      "1.0 km",
+      "1.2 km",
+      "1.5 km"
+    ],
+    "explanation": "3 × 400 = 1200 metres = 1.2 km."
+  },
+  {
+    "id": "TMP811_3_19",
+    "question": "A box holds 24 chocolates. You need chocolates for 100 people (1 each). How many boxes must you buy?",
+    "hint": "4 boxes = 96 (not enough). Try 5 boxes.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "10"
+    ],
+    "explanation": "4 boxes = 96 (not enough). 5 boxes = 120 (enough). You must buy 5."
+  },
+  {
+    "id": "TMP811_3_20",
+    "question": "Two numbers add up to 50. One number is 14 more than the other. What is the larger number?",
+    "hint": "Call the smaller number x. Then x + (x+14) = 50.",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "explanation": "x + (x + 14) = 50. 2x = 36. x = 18. Larger = 18 + 14 = 32."
+  }
+]

@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "TPR1_01",
+    "question": "What comes next? ◇, ◇◇, ◇◇◇, ◇◇◇◇, ?",
+    "hint": "Count the diamonds in each step.",
+    "options": [
+      "◇◇◇◇◇",
+      "◇◇◇",
+      "◇◇◇◇",
+      "◇◇"
+    ],
+    "explanation": "Each step adds one diamond: 1, 2, 3, 4, so next is 5 diamonds."
+  },
+  {
+    "id": "TPR1_02",
+    "question": "What comes next? A, B, C, D, E, ?",
+    "hint": "Think about the order of the alphabet.",
+    "options": [
+      "F",
+      "G",
+      "D",
+      "A"
+    ],
+    "explanation": "These are consecutive letters of the alphabet, so the next letter is F."
+  },
+  {
+    "id": "TPR1_03",
+    "question": "What comes next? 1, 2, 3, 4, 5, ?",
+    "hint": "Each number increases by the same amount.",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "explanation": "Each number increases by 1, so after 5 comes 6."
+  },
+  {
+    "id": "TPR1_04",
+    "question": "What comes next? 2, 4, 6, 8, ?",
+    "hint": "Look at the difference between consecutive numbers.",
+    "options": [
+      "10",
+      "12",
+      "9",
+      "11"
+    ],
+    "explanation": "The pattern counts by 2s. After 8, the next even number is 10."
+  },
+  {
+    "id": "TPR1_05",
+    "question": "What comes next? A, B, A, B, A, ?",
+    "hint": "Notice the alternating pattern.",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The pattern alternates A, B repeatedly, so after A comes B."
+  },
+  {
+    "id": "TPR1_06",
+    "question": "What comes next? □, □□, □□□, ?",
+    "hint": "Count the squares at each step.",
+    "options": [
+      "□□□□",
+      "□□",
+      "□□□□□",
+      "□□□"
+    ],
+    "explanation": "Each step adds one square: 1, 2, 3, so next is 4 squares."
+  },
+  {
+    "id": "TPR1_07",
+    "question": "What comes next? Z, Y, X, W, ?",
+    "hint": "The alphabet is going in reverse.",
+    "options": [
+      "V",
+      "U",
+      "X",
+      "T"
+    ],
+    "explanation": "The letters go backwards through the alphabet: Z, Y, X, W, V."
+  },
+  {
+    "id": "TPR1_08",
+    "question": "What comes next? 10, 20, 30, 40, ?",
+    "hint": "Each number increases by the same amount.",
+    "options": [
+      "50",
+      "45",
+      "60",
+      "55"
+    ],
+    "explanation": "The pattern counts by 10s. After 40, the next is 50."
+  },
+  {
+    "id": "TPR1_09",
+    "question": "What comes next? 3, 6, 9, 12, ?",
+    "hint": "Each number increases by the same amount.",
+    "options": [
+      "15",
+      "14",
+      "18",
+      "13"
+    ],
+    "explanation": "The pattern counts by 3s. After 12, the next multiple of 3 is 15."
+  },
+  {
+    "id": "TPR1_10",
+    "question": "Complete the grid: 1, 3, 5 / 7, 9, 11 / 13, 15, ?",
+    "hint": "List the odd numbers in order, row by row.",
+    "options": [
+      "17",
+      "16",
+      "19",
+      "18"
+    ],
+    "explanation": "The grid lists consecutive odd numbers: 1, 3, 5, 7, …, 15, 17."
+  },
+  {
+    "id": "TPR1_11",
+    "question": "What comes next? ★, ★★, ★★★, ★★★★, ?",
+    "hint": "Count the stars in each step.",
+    "options": [
+      "★★★★★",
+      "★★★★",
+      "★★★",
+      "★★★★★★"
+    ],
+    "explanation": "Each step adds one star: 1, 2, 3, 4, so next is 5 stars."
+  },
+  {
+    "id": "TPR1_12",
+    "question": "What comes next? 6, 12, 18, 24, ?",
+    "hint": "What is each number a multiple of?",
+    "options": [
+      "30",
+      "28",
+      "36",
+      "32"
+    ],
+    "explanation": "The pattern counts by 6s. After 24, the next multiple of 6 is 30."
+  },
+  {
+    "id": "TPR1_13",
+    "question": "What comes next? M, N, O, P, ?",
+    "hint": "These are consecutive letters in the alphabet.",
+    "options": [
+      "Q",
+      "R",
+      "N",
+      "S"
+    ],
+    "explanation": "The letters continue sequentially through the alphabet: M, N, O, P, Q."
+  },
+  {
+    "id": "TPR1_14",
+    "question": "What comes next? 1, 1, 1, 1, ?",
+    "hint": "Does the value ever change?",
+    "options": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "explanation": "Every term is 1 — the pattern is constant, so the next value is 1."
+  },
+  {
+    "id": "TPR1_15",
+    "question": "What comes next? ♥, ♦, ♥, ♦, ♥, ?",
+    "hint": "Two symbols take turns.",
+    "options": [
+      "♦",
+      "♥",
+      "♣",
+      "♠"
+    ],
+    "explanation": "The pattern alternates heart, diamond. After heart comes diamond."
+  },
+  {
+    "id": "TPR1_16",
+    "question": "What comes next? 8, 16, 24, 32, ?",
+    "hint": "Look at the difference between consecutive numbers.",
+    "options": [
+      "40",
+      "36",
+      "48",
+      "38"
+    ],
+    "explanation": "The pattern counts by 8s. After 32, the next multiple of 8 is 40."
+  },
+  {
+    "id": "TPR1_17",
+    "question": "What comes next? ♠, ♠♠, ♠♠♠, ?",
+    "hint": "Count the spades at each step.",
+    "options": [
+      "♠♠♠♠",
+      "♠♠",
+      "♠♠♠",
+      "♠♠♠♠♠"
+    ],
+    "explanation": "Each step adds one spade: 1, 2, 3, so next is 4 spades."
+  },
+  {
+    "id": "TPR1_18",
+    "question": "What comes next? 30, 27, 24, 21, ?",
+    "hint": "The numbers are decreasing by a fixed amount.",
+    "options": [
+      "18",
+      "20",
+      "15",
+      "19"
+    ],
+    "explanation": "Each number decreases by 3. After 21, the next value is 18."
+  },
+  {
+    "id": "TPR1_19",
+    "question": "What comes next? 7, 14, 21, 28, ?",
+    "hint": "Each number is a multiple of a single digit.",
+    "options": [
+      "35",
+      "36",
+      "32",
+      "42"
+    ],
+    "explanation": "The pattern counts by 7s. After 28, the next multiple of 7 is 35."
+  },
+  {
+    "id": "TPR1_20",
+    "question": "Complete the grid: 2, 4, 6 / 8, 10, 12 / 14, 16, ?",
+    "hint": "List the even numbers row by row.",
+    "options": [
+      "18",
+      "20",
+      "17",
+      "19"
+    ],
+    "explanation": "The grid lists consecutive even numbers: 2, 4, 6, 8, …, 16, 18."
+  },
+  {
+    "id": "TPR2_01",
+    "question": "What comes next? X, XY, XYX, XYXY, ?",
+    "hint": "Each step adds one more character, alternating X and Y.",
+    "options": [
+      "XYXYX",
+      "XYXYY",
+      "YXYXY",
+      "XYXY"
+    ],
+    "explanation": "The pattern grows by appending alternating characters. The 5th term has 5 characters: XYXYX."
+  },
+  {
+    "id": "TPR2_02",
+    "question": "Grid: 3, 6, 9 / 5, 10, 15 / 8, 16, ?",
+    "hint": "Look at how each row relates to its first number.",
+    "options": [
+      "24",
+      "20",
+      "18",
+      "32"
+    ],
+    "explanation": "Each row multiplies the first number by 1, 2, 3. Row 3: 8×1=8, 8×2=16, 8×3=24."
+  },
+  {
+    "id": "TPR2_03",
+    "question": "What comes next? AA, BB, CC, DD, ?",
+    "hint": "Each pair uses the next letter of the alphabet.",
+    "options": [
+      "EE",
+      "FF",
+      "DE",
+      "AB"
+    ],
+    "explanation": "Each term is a doubled consecutive letter: A, B, C, D, E → EE."
+  },
+  {
+    "id": "TPR2_04",
+    "question": "What comes next? 1, 3, 5, 7, 9, ?",
+    "hint": "These are all odd numbers.",
+    "options": [
+      "11",
+      "10",
+      "13",
+      "12"
+    ],
+    "explanation": "The sequence lists consecutive odd numbers. After 9, the next odd number is 11."
+  },
+  {
+    "id": "TPR2_05",
+    "question": "What comes next? ○●, ○●○, ○●○●, ○●○●○, ?",
+    "hint": "Each step adds one more alternating shape.",
+    "options": [
+      "○●○●○●",
+      "○●○●○○",
+      "●○●○●○",
+      "○●○●●○"
+    ],
+    "explanation": "The pattern grows by one shape each time, alternating ○ and ●. The next has 6 shapes: ○●○●○●."
+  },
+  {
+    "id": "TPR2_06",
+    "question": "What comes next? 2, 6, 10, 14, ?",
+    "hint": "Find the constant difference between terms.",
+    "options": [
+      "18",
+      "16",
+      "20",
+      "15"
+    ],
+    "explanation": "Each number increases by 4. After 14, the next value is 18."
+  },
+  {
+    "id": "TPR2_07",
+    "question": "What comes next? AB, CD, EF, GH, ?",
+    "hint": "Each pair uses the next two consecutive letters.",
+    "options": [
+      "IJ",
+      "JK",
+      "HI",
+      "KL"
+    ],
+    "explanation": "The pairs step through the alphabet two letters at a time: AB, CD, EF, GH, IJ."
+  },
+  {
+    "id": "TPR2_08",
+    "question": "Grid: 1, 3, 5 / 2, 4, 6 / 3, 5, ?",
+    "hint": "Each row starts one higher and adds the same amount.",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "explanation": "Each row lists three numbers increasing by 2. Row 3 starts at 3: 3, 5, 7."
+  },
+  {
+    "id": "TPR2_09",
+    "question": "What comes next? ○, ■, ○, ■, ○, ■, ?",
+    "hint": "Two shapes repeat in a cycle.",
+    "options": [
+      "○",
+      "■",
+      "△",
+      "◇"
+    ],
+    "explanation": "The pattern alternates ○ and ■. After ■, the next shape is ○."
+  },
+  {
+    "id": "TPR2_10",
+    "question": "What comes next? 20, 17, 14, 11, ?",
+    "hint": "The numbers decrease by a fixed amount.",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "explanation": "Each number decreases by 3. After 11, the next value is 8."
+  },
+  {
+    "id": "TPR2_11",
+    "question": "What comes next? ABA, BCB, CDC, DED, ?",
+    "hint": "Look at how the three letters in each group shift.",
+    "options": [
+      "EFE",
+      "FGF",
+      "DEF",
+      "EEE"
+    ],
+    "explanation": "Each group follows the pattern: letter, next letter, same first letter — shifted by one each time. After DED comes EFE."
+  },
+  {
+    "id": "TPR2_12",
+    "question": "Grid: 5, 10, 15 / 6, 12, 18 / 7, 14, ?",
+    "hint": "Each row multiplies the first number by 1, 2, and 3.",
+    "options": [
+      "21",
+      "20",
+      "24",
+      "28"
+    ],
+    "explanation": "Row 3: 7×1=7, 7×2=14, 7×3=21."
+  },
+  {
+    "id": "TPR2_13",
+    "question": "What comes next? 0, 2, 4, 6, 8, ?",
+    "hint": "These are consecutive even numbers starting from 0.",
+    "options": [
+      "10",
+      "12",
+      "9",
+      "11"
+    ],
+    "explanation": "The sequence lists even numbers: 0, 2, 4, 6, 8, 10."
+  },
+  {
+    "id": "TPR2_14",
+    "question": "What comes next? ○○, ■■, ○○, ■■, ?",
+    "hint": "Pairs of shapes alternate.",
+    "options": [
+      "○○",
+      "■■",
+      "○■",
+      "■○"
+    ],
+    "explanation": "The pattern alternates pairs: ○○, ■■, ○○, ■■, ○○."
+  },
+  {
+    "id": "TPR2_15",
+    "question": "What comes next? 3, 7, 11, 15, 19, ?",
+    "hint": "Find the common difference between terms.",
+    "options": [
+      "23",
+      "22",
+      "21",
+      "24"
+    ],
+    "explanation": "Each number increases by 4. After 19, the next value is 23."
+  },
+  {
+    "id": "TPR2_16",
+    "question": "Grid: 1, 2, 3 / 2, 4, 6 / 3, 6, ?",
+    "hint": "Compare each row to the row above it.",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "12"
+    ],
+    "explanation": "Row n multiplies 1, 2, 3 by n. Row 3: 3×1=3, 3×2=6, 3×3=9."
+  },
+  {
+    "id": "TPR2_17",
+    "question": "What comes next? XY, WX, VW, UV, ?",
+    "hint": "Each pair shifts one letter back in the alphabet.",
+    "options": [
+      "TU",
+      "ST",
+      "RS",
+      "SU"
+    ],
+    "explanation": "Each pair moves one letter back: XY → WX → VW → UV → TU."
+  },
+  {
+    "id": "TPR2_18",
+    "question": "What comes next? 40, 36, 32, 28, ?",
+    "hint": "The numbers decrease by a constant.",
+    "options": [
+      "24",
+      "25",
+      "22",
+      "20"
+    ],
+    "explanation": "Each number decreases by 4. After 28, the next value is 24."
+  },
+  {
+    "id": "TPR2_19",
+    "question": "What comes next? ○, ○○, ■, ■■, ○, ?",
+    "hint": "A single shape is followed by a double of the same, then the next shape.",
+    "options": [
+      "○○",
+      "■",
+      "○",
+      "■■"
+    ],
+    "explanation": "The cycle is: single ○, double ○○, single ■, double ■■, then repeats. After ○ comes ○○."
+  },
+  {
+    "id": "TPR2_20",
+    "question": "Grid: 10, 20, 30 / 11, 22, 33 / 12, 24, ?",
+    "hint": "Each row multiplies the first number by 1, 2, and 3.",
+    "options": [
+      "36",
+      "34",
+      "38",
+      "48"
+    ],
+    "explanation": "Row 3: 12×1=12, 12×2=24, 12×3=36."
+  },
+  {
+    "id": "TPR3_01",
+    "question": "What comes next? 2, 3, 5, 8, 12, ?",
+    "hint": "Look at the differences between consecutive terms — they grow by 1.",
+    "options": [
+      "17",
+      "15",
+      "16",
+      "18"
+    ],
+    "explanation": "Differences are 1, 2, 3, 4, so the next difference is 5: 12 + 5 = 17."
+  },
+  {
+    "id": "TPR3_02",
+    "question": "Grid: 3, 5, 15 / 4, 6, 24 / 7, 3, ?",
+    "hint": "How do the first two columns relate to the third?",
+    "options": [
+      "21",
+      "10",
+      "24",
+      "30"
+    ],
+    "explanation": "Column 1 × Column 2 = Column 3. Row 3: 7 × 3 = 21."
+  },
+  {
+    "id": "TPR3_03",
+    "question": "What comes next? 49, 36, 25, 16, 9, ?",
+    "hint": "Each term is a perfect square — which squares are these?",
+    "options": [
+      "4",
+      "1",
+      "6",
+      "3"
+    ],
+    "explanation": "The sequence is 7², 6², 5², 4², 3², so next is 2² = 4."
+  },
+  {
+    "id": "TPR3_04",
+    "question": "What comes next? 20, 18, 15, 11, 6, ?",
+    "hint": "The amount subtracted increases by 1 each step.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "−1"
+    ],
+    "explanation": "Differences are −2, −3, −4, −5, so next difference is −6: 6 − 6 = 0."
+  },
+  {
+    "id": "TPR3_05",
+    "question": "Grid: 3, 9, 27 / 4, 16, 64 / 6, 36, ?",
+    "hint": "Each row uses powers of the first number.",
+    "options": [
+      "216",
+      "180",
+      "108",
+      "72"
+    ],
+    "explanation": "Row pattern is n¹, n², n³. Row 3: 6, 36, 216."
+  },
+  {
+    "id": "TPR3_06",
+    "question": "What comes next? 3, 5, 9, 15, 23, ?",
+    "hint": "Compute the differences — they form their own pattern.",
+    "options": [
+      "33",
+      "31",
+      "35",
+      "29"
+    ],
+    "explanation": "Differences are 2, 4, 6, 8, so the next difference is 10: 23 + 10 = 33."
+  },
+  {
+    "id": "TPR3_07",
+    "question": "Grid: 1, 5, 6 / 2, 8, 10 / 3, 11, ?",
+    "hint": "Add the first two columns in each row.",
+    "options": [
+      "14",
+      "13",
+      "15",
+      "33"
+    ],
+    "explanation": "Column 1 + Column 2 = Column 3. Row 3: 3 + 11 = 14."
+  },
+  {
+    "id": "TPR3_08",
+    "question": "What comes next? 1, 6, 15, 28, 45, ?",
+    "hint": "Look at the differences, then the differences of the differences.",
+    "options": [
+      "66",
+      "60",
+      "56",
+      "72"
+    ],
+    "explanation": "Differences are 5, 9, 13, 17 (increasing by 4). Next difference is 21: 45 + 21 = 66."
+  },
+  {
+    "id": "TPR3_09",
+    "question": "What comes next? 100, 95, 85, 70, 50, ?",
+    "hint": "How much is subtracted each step? That amount grows.",
+    "options": [
+      "25",
+      "30",
+      "20",
+      "35"
+    ],
+    "explanation": "Differences are −5, −10, −15, −20, so next is −25: 50 − 25 = 25."
+  },
+  {
+    "id": "TPR3_10",
+    "question": "Grid: 3, 4, 12 / 5, 6, 30 / 7, 8, ?",
+    "hint": "How does column 3 relate to columns 1 and 2?",
+    "options": [
+      "56",
+      "15",
+      "48",
+      "60"
+    ],
+    "explanation": "Column 1 × Column 2 = Column 3. Row 3: 7 × 8 = 56."
+  },
+  {
+    "id": "TPR3_11",
+    "question": "What comes next? 3, 8, 15, 24, 35, ?",
+    "hint": "Try expressing each term as n² minus something.",
+    "options": [
+      "48",
+      "44",
+      "50",
+      "42"
+    ],
+    "explanation": "Each term is n² − 1: 2²−1=3, 3²−1=8, 4²−1=15, 5²−1=24, 6²−1=35, 7²−1=48."
+  },
+  {
+    "id": "TPR3_12",
+    "question": "Grid: 2, 10, 5 / 3, 18, 6 / 4, 28, ?",
+    "hint": "How does column 3 relate to the other columns?",
+    "options": [
+      "7",
+      "8",
+      "12",
+      "32"
+    ],
+    "explanation": "Column 2 ÷ Column 1 = Column 3. Row 3: 28 ÷ 4 = 7."
+  },
+  {
+    "id": "TPR3_13",
+    "question": "What comes next? 5, 6, 8, 11, 15, 20, ?",
+    "hint": "The differences between terms increase by 1 each time.",
+    "options": [
+      "26",
+      "25",
+      "27",
+      "24"
+    ],
+    "explanation": "Differences are 1, 2, 3, 4, 5, so next difference is 6: 20 + 6 = 26."
+  },
+  {
+    "id": "TPR3_14",
+    "question": "What comes next? 2, 5, 10, 17, 26, ?",
+    "hint": "Try the formula n² + 1 for consecutive values of n.",
+    "options": [
+      "37",
+      "35",
+      "38",
+      "36"
+    ],
+    "explanation": "Each term is n² + 1: 1²+1=2, 2²+1=5, 3²+1=10, 4²+1=17, 5²+1=26, 6²+1=37."
+  },
+  {
+    "id": "TPR3_15",
+    "question": "Grid: 2, 5, 7 / 3, 4, 7 / 8, 3, ?",
+    "hint": "Add the first two columns in each row.",
+    "options": [
+      "11",
+      "24",
+      "5",
+      "10"
+    ],
+    "explanation": "Column 1 + Column 2 = Column 3. Row 3: 8 + 3 = 11."
+  },
+  {
+    "id": "TPR3_16",
+    "question": "Grid: 6, 2, 3 / 15, 3, 5 / 24, 4, ?",
+    "hint": "Divide column 1 by column 2.",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "28"
+    ],
+    "explanation": "Column 1 ÷ Column 2 = Column 3. Row 3: 24 ÷ 4 = 6."
+  },
+  {
+    "id": "TPR3_17",
+    "question": "What comes next? 2, 8, 32, 128, ?",
+    "hint": "Each term is multiplied by the same number.",
+    "options": [
+      "512",
+      "256",
+      "384",
+      "640"
+    ],
+    "explanation": "Each term is multiplied by 4. After 128, the next is 128 × 4 = 512."
+  },
+  {
+    "id": "TPR3_18",
+    "question": "What comes next? 10, 12, 16, 22, 30, ?",
+    "hint": "Check how the gap between terms changes.",
+    "options": [
+      "40",
+      "38",
+      "42",
+      "36"
+    ],
+    "explanation": "Differences are 2, 4, 6, 8, so next difference is 10: 30 + 10 = 40."
+  },
+  {
+    "id": "TPR3_19",
+    "question": "What comes next? 4, 7, 12, 19, 28, ?",
+    "hint": "The differences between terms grow by 2 each time.",
+    "options": [
+      "39",
+      "37",
+      "41",
+      "35"
+    ],
+    "explanation": "Differences are 3, 5, 7, 9, so next difference is 11: 28 + 11 = 39."
+  },
+  {
+    "id": "TPR3_20",
+    "question": "Grid: 4, 2, 8 / 9, 3, 27 / 16, 4, ?",
+    "hint": "Column 1 is a perfect square. What are the cube values?",
+    "options": [
+      "64",
+      "48",
+      "32",
+      "20"
+    ],
+    "explanation": "Column 1 = n², Column 2 = n, Column 3 = n³. Row 3: 4² = 16, 4, 4³ = 64."
+  },
+  {
+    "id": "TPR4_01",
+    "question": "What comes next? 1, 16, 81, 256, ?",
+    "hint": "Each term is a fourth power.",
+    "options": [
+      "625",
+      "512",
+      "500",
+      "1024"
+    ],
+    "explanation": "The sequence is 1⁴, 2⁴, 3⁴, 4⁴, so next is 5⁴ = 625."
+  },
+  {
+    "id": "TPR4_02",
+    "question": "Grid: 5, 25, 125 / 6, 36, 216 / 7, 49, ?",
+    "hint": "Each row shows n, n², n³.",
+    "options": [
+      "343",
+      "294",
+      "350",
+      "336"
+    ],
+    "explanation": "Row 3: 7¹ = 7, 7² = 49, 7³ = 343."
+  },
+  {
+    "id": "TPR4_03",
+    "question": "What comes next? 2, 8, 26, 80, 242, ?",
+    "hint": "Try expressing each term as a power of 3 minus 1.",
+    "options": [
+      "728",
+      "486",
+      "720",
+      "500"
+    ],
+    "explanation": "Each term is 3ⁿ − 1: 3¹−1=2, 3²−1=8, 3³−1=26, 3⁴−1=80, 3⁵−1=242, 3⁶−1=728."
+  },
+  {
+    "id": "TPR4_04",
+    "question": "What comes next? 1, 4, 13, 40, 121, ?",
+    "hint": "Each term is tripled and then increased by 1.",
+    "options": [
+      "364",
+      "242",
+      "360",
+      "400"
+    ],
+    "explanation": "Each term = previous × 3 + 1: 1→4, 4→13, 13→40, 40→121, 121→364."
+  },
+  {
+    "id": "TPR4_05",
+    "question": "What comes next? 2, 3, 5, 8, 13, ?",
+    "hint": "Look at the differences — they follow a familiar pattern.",
+    "options": [
+      "21",
+      "18",
+      "20",
+      "16"
+    ],
+    "explanation": "Differences are 1, 2, 3, 5, 8 — each difference equals the sum of the two before it. Next difference is 8, so 13 + 8 = 21."
+  },
+  {
+    "id": "TPR4_06",
+    "question": "What comes next? 1, 4, 10, 20, 35, ?",
+    "hint": "Look at the second differences — they increase by 1.",
+    "options": [
+      "56",
+      "50",
+      "48",
+      "55"
+    ],
+    "explanation": "First differences: 3, 6, 10, 15. Second differences: 3, 4, 5 → next is 6. Next first difference: 21. Answer: 35 + 21 = 56."
+  },
+  {
+    "id": "TPR4_07",
+    "question": "What comes next? 1, 3, 2, 6, 4, 12, 8, ?",
+    "hint": "Split the sequence into odd-positioned and even-positioned terms.",
+    "options": [
+      "24",
+      "16",
+      "10",
+      "20"
+    ],
+    "explanation": "Odd positions: 1, 2, 4, 8 (×2). Even positions: 3, 6, 12, 24 (×2). The next even-position term is 24."
+  },
+  {
+    "id": "TPR4_08",
+    "question": "Grid: 2, 3, 11 / 4, 5, 29 / 6, 7, ?",
+    "hint": "Try multiplying (Col1 + 1) by (Col2 + 1) and adjusting.",
+    "options": [
+      "55",
+      "42",
+      "48",
+      "53"
+    ],
+    "explanation": "Column 3 = (Column 1 + 1) × (Column 2 + 1) − 1. Row 3: 7 × 8 − 1 = 55."
+  },
+  {
+    "id": "TPR4_09",
+    "question": "What comes next? 256, 128, 64, 32, 16, ?",
+    "hint": "Each term is halved.",
+    "options": [
+      "8",
+      "4",
+      "12",
+      "10"
+    ],
+    "explanation": "Each term is divided by 2. After 16, the next is 16 ÷ 2 = 8."
+  },
+  {
+    "id": "TPR4_10",
+    "question": "Grid: 1, 2, 3, 6 / 2, 3, 5, 30 / 3, 4, 7, ?",
+    "hint": "How does the last column relate to the first three?",
+    "options": [
+      "84",
+      "14",
+      "21",
+      "72"
+    ],
+    "explanation": "Column 4 = Column 1 × Column 2 × Column 3. Row 3: 3 × 4 × 7 = 84."
+  },
+  {
+    "id": "TPR4_11",
+    "question": "What comes next? 2, 6, 18, 54, ?",
+    "hint": "Each term is multiplied by the same number.",
+    "options": [
+      "162",
+      "108",
+      "144",
+      "216"
+    ],
+    "explanation": "Each term is multiplied by 3. After 54, the next is 54 × 3 = 162."
+  },
+  {
+    "id": "TPR4_12",
+    "question": "What comes next? 1, 5, 14, 30, 55, ?",
+    "hint": "The differences between terms are perfect squares.",
+    "options": [
+      "91",
+      "80",
+      "85",
+      "90"
+    ],
+    "explanation": "Differences are 4, 9, 16, 25 (which are 2², 3², 4², 5²). Next difference is 6² = 36: 55 + 36 = 91."
+  },
+  {
+    "id": "TPR4_13",
+    "question": "What comes next? 1000, 500, 250, 125, ?",
+    "hint": "Each term is halved.",
+    "options": [
+      "62.5",
+      "60",
+      "75",
+      "100"
+    ],
+    "explanation": "Each term is divided by 2. After 125, the next is 125 ÷ 2 = 62.5."
+  },
+  {
+    "id": "TPR4_14",
+    "question": "Grid: 10, 3, 7 / 20, 8, 12 / 30, 11, ?",
+    "hint": "How do the columns relate arithmetically?",
+    "options": [
+      "19",
+      "20",
+      "21",
+      "41"
+    ],
+    "explanation": "Column 1 − Column 2 = Column 3. Row 3: 30 − 11 = 19."
+  },
+  {
+    "id": "TPR4_15",
+    "question": "What comes next? 4, 5, 9, 14, 23, 37, ?",
+    "hint": "Each term is the sum of the two preceding terms.",
+    "options": [
+      "60",
+      "51",
+      "56",
+      "74"
+    ],
+    "explanation": "Like Fibonacci: each term = sum of previous two. 23 + 37 = 60."
+  },
+  {
+    "id": "TPR4_16",
+    "question": "Grid: 2, 8, 3 / 3, 27, 8 / 4, 64, ?",
+    "hint": "Column 2 is a power of Column 1. What pattern does Column 3 follow?",
+    "options": [
+      "15",
+      "16",
+      "12",
+      "20"
+    ],
+    "explanation": "Column 2 = Column 1³. Column 3 = Column 1² − 1: 2²−1=3, 3²−1=8, 4²−1=15."
+  },
+  {
+    "id": "TPR4_17",
+    "question": "What comes next? 1, 5, 21, 85, ?",
+    "hint": "Try multiplying each term by 4 and adding 1.",
+    "options": [
+      "341",
+      "256",
+      "340",
+      "345"
+    ],
+    "explanation": "Each term = previous × 4 + 1: 1→5, 5→21, 21→85, 85→341."
+  },
+  {
+    "id": "TPR4_18",
+    "question": "What comes next? 1, 2, 5, 12, 29, ?",
+    "hint": "Each term uses the two previous terms with a multiplier.",
+    "options": [
+      "70",
+      "58",
+      "65",
+      "72"
+    ],
+    "explanation": "Rule: a(n) = 2×a(n−1) + a(n−2). Check: 2×2+1=5, 2×5+2=12, 2×12+5=29, 2×29+12=70."
+  },
+  {
+    "id": "TPR4_19",
+    "question": "Grid: 3, 2, 11 / 4, 3, 19 / 5, 4, ?",
+    "hint": "Try squaring Column 1 and adding Column 2.",
+    "options": [
+      "29",
+      "20",
+      "25",
+      "30"
+    ],
+    "explanation": "Column 3 = Column 1² + Column 2. Row 3: 5² + 4 = 25 + 4 = 29."
+  },
+  {
+    "id": "TPR4_20",
+    "question": "Grid: 4, 3, 13 / 5, 2, 23 / 6, 1, ?",
+    "hint": "Try squaring Column 1 and subtracting Column 2.",
+    "options": [
+      "35",
+      "30",
+      "36",
+      "42"
+    ],
+    "explanation": "Column 3 = Column 1² − Column 2. Row 3: 6² − 1 = 36 − 1 = 35."
+  },
+  {
+    "id": "TPR5_01",
+    "question": "What comes next in the prime sequence? 23, 29, 31, 37, 41, ?",
+    "hint": "List the prime numbers after 41.",
+    "options": [
+      "43",
+      "42",
+      "45",
+      "47"
+    ],
+    "explanation": "The sequence lists consecutive primes. After 41, the next prime is 43."
+  },
+  {
+    "id": "TPR5_02",
+    "question": "What comes next? 2, 1, 3, 4, 7, 11, 18, ?",
+    "hint": "Each term is the sum of the previous two terms.",
+    "options": [
+      "29",
+      "25",
+      "27",
+      "36"
+    ],
+    "explanation": "This is a Lucas-like sequence: each term = sum of the two before it. 11 + 18 = 29."
+  },
+  {
+    "id": "TPR5_03",
+    "question": "Grid: 2, 8, 32 / 3, 27, 243 / 5, 125, ?",
+    "hint": "Each column uses an odd power of the first number.",
+    "options": [
+      "3125",
+      "625",
+      "1250",
+      "1500"
+    ],
+    "explanation": "Row pattern is n¹, n³, n⁵. Row 3: 5¹=5, 5³=125, 5⁵=3125."
+  },
+  {
+    "id": "TPR5_04",
+    "question": "What comes next? 4, 6, 10, 14, 22, 26, ?",
+    "hint": "Each term is twice a prime number. Which primes?",
+    "options": [
+      "34",
+      "30",
+      "32",
+      "38"
+    ],
+    "explanation": "Each term is 2 × a consecutive prime: 2×2=4, 2×3=6, 2×5=10, 2×7=14, 2×11=22, 2×13=26, 2×17=34."
+  },
+  {
+    "id": "TPR5_05",
+    "question": "What comes next? 0, 0, 1, 1, 2, 4, 7, 13, ?",
+    "hint": "Each term is the sum of the previous three terms.",
+    "options": [
+      "24",
+      "20",
+      "26",
+      "19"
+    ],
+    "explanation": "This is the Tribonacci sequence: each term = sum of the three before it. 4 + 7 + 13 = 24."
+  },
+  {
+    "id": "TPR5_06",
+    "question": "What comes next? 2, 12, 36, 80, 150, ?",
+    "hint": "Try expressing each term as n²(n + 1).",
+    "options": [
+      "252",
+      "210",
+      "240",
+      "260"
+    ],
+    "explanation": "Each term is n²(n+1): 1²×2=2, 2²×3=12, 3²×4=36, 4²×5=80, 5²×6=150, 6²×7=252."
+  },
+  {
+    "id": "TPR5_07",
+    "question": "Grid: 1, 2, 5 / 2, 3, 13 / 4, 5, ?",
+    "hint": "Try squaring each of the first two columns and adding.",
+    "options": [
+      "41",
+      "20",
+      "45",
+      "36"
+    ],
+    "explanation": "Column 3 = Column 1² + Column 2². Row 3: 4² + 5² = 16 + 25 = 41."
+  },
+  {
+    "id": "TPR5_08",
+    "question": "What comes next? 2, 8, 18, 32, 50, ?",
+    "hint": "Try expressing each term as 2n² for consecutive values of n.",
+    "options": [
+      "72",
+      "60",
+      "68",
+      "80"
+    ],
+    "explanation": "Each term is 2n²: 2(1²)=2, 2(2²)=8, 2(3²)=18, 2(4²)=32, 2(5²)=50, 2(6²)=72."
+  },
+  {
+    "id": "TPR5_09",
+    "question": "What comes next? 2, 4, 16, 256, ?",
+    "hint": "Each term is the square of the previous term.",
+    "options": [
+      "65536",
+      "512",
+      "1024",
+      "4096"
+    ],
+    "explanation": "Each term = previous². 2²=4, 4²=16, 16²=256, 256²=65536."
+  },
+  {
+    "id": "TPR5_10",
+    "question": "What comes next? 47, 43, 41, 37, 31, 29, ?",
+    "hint": "These are prime numbers in descending order.",
+    "options": [
+      "23",
+      "27",
+      "25",
+      "19"
+    ],
+    "explanation": "The sequence lists consecutive primes in reverse. After 29, the next smaller prime is 23."
+  },
+  {
+    "id": "TPR5_11",
+    "question": "Grid: 2, 3, 7 / 4, 5, 21 / 6, 7, ?",
+    "hint": "Multiply the first two columns and adjust by 1.",
+    "options": [
+      "43",
+      "42",
+      "44",
+      "40"
+    ],
+    "explanation": "Column 3 = Column 1 × Column 2 + 1. Row 3: 6 × 7 + 1 = 43."
+  },
+  {
+    "id": "TPR5_12",
+    "question": "What comes next? 1, 5, 12, 22, 35, ?",
+    "hint": "These are pentagonal numbers: n(3n − 1)/2.",
+    "options": [
+      "51",
+      "48",
+      "50",
+      "55"
+    ],
+    "explanation": "Pentagonal numbers: n(3n−1)/2. For n=6: 6×17/2 = 51."
+  },
+  {
+    "id": "TPR5_13",
+    "question": "What comes next? 2, 6, 30, 210, ?",
+    "hint": "Each term is multiplied by the next prime number.",
+    "options": [
+      "2310",
+      "1470",
+      "1260",
+      "1890"
+    ],
+    "explanation": "2×3=6, 6×5=30, 30×7=210, 210×11=2310. Each step multiplies by the next prime."
+  },
+  {
+    "id": "TPR5_14",
+    "question": "Grid: 4, 16, 64 / 6, 36, 216 / 8, 64, ?",
+    "hint": "Each row shows powers of the first number.",
+    "options": [
+      "512",
+      "256",
+      "480",
+      "128"
+    ],
+    "explanation": "Row pattern is n¹, n², n³. Row 3: 8, 64, 512."
+  },
+  {
+    "id": "TPR5_15",
+    "question": "What comes next? 1, 3, 11, 43, ?",
+    "hint": "Each term is multiplied by 4 and decreased by 1.",
+    "options": [
+      "171",
+      "170",
+      "172",
+      "160"
+    ],
+    "explanation": "Each term = previous × 4 − 1: 1→3, 3→11, 11→43, 43→171."
+  },
+  {
+    "id": "TPR5_16",
+    "question": "What comes next? 59, 53, 47, 43, 41, 37, ?",
+    "hint": "These are primes listed in descending order.",
+    "options": [
+      "31",
+      "33",
+      "29",
+      "35"
+    ],
+    "explanation": "The sequence lists consecutive primes in reverse order. After 37, the next smaller prime is 31."
+  },
+  {
+    "id": "TPR5_17",
+    "question": "What comes next? 27, 125, 343, 729, ?",
+    "hint": "Each term is a cube — but of which numbers?",
+    "options": [
+      "1331",
+      "1000",
+      "1200",
+      "1500"
+    ],
+    "explanation": "These are cubes of consecutive odd numbers: 3³=27, 5³=125, 7³=343, 9³=729, 11³=1331."
+  },
+  {
+    "id": "TPR5_18",
+    "question": "Grid: 3, 2, 18 / 4, 3, 48 / 5, 4, ?",
+    "hint": "Try squaring Column 1 and multiplying by Column 2.",
+    "options": [
+      "100",
+      "80",
+      "60",
+      "125"
+    ],
+    "explanation": "Column 3 = Column 1² × Column 2. Row 3: 5² × 4 = 25 × 4 = 100."
+  },
+  {
+    "id": "TPR5_19",
+    "question": "What comes next? 2, 3, 6, 7, 14, 15, ?",
+    "hint": "The sequence alternates between two operations.",
+    "options": [
+      "30",
+      "16",
+      "28",
+      "22"
+    ],
+    "explanation": "The pattern alternates +1 and ×2: 2+1=3, 3×2=6, 6+1=7, 7×2=14, 14+1=15, 15×2=30."
+  },
+  {
+    "id": "TPR5_20",
+    "question": "What comes next? 1, 9, 36, 100, 225, ?",
+    "hint": "Each term is a perfect square. What are they squares of?",
+    "options": [
+      "441",
+      "400",
+      "484",
+      "500"
+    ],
+    "explanation": "These are squares of cumulative sums: (1)²=1, (1+2)²=9, (1+2+3)²=36, (1+2+3+4)²=100, (1+2+3+4+5)²=225, (1+2+3+4+5+6)²=441."
+  },
+  {
+    "id": "TNR1_01",
+    "question": "What comes next in the sequence: 7, 8, 9, 10, 11, ?",
+    "hint": "Look at the difference between each pair of consecutive terms.",
+    "options": [
+      "12",
+      "13",
+      "10",
+      "14"
+    ],
+    "explanation": "Each term increases by 1. The next term is 11 + 1 = 12."
+  },
+  {
+    "id": "TNR1_02",
+    "question": "What comes next in the sequence: 3, 5, 7, 9, 11, ?",
+    "hint": "Subtract each term from the next one.",
+    "options": [
+      "13",
+      "12",
+      "14",
+      "15"
+    ],
+    "explanation": "Each term increases by 2. The next term is 11 + 2 = 13."
+  },
+  {
+    "id": "TNR1_03",
+    "question": "What comes next in the sequence: 10, 13, 16, 19, 22, ?",
+    "hint": "Find the constant difference between consecutive terms.",
+    "options": [
+      "25",
+      "24",
+      "26",
+      "23"
+    ],
+    "explanation": "Each term increases by 3. The next term is 22 + 3 = 25."
+  },
+  {
+    "id": "TNR1_04",
+    "question": "What comes next in the sequence: 1, 5, 9, 13, 17, ?",
+    "hint": "How much does each term grow compared to the previous one?",
+    "options": [
+      "21",
+      "20",
+      "22",
+      "19"
+    ],
+    "explanation": "Each term increases by 4. The next term is 17 + 4 = 21."
+  },
+  {
+    "id": "TNR1_05",
+    "question": "What comes next in the sequence: 2, 7, 12, 17, 22, ?",
+    "hint": "Calculate the step between consecutive terms.",
+    "options": [
+      "27",
+      "25",
+      "28",
+      "26"
+    ],
+    "explanation": "Each term increases by 5. The next term is 22 + 5 = 27."
+  },
+  {
+    "id": "TNR1_06",
+    "question": "What comes next in the sequence: 4, 10, 16, 22, 28, ?",
+    "hint": "What is being added each time?",
+    "options": [
+      "34",
+      "32",
+      "36",
+      "30"
+    ],
+    "explanation": "Each term increases by 6. The next term is 28 + 6 = 34."
+  },
+  {
+    "id": "TNR1_07",
+    "question": "What comes next in the sequence: 3, 10, 17, 24, 31, ?",
+    "hint": "Find the constant that is added to each term.",
+    "options": [
+      "38",
+      "35",
+      "39",
+      "37"
+    ],
+    "explanation": "Each term increases by 7. The next term is 31 + 7 = 38."
+  },
+  {
+    "id": "TNR1_08",
+    "question": "What comes next in the sequence: 5, 13, 21, 29, 37, ?",
+    "hint": "Subtract the first term from the second to find the step size.",
+    "options": [
+      "45",
+      "44",
+      "46",
+      "43"
+    ],
+    "explanation": "Each term increases by 8. The next term is 37 + 8 = 45."
+  },
+  {
+    "id": "TNR1_09",
+    "question": "What comes next in the sequence: 2, 11, 20, 29, 38, ?",
+    "hint": "What number is added each step?",
+    "options": [
+      "47",
+      "45",
+      "48",
+      "46"
+    ],
+    "explanation": "Each term increases by 9. The next term is 38 + 9 = 47."
+  },
+  {
+    "id": "TNR1_10",
+    "question": "What comes next in the sequence: 6, 16, 26, 36, 46, ?",
+    "hint": "Look at the gap between any two consecutive terms.",
+    "options": [
+      "56",
+      "54",
+      "58",
+      "52"
+    ],
+    "explanation": "Each term increases by 10. The next term is 46 + 10 = 56."
+  },
+  {
+    "id": "TNR1_11",
+    "question": "What comes next in the sequence: 20, 19, 18, 17, 16, ?",
+    "hint": "The sequence is going down. By how much each time?",
+    "options": [
+      "15",
+      "14",
+      "17",
+      "13"
+    ],
+    "explanation": "Each term decreases by 1. The next term is 16 − 1 = 15."
+  },
+  {
+    "id": "TNR1_12",
+    "question": "What comes next in the sequence: 30, 28, 26, 24, 22, ?",
+    "hint": "Subtract each term from the one before it.",
+    "options": [
+      "20",
+      "21",
+      "18",
+      "19"
+    ],
+    "explanation": "Each term decreases by 2. The next term is 22 − 2 = 20."
+  },
+  {
+    "id": "TNR1_13",
+    "question": "What comes next in the sequence: 40, 37, 34, 31, 28, ?",
+    "hint": "The sequence is decreasing. Find the constant step.",
+    "options": [
+      "25",
+      "26",
+      "24",
+      "27"
+    ],
+    "explanation": "Each term decreases by 3. The next term is 28 − 3 = 25."
+  },
+  {
+    "id": "TNR1_14",
+    "question": "What comes next in the sequence: 50, 46, 42, 38, 34, ?",
+    "hint": "How much is subtracted each time?",
+    "options": [
+      "30",
+      "32",
+      "28",
+      "31"
+    ],
+    "explanation": "Each term decreases by 4. The next term is 34 − 4 = 30."
+  },
+  {
+    "id": "TNR1_15",
+    "question": "What comes next in the sequence: 60, 55, 50, 45, 40, ?",
+    "hint": "Find the amount subtracted between consecutive terms.",
+    "options": [
+      "35",
+      "30",
+      "38",
+      "33"
+    ],
+    "explanation": "Each term decreases by 5. The next term is 40 − 5 = 35."
+  },
+  {
+    "id": "TNR1_16",
+    "question": "What comes next in the sequence: 5, 16, 27, 38, 49, ?",
+    "hint": "Compute the difference between the first two terms and check if it stays the same.",
+    "options": [
+      "60",
+      "58",
+      "61",
+      "55"
+    ],
+    "explanation": "Each term increases by 11. The next term is 49 + 11 = 60."
+  },
+  {
+    "id": "TNR1_17",
+    "question": "What comes next in the sequence: 3, 15, 27, 39, 51, ?",
+    "hint": "What is the constant added each step?",
+    "options": [
+      "63",
+      "60",
+      "64",
+      "62"
+    ],
+    "explanation": "Each term increases by 12. The next term is 51 + 12 = 63."
+  },
+  {
+    "id": "TNR1_18",
+    "question": "What comes next in the sequence: 10, 25, 40, 55, 70, ?",
+    "hint": "Find the fixed amount added between terms.",
+    "options": [
+      "85",
+      "80",
+      "90",
+      "75"
+    ],
+    "explanation": "Each term increases by 15. The next term is 70 + 15 = 85."
+  },
+  {
+    "id": "TNR1_19",
+    "question": "What comes next in the sequence: 5, 25, 45, 65, 85, ?",
+    "hint": "Calculate the step size from any term to the next.",
+    "options": [
+      "105",
+      "100",
+      "110",
+      "95"
+    ],
+    "explanation": "Each term increases by 20. The next term is 85 + 20 = 105."
+  },
+  {
+    "id": "TNR1_20",
+    "question": "What comes next in the sequence: 42, 36, 30, 24, 18, ?",
+    "hint": "The sequence is decreasing. What is being subtracted?",
+    "options": [
+      "12",
+      "14",
+      "10",
+      "16"
+    ],
+    "explanation": "Each term decreases by 6. The next term is 18 − 6 = 12."
+  },
+  {
+    "id": "TNR2_01",
+    "question": "What comes next in the sequence: 5, 10, 20, 40, 80, ?",
+    "hint": "Try dividing each term by the previous one.",
+    "options": [
+      "160",
+      "120",
+      "140",
+      "100"
+    ],
+    "explanation": "Each term is multiplied by 2. The next term is 80 × 2 = 160."
+  },
+  {
+    "id": "TNR2_02",
+    "question": "What comes next in the sequence: 2, 6, 18, 54, 162, ?",
+    "hint": "What is the ratio between consecutive terms?",
+    "options": [
+      "486",
+      "324",
+      "480",
+      "648"
+    ],
+    "explanation": "Each term is multiplied by 3. The next term is 162 × 3 = 486."
+  },
+  {
+    "id": "TNR2_03",
+    "question": "What comes next in the sequence: 1, 4, 16, 64, 256, ?",
+    "hint": "Divide the second term by the first to find the multiplier.",
+    "options": [
+      "1024",
+      "512",
+      "768",
+      "1280"
+    ],
+    "explanation": "Each term is multiplied by 4. The next term is 256 × 4 = 1024."
+  },
+  {
+    "id": "TNR2_04",
+    "question": "What comes next in the sequence: 2, 10, 50, 250, 1250, ?",
+    "hint": "Look at the ratio between consecutive terms.",
+    "options": [
+      "6250",
+      "5000",
+      "6000",
+      "7500"
+    ],
+    "explanation": "Each term is multiplied by 5. The next term is 1250 × 5 = 6250."
+  },
+  {
+    "id": "TNR2_05",
+    "question": "What comes next in the sequence: 3, 30, 300, 3000, 30000, ?",
+    "hint": "Each term gains an extra zero. What multiplier does that?",
+    "options": [
+      "300000",
+      "60000",
+      "200000",
+      "330000"
+    ],
+    "explanation": "Each term is multiplied by 10. The next term is 30000 × 10 = 300000."
+  },
+  {
+    "id": "TNR2_06",
+    "question": "What comes next in the sequence: 640, 320, 160, 80, 40, ?",
+    "hint": "The sequence is halving. What operation is applied each time?",
+    "options": [
+      "20",
+      "10",
+      "30",
+      "25"
+    ],
+    "explanation": "Each term is divided by 2. The next term is 40 ÷ 2 = 20."
+  },
+  {
+    "id": "TNR2_07",
+    "question": "What comes next in the sequence: 729, 243, 81, 27, 9, ?",
+    "hint": "Try dividing each term by the next one.",
+    "options": [
+      "3",
+      "6",
+      "1",
+      "4"
+    ],
+    "explanation": "Each term is divided by 3. The next term is 9 ÷ 3 = 3."
+  },
+  {
+    "id": "TNR2_08",
+    "question": "What comes next in the sequence: 192, 96, 48, 24, 12, ?",
+    "hint": "What fraction of the previous term gives the current term?",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "3"
+    ],
+    "explanation": "Each term is divided by 2. The next term is 12 ÷ 2 = 6."
+  },
+  {
+    "id": "TNR2_09",
+    "question": "What comes next in the sequence: 3, 4, 7, 11, 18, ?",
+    "hint": "Try adding two consecutive terms together.",
+    "options": [
+      "29",
+      "25",
+      "27",
+      "30"
+    ],
+    "explanation": "Each term is the sum of the two preceding terms: 11 + 18 = 29."
+  },
+  {
+    "id": "TNR2_10",
+    "question": "What comes next in the sequence: 2, 5, 7, 12, 19, ?",
+    "hint": "Look at how each term relates to the two terms before it.",
+    "options": [
+      "31",
+      "26",
+      "28",
+      "33"
+    ],
+    "explanation": "Each term is the sum of the two preceding terms: 12 + 19 = 31."
+  },
+  {
+    "id": "TNR2_11",
+    "question": "What comes next in the sequence: 4, 9, 19, 39, 79, ?",
+    "hint": "Try doubling a term and then adjusting by a small number to get the next.",
+    "options": [
+      "159",
+      "158",
+      "160",
+      "149"
+    ],
+    "explanation": "Each term follows the rule: previous × 2 + 1. The next term is 79 × 2 + 1 = 159."
+  },
+  {
+    "id": "TNR2_12",
+    "question": "What comes next in the sequence: 4, 12, 36, 108, 324, ?",
+    "hint": "Divide each term by the previous one to find a constant ratio.",
+    "options": [
+      "972",
+      "648",
+      "1296",
+      "900"
+    ],
+    "explanation": "Each term is multiplied by 3. The next term is 324 × 3 = 972."
+  },
+  {
+    "id": "TNR2_13",
+    "question": "What comes next in the sequence: 7, 14, 28, 56, 112, ?",
+    "hint": "What happens when you divide each term by the one before it?",
+    "options": [
+      "224",
+      "168",
+      "220",
+      "228"
+    ],
+    "explanation": "Each term is multiplied by 2. The next term is 112 × 2 = 224."
+  },
+  {
+    "id": "TNR2_14",
+    "question": "What comes next in the sequence: 1, 3, 4, 7, 11, ?",
+    "hint": "Check whether each term equals the sum of the two before it.",
+    "options": [
+      "18",
+      "15",
+      "16",
+      "20"
+    ],
+    "explanation": "Each term is the sum of the two preceding terms: 7 + 11 = 18."
+  },
+  {
+    "id": "TNR2_15",
+    "question": "What comes next in the sequence: 256, 128, 64, 32, 16, ?",
+    "hint": "These are all powers of 2. What divisor connects each pair?",
+    "options": [
+      "8",
+      "4",
+      "12",
+      "10"
+    ],
+    "explanation": "Each term is divided by 2. The next term is 16 ÷ 2 = 8."
+  },
+  {
+    "id": "TNR2_16",
+    "question": "What comes next in the sequence: 1, 5, 25, 125, 625, ?",
+    "hint": "Find the multiplier by dividing any term by the previous one.",
+    "options": [
+      "3125",
+      "1250",
+      "3000",
+      "3750"
+    ],
+    "explanation": "Each term is multiplied by 5. The next term is 625 × 5 = 3125."
+  },
+  {
+    "id": "TNR2_17",
+    "question": "What comes next in the sequence: 3, 8, 18, 38, 78, ?",
+    "hint": "Try doubling the previous term and adding a small constant.",
+    "options": [
+      "158",
+      "156",
+      "160",
+      "148"
+    ],
+    "explanation": "Each term follows the rule: previous × 2 + 2. The next term is 78 × 2 + 2 = 158."
+  },
+  {
+    "id": "TNR2_18",
+    "question": "What comes next in the sequence: 1, 4, 5, 9, 14, ?",
+    "hint": "See if adding two consecutive terms gives the next one.",
+    "options": [
+      "23",
+      "19",
+      "21",
+      "25"
+    ],
+    "explanation": "Each term is the sum of the two preceding terms: 9 + 14 = 23."
+  },
+  {
+    "id": "TNR2_19",
+    "question": "What comes next in the sequence: 2187, 729, 243, 81, 27, ?",
+    "hint": "Each term is a fraction of the previous. What divisor is used?",
+    "options": [
+      "9",
+      "3",
+      "18",
+      "12"
+    ],
+    "explanation": "Each term is divided by 3. The next term is 27 ÷ 3 = 9."
+  },
+  {
+    "id": "TNR2_20",
+    "question": "What comes next in the sequence: 2, 8, 32, 128, 512, ?",
+    "hint": "Divide consecutive terms to find the constant multiplier.",
+    "options": [
+      "2048",
+      "1024",
+      "2560",
+      "1536"
+    ],
+    "explanation": "Each term is multiplied by 4. The next term is 512 × 4 = 2048."
+  },
+  {
+    "id": "TNR3_01",
+    "question": "What comes next in the sequence: 36, 49, 64, 81, 100, ?",
+    "hint": "Try taking the square root of each term.",
+    "options": [
+      "121",
+      "110",
+      "120",
+      "125"
+    ],
+    "explanation": "These are consecutive perfect squares: 6²=36, 7²=49, 8²=64, 9²=81, 10²=100, 11²=121."
+  },
+  {
+    "id": "TNR3_02",
+    "question": "What comes next in the sequence: 100, 121, 144, 169, 196, ?",
+    "hint": "Each term is a perfect square. Which squares are these?",
+    "options": [
+      "225",
+      "220",
+      "230",
+      "216"
+    ],
+    "explanation": "These are consecutive perfect squares: 10²=100, 11²=121, 12²=144, 13²=169, 14²=196, 15²=225."
+  },
+  {
+    "id": "TNR3_03",
+    "question": "What comes next in the sequence: 125, 216, 343, 512, 729, ?",
+    "hint": "Try taking the cube root of each term.",
+    "options": [
+      "1000",
+      "900",
+      "1024",
+      "972"
+    ],
+    "explanation": "These are consecutive perfect cubes: 5³=125, 6³=216, 7³=343, 8³=512, 9³=729, 10³=1000."
+  },
+  {
+    "id": "TNR3_04",
+    "question": "What comes next in the sequence: 343, 512, 729, 1000, 1331, ?",
+    "hint": "These are cubes of consecutive integers. Which integers?",
+    "options": [
+      "1728",
+      "1500",
+      "1700",
+      "2000"
+    ],
+    "explanation": "These are consecutive perfect cubes: 7³=343, 8³=512, 9³=729, 10³=1000, 11³=1331, 12³=1728."
+  },
+  {
+    "id": "TNR3_05",
+    "question": "What comes next in the sequence: 10, 12, 16, 22, 30, ?",
+    "hint": "Compute the differences between terms. Do those differences form a pattern?",
+    "options": [
+      "40",
+      "38",
+      "42",
+      "36"
+    ],
+    "explanation": "The differences are 2, 4, 6, 8 — increasing by 2 each time. The next difference is 10, so 30 + 10 = 40."
+  },
+  {
+    "id": "TNR3_06",
+    "question": "What comes next in the sequence: 7, 10, 16, 25, 37, ?",
+    "hint": "Find the differences between terms, then look for a pattern in those differences.",
+    "options": [
+      "52",
+      "49",
+      "55",
+      "46"
+    ],
+    "explanation": "The differences are 3, 6, 9, 12 — increasing by 3 each time. The next difference is 15, so 37 + 15 = 52."
+  },
+  {
+    "id": "TNR3_07",
+    "question": "What comes next in the sequence: 5, 6, 9, 14, 21, ?",
+    "hint": "The differences between terms are consecutive odd numbers.",
+    "options": [
+      "30",
+      "28",
+      "32",
+      "27"
+    ],
+    "explanation": "The differences are 1, 3, 5, 7 — consecutive odd numbers. The next difference is 9, so 21 + 9 = 30."
+  },
+  {
+    "id": "TNR3_08",
+    "question": "What comes next in the sequence: 5, 7, 11, 13, 17, ?",
+    "hint": "Think about numbers that have exactly two divisors.",
+    "options": [
+      "19",
+      "18",
+      "21",
+      "20"
+    ],
+    "explanation": "These are consecutive prime numbers starting from 5. The next prime after 17 is 19."
+  },
+  {
+    "id": "TNR3_09",
+    "question": "What comes next in the sequence: 11, 13, 17, 19, 23, ?",
+    "hint": "Are these numbers divisible only by 1 and themselves?",
+    "options": [
+      "29",
+      "27",
+      "25",
+      "31"
+    ],
+    "explanation": "These are consecutive prime numbers starting from 11. The next prime after 23 is 29."
+  },
+  {
+    "id": "TNR3_10",
+    "question": "What comes next in the sequence: 4, 16, 36, 64, 100, ?",
+    "hint": "Take the square root of each term. What do those numbers have in common?",
+    "options": [
+      "144",
+      "128",
+      "136",
+      "148"
+    ],
+    "explanation": "These are squares of consecutive even numbers: 2²=4, 4²=16, 6²=36, 8²=64, 10²=100, 12²=144."
+  },
+  {
+    "id": "TNR3_11",
+    "question": "What comes next in the sequence: 1, 9, 25, 49, 81, ?",
+    "hint": "Take the square root of each term. What type of numbers are they?",
+    "options": [
+      "121",
+      "100",
+      "110",
+      "125"
+    ],
+    "explanation": "These are squares of consecutive odd numbers: 1²=1, 3²=9, 5²=25, 7²=49, 9²=81, 11²=121."
+  },
+  {
+    "id": "TNR3_12",
+    "question": "What comes next in the sequence: 2, 5, 10, 17, 26, ?",
+    "hint": "Subtract 1 from each term. Do the results look familiar?",
+    "options": [
+      "37",
+      "35",
+      "36",
+      "39"
+    ],
+    "explanation": "Each term equals n² + 1: 1²+1=2, 2²+1=5, 3²+1=10, 4²+1=17, 5²+1=26, 6²+1=37."
+  },
+  {
+    "id": "TNR3_13",
+    "question": "What comes next in the sequence: 0, 3, 8, 15, 24, ?",
+    "hint": "Add 1 to each term. What well-known sequence do you get?",
+    "options": [
+      "35",
+      "33",
+      "36",
+      "30"
+    ],
+    "explanation": "Each term equals n² − 1: 1²−1=0, 2²−1=3, 3²−1=8, 4²−1=15, 5²−1=24, 6²−1=35."
+  },
+  {
+    "id": "TNR3_14",
+    "question": "What comes next in the sequence: 5, 9, 17, 29, 45, ?",
+    "hint": "Compute the differences, then check if those differences increase in a regular way.",
+    "options": [
+      "65",
+      "61",
+      "69",
+      "57"
+    ],
+    "explanation": "The differences are 4, 8, 12, 16 — increasing by 4 each time. The next difference is 20, so 45 + 20 = 65."
+  },
+  {
+    "id": "TNR3_15",
+    "question": "What comes next in the sequence: 2, 9, 28, 65, 126, ?",
+    "hint": "Subtract 1 from each term. What kind of numbers remain?",
+    "options": [
+      "217",
+      "215",
+      "220",
+      "210"
+    ],
+    "explanation": "Each term equals n³ + 1: 1³+1=2, 2³+1=9, 3³+1=28, 4³+1=65, 5³+1=126, 6³+1=217."
+  },
+  {
+    "id": "TNR3_16",
+    "question": "What comes next in the sequence: 3, 8, 15, 24, 35, ?",
+    "hint": "Try expressing each term as a product of two numbers close together.",
+    "options": [
+      "48",
+      "46",
+      "50",
+      "44"
+    ],
+    "explanation": "Each term equals n(n + 2): 1×3=3, 2×4=8, 3×5=15, 4×6=24, 5×7=35, 6×8=48."
+  },
+  {
+    "id": "TNR3_17",
+    "question": "What comes next in the sequence: 1, 5, 11, 19, 29, ?",
+    "hint": "The differences between terms increase by a constant. Find that constant.",
+    "options": [
+      "41",
+      "39",
+      "43",
+      "37"
+    ],
+    "explanation": "The differences are 4, 6, 8, 10 — increasing by 2 each time. The next difference is 12, so 29 + 12 = 41."
+  },
+  {
+    "id": "TNR3_18",
+    "question": "What comes next in the sequence: 2, 8, 18, 32, 50, ?",
+    "hint": "Try dividing each term by 2. Do the results look familiar?",
+    "options": [
+      "72",
+      "68",
+      "74",
+      "64"
+    ],
+    "explanation": "Each term equals 2n²: 2(1²)=2, 2(2²)=8, 2(3²)=18, 2(4²)=32, 2(5²)=50, 2(6²)=72."
+  },
+  {
+    "id": "TNR3_19",
+    "question": "What comes next in the sequence: 4, 7, 12, 19, 28, ?",
+    "hint": "Subtract 3 from each term. What sequence do you recognize?",
+    "options": [
+      "39",
+      "37",
+      "41",
+      "36"
+    ],
+    "explanation": "Each term equals n² + 3: 1²+3=4, 2²+3=7, 3²+3=12, 4²+3=19, 5²+3=28, 6²+3=39."
+  },
+  {
+    "id": "TNR3_20",
+    "question": "What comes next in the sequence: 4, 9, 19, 34, 54, ?",
+    "hint": "Find the differences, then look at the differences of those differences.",
+    "options": [
+      "79",
+      "74",
+      "84",
+      "69"
+    ],
+    "explanation": "The differences are 5, 10, 15, 20 — increasing by 5 each time. The next difference is 25, so 54 + 25 = 79."
+  },
+  {
+    "id": "TNR4_01",
+    "question": "What comes next in the sequence: 2, 3, 7, 25, 121, ?",
+    "hint": "Subtract 1 from each term and see if you recognize those numbers.",
+    "options": [
+      "721",
+      "720",
+      "625",
+      "719"
+    ],
+    "explanation": "Each term equals n! + 1: 1!+1=2, 2!+1=3, 3!+1=7, 4!+1=25, 5!+1=121, 6!+1=721."
+  },
+  {
+    "id": "TNR4_02",
+    "question": "What comes next in the sequence: 0, 1, 5, 23, 119, ?",
+    "hint": "Add 1 to each term. Do you recognize the resulting numbers?",
+    "options": [
+      "719",
+      "720",
+      "600",
+      "721"
+    ],
+    "explanation": "Each term equals n! − 1: 1!−1=0, 2!−1=1, 3!−1=5, 4!−1=23, 5!−1=119, 6!−1=719."
+  },
+  {
+    "id": "TNR4_03",
+    "question": "What comes next in the sequence: 15, 21, 28, 36, 45, ?",
+    "hint": "These are triangular numbers. The differences between terms increase by 1 each time.",
+    "options": [
+      "55",
+      "54",
+      "56",
+      "50"
+    ],
+    "explanation": "These are triangular numbers T(5) through T(10). Differences are 6, 7, 8, 9, so the next difference is 10: 45 + 10 = 55."
+  },
+  {
+    "id": "TNR4_04",
+    "question": "What comes next in the sequence: 36, 45, 55, 66, 78, ?",
+    "hint": "Compute the differences. They increase by 1 each time — a hallmark of triangular numbers.",
+    "options": [
+      "91",
+      "88",
+      "90",
+      "84"
+    ],
+    "explanation": "These are triangular numbers T(8) through T(13). Differences are 9, 10, 11, 12, so the next difference is 13: 78 + 13 = 91."
+  },
+  {
+    "id": "TNR4_05",
+    "question": "What comes next in the sequence: 1, 5, 13, 29, 61, ?",
+    "hint": "Try doubling the previous term and adding a small constant.",
+    "options": [
+      "125",
+      "122",
+      "123",
+      "127"
+    ],
+    "explanation": "Each term follows the rule: previous × 2 + 3. The next term is 61 × 2 + 3 = 125."
+  },
+  {
+    "id": "TNR4_06",
+    "question": "What comes next in the sequence: 1, 2, 5, 14, 41, ?",
+    "hint": "Try multiplying the previous term by 3 and adjusting.",
+    "options": [
+      "122",
+      "120",
+      "123",
+      "82"
+    ],
+    "explanation": "Each term follows the rule: previous × 3 − 1. The next term is 41 × 3 − 1 = 122."
+  },
+  {
+    "id": "TNR4_07",
+    "question": "What comes next in the sequence: 2, 9, 23, 51, 107, ?",
+    "hint": "Double the previous term and add a constant to get the next.",
+    "options": [
+      "219",
+      "214",
+      "215",
+      "221"
+    ],
+    "explanation": "Each term follows the rule: previous × 2 + 5. The next term is 107 × 2 + 5 = 219."
+  },
+  {
+    "id": "TNR4_08",
+    "question": "What comes next in the sequence: 9, 25, 49, 121, 169, ?",
+    "hint": "Take the square root of each term, then think about what makes those numbers special.",
+    "options": [
+      "289",
+      "225",
+      "256",
+      "324"
+    ],
+    "explanation": "These are squares of consecutive primes: 3²=9, 5²=25, 7²=49, 11²=121, 13²=169, 17²=289."
+  },
+  {
+    "id": "TNR4_09",
+    "question": "What comes next in the sequence: 10, 11, 15, 24, 40, ?",
+    "hint": "Find the differences between terms. Are those differences themselves a well-known sequence?",
+    "options": [
+      "65",
+      "56",
+      "64",
+      "60"
+    ],
+    "explanation": "The differences are 1, 4, 9, 16 — perfect squares (1², 2², 3², 4²). The next difference is 5²=25, so 40 + 25 = 65."
+  },
+  {
+    "id": "TNR4_10",
+    "question": "What comes next in the sequence: 0, 1, 3, 9, 33, ?",
+    "hint": "Compute the differences between terms. Do those differences remind you of a famous sequence?",
+    "options": [
+      "153",
+      "129",
+      "150",
+      "57"
+    ],
+    "explanation": "The differences are 1, 2, 6, 24 — these are factorials (1!, 2!, 3!, 4!). The next difference is 5!=120, so 33 + 120 = 153."
+  },
+  {
+    "id": "TNR4_11",
+    "question": "What comes next in the sequence: 2, 7, 22, 67, 202, ?",
+    "hint": "Multiply the previous term by a number and add a constant.",
+    "options": [
+      "607",
+      "606",
+      "605",
+      "610"
+    ],
+    "explanation": "Each term follows the rule: previous × 3 + 1. The next term is 202 × 3 + 1 = 607."
+  },
+  {
+    "id": "TNR4_12",
+    "question": "What comes next in the sequence: 20, 37, 71, 139, 275, ?",
+    "hint": "Try doubling the previous term and subtracting a small constant.",
+    "options": [
+      "547",
+      "550",
+      "545",
+      "553"
+    ],
+    "explanation": "Each term follows the rule: previous × 2 − 3. The next term is 275 × 2 − 3 = 547."
+  },
+  {
+    "id": "TNR4_13",
+    "question": "What comes next in the sequence: 1, 5, 14, 30, 55, ?",
+    "hint": "The differences between terms are perfect squares. Sum up consecutive squares.",
+    "options": [
+      "91",
+      "85",
+      "90",
+      "80"
+    ],
+    "explanation": "These are cumulative sums of squares: 1, 1+4=5, 5+9=14, 14+16=30, 30+25=55, 55+36=91."
+  },
+  {
+    "id": "TNR4_14",
+    "question": "What comes next in the sequence: 2, 4, 12, 48, 240, ?",
+    "hint": "Try dividing each term by 2. Do the results look like factorials?",
+    "options": [
+      "1440",
+      "1200",
+      "1680",
+      "960"
+    ],
+    "explanation": "Each term equals 2 × n!: 2×1!=2, 2×2!=4, 2×3!=12, 2×4!=48, 2×5!=240, 2×6!=1440."
+  },
+  {
+    "id": "TNR4_15",
+    "question": "What comes next in the sequence: 6, 13, 27, 55, 111, ?",
+    "hint": "Double the previous term and add a constant each time.",
+    "options": [
+      "223",
+      "222",
+      "220",
+      "225"
+    ],
+    "explanation": "Each term follows the rule: previous × 2 + 1. The next term is 111 × 2 + 1 = 223."
+  },
+  {
+    "id": "TNR4_16",
+    "question": "What comes next in the sequence: 10, 11, 14, 20, 30, ?",
+    "hint": "The differences between terms are triangular numbers: 1, 3, 6, 10, …",
+    "options": [
+      "45",
+      "40",
+      "42",
+      "50"
+    ],
+    "explanation": "The differences are 1, 3, 6, 10 — triangular numbers. The next triangular number is 15, so 30 + 15 = 45."
+  },
+  {
+    "id": "TNR4_17",
+    "question": "What comes next in the sequence: 12, 20, 30, 42, 56, ?",
+    "hint": "Try expressing each term as a product of two consecutive integers.",
+    "options": [
+      "72",
+      "68",
+      "70",
+      "64"
+    ],
+    "explanation": "These are oblong numbers n(n+1): 3×4=12, 4×5=20, 5×6=30, 6×7=42, 7×8=56, 8×9=72."
+  },
+  {
+    "id": "TNR4_18",
+    "question": "What comes next in the sequence: 1, 9, 36, 100, 225, ?",
+    "hint": "Each term is the square of a triangular number, or equivalently the cumulative sum of cubes.",
+    "options": [
+      "441",
+      "400",
+      "440",
+      "450"
+    ],
+    "explanation": "These are sums of consecutive cubes: 1³=1, 1+8=9, 9+27=36, 36+64=100, 100+125=225, 225+216=441."
+  },
+  {
+    "id": "TNR4_19",
+    "question": "What comes next in the sequence: 3, 7, 19, 55, 163, ?",
+    "hint": "Multiply the previous term by a number and subtract a constant.",
+    "options": [
+      "487",
+      "489",
+      "485",
+      "492"
+    ],
+    "explanation": "Each term follows the rule: previous × 3 − 2. The next term is 163 × 3 − 2 = 487."
+  },
+  {
+    "id": "TNR4_20",
+    "question": "What comes next in the sequence: 12, 23, 45, 89, 177, ?",
+    "hint": "Double the previous term and make a small adjustment.",
+    "options": [
+      "353",
+      "354",
+      "355",
+      "350"
+    ],
+    "explanation": "Each term follows the rule: previous × 2 − 1. The next term is 177 × 2 − 1 = 353."
+  },
+  {
+    "id": "TNR5_01",
+    "question": "What comes next in the sequence: 1, 2, 9, 64, 625, ?",
+    "hint": "Think about what power each position's base is raised to.",
+    "options": [
+      "7776",
+      "7774",
+      "7200",
+      "3125"
+    ],
+    "explanation": "Each term is n raised to the power (n−1): 1⁰=1, 2¹=2, 3²=9, 4³=64, 5⁴=625, 6⁵=7776."
+  },
+  {
+    "id": "TNR5_02",
+    "question": "What comes next in the sequence: 2, 10, 30, 68, 130, ?",
+    "hint": "Try splitting each term into a cube part and a linear part.",
+    "options": [
+      "222",
+      "220",
+      "218",
+      "216"
+    ],
+    "explanation": "Each term equals n³ + n: 1+1=2, 8+2=10, 27+3=30, 64+4=68, 125+5=130, 216+6=222."
+  },
+  {
+    "id": "TNR5_03",
+    "question": "What comes next in the sequence: 1, 1, 2, 5, 14, ?",
+    "hint": "These are the Catalan numbers. Each C(n) = C(0)C(n−1) + C(1)C(n−2) + … + C(n−1)C(0).",
+    "options": [
+      "42",
+      "28",
+      "35",
+      "48"
+    ],
+    "explanation": "These are Catalan numbers: C(0)=1, C(1)=1, C(2)=2, C(3)=5, C(4)=14, C(5)=42."
+  },
+  {
+    "id": "TNR5_04",
+    "question": "What comes next in the sequence: 1, 5, 12, 22, 35, ?",
+    "hint": "The differences are 4, 7, 10, 13 — an arithmetic sequence with step 3.",
+    "options": [
+      "51",
+      "48",
+      "50",
+      "55"
+    ],
+    "explanation": "These are pentagonal numbers: n(3n−1)/2. For n=6: 6×17/2 = 51."
+  },
+  {
+    "id": "TNR5_05",
+    "question": "What comes next in the sequence: 2, 5, 13, 35, 97, ?",
+    "hint": "Try expressing each term as a sum of two exponential expressions.",
+    "options": [
+      "275",
+      "265",
+      "270",
+      "280"
+    ],
+    "explanation": "Each term equals 2ⁿ + 3ⁿ (starting from n=0): 1+1=2, 2+3=5, 4+9=13, 8+27=35, 16+81=97, 32+243=275."
+  },
+  {
+    "id": "TNR5_06",
+    "question": "What comes next in the sequence: 1, 5, 17, 53, 161, ?",
+    "hint": "Multiply the previous term by 3 and add a small constant.",
+    "options": [
+      "485",
+      "483",
+      "322",
+      "487"
+    ],
+    "explanation": "Each term follows the rule: previous × 3 + 2. The next term is 161 × 3 + 2 = 485."
+  },
+  {
+    "id": "TNR5_07",
+    "question": "What comes next in the sequence: 1, 2, 5, 12, 27, ?",
+    "hint": "Think about powers of 2, then subtract something that depends on the position.",
+    "options": [
+      "58",
+      "54",
+      "56",
+      "60"
+    ],
+    "explanation": "Each term equals 2ⁿ − n: 2¹−1=1, 2²−2=2, 2³−3=5, 2⁴−4=12, 2⁵−5=27, 2⁶−6=58."
+  },
+  {
+    "id": "TNR5_08",
+    "question": "What comes next in the sequence: 2, 12, 36, 80, 150, ?",
+    "hint": "Try factoring each term into n² times something.",
+    "options": [
+      "252",
+      "240",
+      "250",
+      "260"
+    ],
+    "explanation": "Each term equals n²(n+1): 1×2=2, 4×3=12, 9×4=36, 16×5=80, 25×6=150, 36×7=252."
+  },
+  {
+    "id": "TNR5_09",
+    "question": "What comes next in the sequence: 1, 6, 15, 28, 45, ?",
+    "hint": "The differences are 5, 9, 13, 17 — increasing by 4. These are hexagonal numbers.",
+    "options": [
+      "66",
+      "60",
+      "63",
+      "70"
+    ],
+    "explanation": "These are hexagonal numbers: n(2n−1). For n=6: 6×11 = 66."
+  },
+  {
+    "id": "TNR5_10",
+    "question": "What comes next in the sequence: 2, 6, 15, 40, 145, ?",
+    "hint": "Try splitting each term into a factorial part and a square part.",
+    "options": [
+      "756",
+      "750",
+      "745",
+      "760"
+    ],
+    "explanation": "Each term equals n! + n²: 1!+1=2, 2!+4=6, 3!+9=15, 4!+16=40, 5!+25=145, 6!+36=756."
+  },
+  {
+    "id": "TNR5_11",
+    "question": "What comes next in the sequence: 2, 4, 7, 14, 17, ?",
+    "hint": "The operations alternate between two different rules at odd and even steps.",
+    "options": [
+      "34",
+      "20",
+      "31",
+      "37"
+    ],
+    "explanation": "The pattern alternates: ×2, +3, ×2, +3, ×2. So 17 × 2 = 34."
+  },
+  {
+    "id": "TNR5_12",
+    "question": "What comes next in the sequence: 1, 5, 19, 65, 211, ?",
+    "hint": "Express each term as a difference of two exponential values.",
+    "options": [
+      "665",
+      "660",
+      "633",
+      "670"
+    ],
+    "explanation": "Each term equals 3ⁿ − 2ⁿ: 3−2=1, 9−4=5, 27−8=19, 81−16=65, 243−32=211, 729−64=665."
+  },
+  {
+    "id": "TNR5_13",
+    "question": "What comes next in the sequence: 1, 4, 11, 29, 76, ?",
+    "hint": "Each term depends on the two terms before it. Try a linear combination.",
+    "options": [
+      "199",
+      "197",
+      "200",
+      "228"
+    ],
+    "explanation": "The rule is a(n) = 3×a(n−1) − a(n−2): 3×29−11=76, 3×76−29=199."
+  },
+  {
+    "id": "TNR5_14",
+    "question": "What comes next in the sequence: 20, 22, 26, 34, 50, ?",
+    "hint": "The differences are 2, 4, 8, 16 — powers of 2.",
+    "options": [
+      "82",
+      "66",
+      "80",
+      "84"
+    ],
+    "explanation": "The differences are powers of 2: 2, 4, 8, 16. The next difference is 32, so 50 + 32 = 82."
+  },
+  {
+    "id": "TNR5_15",
+    "question": "What comes next in the sequence: 1, 4, 10, 20, 35, ?",
+    "hint": "These are tetrahedral numbers — sums of consecutive triangular numbers.",
+    "options": [
+      "56",
+      "50",
+      "55",
+      "60"
+    ],
+    "explanation": "Tetrahedral numbers: n(n+1)(n+2)/6. For n=6: 6×7×8/6 = 56."
+  },
+  {
+    "id": "TNR5_16",
+    "question": "What comes next in the sequence: 1, 13, 37, 73, 121, ?",
+    "hint": "The differences are 12, 24, 36, 48 — multiples of 12.",
+    "options": [
+      "181",
+      "169",
+      "175",
+      "193"
+    ],
+    "explanation": "These are star numbers: 6n(n−1)+1. For n=6: 6×30+1 = 181."
+  },
+  {
+    "id": "TNR5_17",
+    "question": "What comes next in the sequence: 1, 7, 19, 37, 61, ?",
+    "hint": "The differences are 6, 12, 18, 24 — multiples of 6.",
+    "options": [
+      "91",
+      "85",
+      "90",
+      "97"
+    ],
+    "explanation": "These are centered hexagonal numbers: 3n(n−1)+1. For n=6: 3×30+1 = 91."
+  },
+  {
+    "id": "TNR5_18",
+    "question": "What comes next in the sequence: 3, 8, 17, 32, 57, ?",
+    "hint": "Try expressing each term as the sum of a square and a power of 2.",
+    "options": [
+      "100",
+      "96",
+      "98",
+      "105"
+    ],
+    "explanation": "Each term equals n² + 2ⁿ: 1+2=3, 4+4=8, 9+8=17, 16+16=32, 25+32=57, 36+64=100."
+  },
+  {
+    "id": "TNR5_19",
+    "question": "What comes next in the sequence: 1, 4, 8, 11, 22, ?",
+    "hint": "Two different operations alternate. One adds, the other multiplies.",
+    "options": [
+      "25",
+      "44",
+      "24",
+      "26"
+    ],
+    "explanation": "The pattern alternates: +3, ×2, +3, ×2, +3. So 22 + 3 = 25."
+  },
+  {
+    "id": "TNR5_20",
+    "question": "What comes next in the sequence: 1, 1, 3, 5, 11, ?",
+    "hint": "Each term uses both of the two preceding terms with different weights.",
+    "options": [
+      "21",
+      "16",
+      "22",
+      "19"
+    ],
+    "explanation": "The rule is a(n) = a(n−1) + 2×a(n−2): 5 + 2×3 = 11, 11 + 2×5 = 21."
+  },
+  {
+    "id": "TLR1_01",
+    "question": "All doctors are professionals. Dr. Adams is a doctor. What can you conclude?",
+    "hint": "If all X are Y, and Z is an X, then Z must be a Y.",
+    "options": [
+      "Dr. Adams is a professional",
+      "Dr. Adams is not a professional",
+      "Some professionals are not doctors",
+      "All professionals are doctors"
+    ],
+    "explanation": "Since all doctors are professionals and Dr. Adams is a doctor, Dr. Adams must be a professional. This is a direct application of the universal affirmative syllogism."
+  },
+  {
+    "id": "TLR1_02",
+    "question": "All lions are animals. Simba is a lion. What can you conclude?",
+    "hint": "Apply the rule: if every member of group X belongs to group Y, and Simba is in group X…",
+    "options": [
+      "Simba is an animal",
+      "All animals are lions",
+      "Simba is not an animal",
+      "Some animals are not lions"
+    ],
+    "explanation": "All lions are animals and Simba is a lion, so Simba is an animal."
+  },
+  {
+    "id": "TLR1_03",
+    "question": "All oranges are fruits. This item is an orange. What can you conclude?",
+    "hint": "If every orange is a fruit, and this item is an orange…",
+    "options": [
+      "This item is a fruit",
+      "All fruits are oranges",
+      "This item is a vegetable",
+      "This item might not be a fruit"
+    ],
+    "explanation": "Since all oranges are fruits and this item is an orange, this item must be a fruit."
+  },
+  {
+    "id": "TLR1_04",
+    "question": "All cars are vehicles. A BMW is a car. What can you conclude?",
+    "hint": "Cars are a subset of vehicles. Where does a BMW fall?",
+    "options": [
+      "A BMW is a vehicle",
+      "All vehicles are cars",
+      "A BMW is not a vehicle",
+      "Some vehicles are not cars"
+    ],
+    "explanation": "All cars are vehicles. A BMW is a car, therefore a BMW is a vehicle."
+  },
+  {
+    "id": "TLR1_05",
+    "question": "No birds are insects. A robin is a bird. What can you conclude?",
+    "hint": "If no member of group X is in group Y, and a robin is in group X…",
+    "options": [
+      "A robin is not an insect",
+      "A robin is an insect",
+      "Some insects are birds",
+      "All robins are insects"
+    ],
+    "explanation": "No birds are insects. Since a robin is a bird, a robin cannot be an insect."
+  },
+  {
+    "id": "TLR1_06",
+    "question": "All ice is cold. The cube on the table is made of ice. What can you conclude?",
+    "hint": "If everything that is ice is cold, and the cube is ice…",
+    "options": [
+      "The cube is cold",
+      "The cube is warm",
+      "Not all ice is cold",
+      "The table is cold"
+    ],
+    "explanation": "All ice is cold and the cube is ice, so the cube is cold."
+  },
+  {
+    "id": "TLR1_07",
+    "question": "All violins are instruments. A Stradivarius is a violin. What can you conclude?",
+    "hint": "Violins belong to the set of instruments. A Stradivarius belongs to…",
+    "options": [
+      "A Stradivarius is an instrument",
+      "All instruments are violins",
+      "A Stradivarius is not an instrument",
+      "Some instruments cannot be played"
+    ],
+    "explanation": "All violins are instruments, and a Stradivarius is a violin, so it is an instrument."
+  },
+  {
+    "id": "TLR1_08",
+    "question": "All roses are plants. This specimen is a rose. What can you conclude?",
+    "hint": "Roses are a subset of plants. This specimen is a rose, so…",
+    "options": [
+      "This specimen is a plant",
+      "All plants are roses",
+      "This specimen is not a plant",
+      "Roses are not plants"
+    ],
+    "explanation": "All roses are plants. This specimen is a rose, therefore it is a plant."
+  },
+  {
+    "id": "TLR1_09",
+    "question": "All gold is metallic. This ring is made of gold. What can you conclude?",
+    "hint": "Gold is always metallic. The ring is gold, so…",
+    "options": [
+      "This ring is metallic",
+      "All metallic things are gold",
+      "This ring is not metallic",
+      "Gold is sometimes non-metallic"
+    ],
+    "explanation": "All gold is metallic. The ring is gold, so the ring is metallic."
+  },
+  {
+    "id": "TLR1_10",
+    "question": "All rivers contain flowing water. The Amazon is a river. What can you conclude?",
+    "hint": "If every river contains flowing water, and the Amazon is a river…",
+    "options": [
+      "The Amazon contains flowing water",
+      "All flowing water is a river",
+      "The Amazon does not contain water",
+      "Some rivers are dry"
+    ],
+    "explanation": "All rivers contain flowing water. The Amazon is a river, so it contains flowing water."
+  },
+  {
+    "id": "TLR1_11",
+    "question": "All novels are books. All books contain pages. What can you conclude?",
+    "hint": "Chain the two relationships: novels → books → pages.",
+    "options": [
+      "All novels contain pages",
+      "All pages are in novels",
+      "Some books are not novels",
+      "Novels do not contain pages"
+    ],
+    "explanation": "All novels are books, and all books contain pages, so by transitivity all novels contain pages."
+  },
+  {
+    "id": "TLR1_12",
+    "question": "All chefs can cook. Pierre is a chef. What can you conclude?",
+    "hint": "If every chef can cook, and Pierre is a chef…",
+    "options": [
+      "Pierre can cook",
+      "Everyone who can cook is a chef",
+      "Pierre cannot cook",
+      "Some chefs cannot cook"
+    ],
+    "explanation": "All chefs can cook. Pierre is a chef, so Pierre can cook."
+  },
+  {
+    "id": "TLR1_13",
+    "question": "All eagles are birds. All birds have feathers. What can you conclude?",
+    "hint": "Chain the sets: eagles ⊂ birds ⊂ feathered creatures.",
+    "options": [
+      "All eagles have feathers",
+      "All feathered creatures are eagles",
+      "Eagles do not have feathers",
+      "Some birds are not eagles"
+    ],
+    "explanation": "All eagles are birds and all birds have feathers, so all eagles have feathers."
+  },
+  {
+    "id": "TLR1_14",
+    "question": "All planets orbit a star. Saturn is a planet. What can you conclude?",
+    "hint": "Planets orbit stars. Saturn is a planet, so…",
+    "options": [
+      "Saturn orbits a star",
+      "All things that orbit a star are planets",
+      "Saturn does not orbit a star",
+      "Stars orbit Saturn"
+    ],
+    "explanation": "All planets orbit a star. Saturn is a planet, therefore Saturn orbits a star."
+  },
+  {
+    "id": "TLR1_15",
+    "question": "All whales are mammals. A blue whale is a whale. What can you conclude?",
+    "hint": "Whales are a subset of mammals. A blue whale is a whale, so…",
+    "options": [
+      "A blue whale is a mammal",
+      "All mammals are whales",
+      "A blue whale is a fish",
+      "Some whales are not mammals"
+    ],
+    "explanation": "All whales are mammals. A blue whale is a whale, so a blue whale is a mammal."
+  },
+  {
+    "id": "TLR1_16",
+    "question": "No herbivores eat meat. A rabbit is a herbivore. What can you conclude?",
+    "hint": "If no herbivore eats meat, and a rabbit is a herbivore…",
+    "options": [
+      "A rabbit does not eat meat",
+      "A rabbit eats meat",
+      "Some herbivores eat meat",
+      "All meat-eaters are rabbits"
+    ],
+    "explanation": "No herbivores eat meat. A rabbit is a herbivore, so a rabbit does not eat meat."
+  },
+  {
+    "id": "TLR1_17",
+    "question": "All puppies are dogs. All dogs are canines. What can you conclude?",
+    "hint": "Chain: puppies ⊂ dogs ⊂ canines.",
+    "options": [
+      "All puppies are canines",
+      "All canines are puppies",
+      "Puppies are not canines",
+      "Some dogs are not canines"
+    ],
+    "explanation": "All puppies are dogs and all dogs are canines, so by transitivity all puppies are canines."
+  },
+  {
+    "id": "TLR1_18",
+    "question": "All teachers work in education. Mr. Brown is a teacher. What can you conclude?",
+    "hint": "If every teacher works in education, and Mr. Brown is a teacher…",
+    "options": [
+      "Mr. Brown works in education",
+      "Everyone in education is a teacher",
+      "Mr. Brown does not work in education",
+      "Some teachers do not work in education"
+    ],
+    "explanation": "All teachers work in education. Mr. Brown is a teacher, so he works in education."
+  },
+  {
+    "id": "TLR1_19",
+    "question": "All diamonds are gems. All gems are valuable. What can you conclude?",
+    "hint": "Chain: diamonds ⊂ gems ⊂ valuable things.",
+    "options": [
+      "All diamonds are valuable",
+      "All valuable things are diamonds",
+      "Diamonds are not valuable",
+      "Some gems are not valuable"
+    ],
+    "explanation": "All diamonds are gems and all gems are valuable, so all diamonds are valuable."
+  },
+  {
+    "id": "TLR1_20",
+    "question": "All summer days are warm. Today is a summer day. What can you conclude?",
+    "hint": "If every summer day is warm, and today is a summer day…",
+    "options": [
+      "Today is warm",
+      "All warm days are summer days",
+      "Today is cold",
+      "Summer days are not always warm"
+    ],
+    "explanation": "All summer days are warm. Today is a summer day, so today is warm."
+  },
+  {
+    "id": "TLR2_01",
+    "question": "If it snows, the temperature is below freezing. It is snowing. What can you conclude?",
+    "hint": "Modus Ponens: If P→Q and P is true, then Q must be true.",
+    "options": [
+      "The temperature is below freezing",
+      "The temperature is above freezing",
+      "It is not snowing",
+      "Nothing can be concluded"
+    ],
+    "explanation": "Modus Ponens: P→Q (snow → below freezing). P is true (snowing), so Q is true (below freezing)."
+  },
+  {
+    "id": "TLR2_02",
+    "question": "If you study regularly, your grades improve. Your grades did not improve. What can you conclude?",
+    "hint": "Modus Tollens: If P→Q and Q is false, then P must be false.",
+    "options": [
+      "You did not study regularly",
+      "You studied regularly",
+      "Your grades improved",
+      "Studying has no effect on grades"
+    ],
+    "explanation": "Modus Tollens: P→Q (study → grades improve). Q is false (grades didn't improve), so P is false (didn't study regularly)."
+  },
+  {
+    "id": "TLR2_03",
+    "question": "If a phone is fully charged, it lasts all day. Your phone is fully charged. What can you conclude?",
+    "hint": "The antecedent is true. Apply Modus Ponens.",
+    "options": [
+      "Your phone will last all day",
+      "Your phone will not last all day",
+      "Your phone is not charged",
+      "Nothing can be concluded"
+    ],
+    "explanation": "Modus Ponens: P→Q (charged → lasts all day). P is true (fully charged), so Q is true (lasts all day)."
+  },
+  {
+    "id": "TLR2_04",
+    "question": "If the alarm is set, it rings at 7 AM. The alarm did not ring at 7 AM. What can you conclude?",
+    "hint": "The consequent is false. Apply Modus Tollens.",
+    "options": [
+      "The alarm was not set",
+      "The alarm was set",
+      "The alarm rang at 7 AM",
+      "The alarm is broken"
+    ],
+    "explanation": "Modus Tollens: P→Q (alarm set → rings at 7). Q is false (didn't ring), so P is false (not set)."
+  },
+  {
+    "id": "TLR2_05",
+    "question": "If you have the correct key, the lock opens. You have the correct key. What can you conclude?",
+    "hint": "The antecedent is true. Apply Modus Ponens.",
+    "options": [
+      "The lock opens",
+      "The lock does not open",
+      "You do not have the correct key",
+      "The lock is jammed"
+    ],
+    "explanation": "Modus Ponens: P→Q (correct key → lock opens). P is true (have key), so Q is true (lock opens)."
+  },
+  {
+    "id": "TLR2_06",
+    "question": "If the electricity is on, the refrigerator runs. The refrigerator is not running. What can you conclude?",
+    "hint": "The consequent is false. Apply Modus Tollens.",
+    "options": [
+      "The electricity is not on",
+      "The electricity is on",
+      "The refrigerator is running",
+      "Nothing can be concluded"
+    ],
+    "explanation": "Modus Tollens: P→Q (electricity → fridge runs). Q is false (not running), so P is false (electricity off)."
+  },
+  {
+    "id": "TLR2_07",
+    "question": "If you water plants daily, they stay green. You water your plants daily. What can you conclude?",
+    "hint": "The condition (antecedent) is met. What follows?",
+    "options": [
+      "Your plants stay green",
+      "Your plants will wilt",
+      "You do not water them",
+      "Watering has no effect"
+    ],
+    "explanation": "Modus Ponens: P→Q (water daily → stay green). P is true (you water daily), so Q is true (they stay green)."
+  },
+  {
+    "id": "TLR2_08",
+    "question": "If a car has fuel, the engine can start. The engine cannot start. What can you conclude?",
+    "hint": "The result (consequent) did not happen. Apply Modus Tollens.",
+    "options": [
+      "The car does not have fuel",
+      "The car has fuel",
+      "The engine started",
+      "Nothing can be concluded"
+    ],
+    "explanation": "Modus Tollens: P→Q (fuel → engine starts). Q is false (engine won't start), so P is false (no fuel)."
+  },
+  {
+    "id": "TLR2_09",
+    "question": "If you buy a ticket, you can board the train. You bought a ticket. What can you conclude?",
+    "hint": "You satisfied the condition. What must follow?",
+    "options": [
+      "You can board the train",
+      "You cannot board the train",
+      "You did not buy a ticket",
+      "The train is cancelled"
+    ],
+    "explanation": "Modus Ponens: P→Q (ticket → board train). P is true (bought ticket), so Q is true (can board)."
+  },
+  {
+    "id": "TLR2_10",
+    "question": "If you have a valid passport, you can cross the border. You cannot cross the border. What can you conclude?",
+    "hint": "You could not do Q. If P→Q, what does ¬Q tell you about P?",
+    "options": [
+      "You do not have a valid passport",
+      "You have a valid passport",
+      "You crossed the border",
+      "Passports are not required"
+    ],
+    "explanation": "Modus Tollens: P→Q (passport → cross border). Q is false (can't cross), so P is false (no valid passport)."
+  },
+  {
+    "id": "TLR2_11",
+    "question": "If an animal is a horse, it has four legs. This animal has four legs. What can you conclude?",
+    "hint": "Knowing the consequent is true does NOT prove the antecedent. Many animals have four legs.",
+    "options": [
+      "We cannot conclude it is a horse",
+      "It is definitely a horse",
+      "It has two legs",
+      "It is not an animal"
+    ],
+    "explanation": "Affirming the consequent is a fallacy. P→Q (horse → four legs) and Q is true does NOT mean P is true. Many non-horse animals have four legs."
+  },
+  {
+    "id": "TLR2_12",
+    "question": "If a person is a lawyer, they studied law. Sam studied law. What can you conclude?",
+    "hint": "Just because the result (Q) is true, can you be sure the condition (P) is true?",
+    "options": [
+      "We cannot conclude Sam is a lawyer",
+      "Sam is definitely a lawyer",
+      "Sam did not study law",
+      "All law students are lawyers"
+    ],
+    "explanation": "Affirming the consequent is a fallacy. P→Q (lawyer → studied law) and Q true (studied law) does NOT prove P (is a lawyer). Many people study law without becoming lawyers."
+  },
+  {
+    "id": "TLR2_13",
+    "question": "If the oven is on, the kitchen gets warm. The kitchen is not warm. What can you conclude?",
+    "hint": "The consequent is false. What does Modus Tollens say?",
+    "options": [
+      "The oven is not on",
+      "The oven is on",
+      "The kitchen is warm",
+      "Nothing can be concluded"
+    ],
+    "explanation": "Modus Tollens: P→Q (oven on → kitchen warm). Q is false (not warm), so P is false (oven not on)."
+  },
+  {
+    "id": "TLR2_14",
+    "question": "If you press the brake, the car slows down. You pressed the brake. What can you conclude?",
+    "hint": "The antecedent is true. Apply Modus Ponens.",
+    "options": [
+      "The car slows down",
+      "The car speeds up",
+      "You did not press the brake",
+      "Nothing happens"
+    ],
+    "explanation": "Modus Ponens: P→Q (press brake → car slows). P is true (pressed brake), so Q is true (car slows)."
+  },
+  {
+    "id": "TLR2_15",
+    "question": "If it is snowing, the sky is cloudy. The sky is cloudy. What can you conclude?",
+    "hint": "Cloudy skies can exist without snow. Is this affirming the consequent?",
+    "options": [
+      "We cannot conclude it is snowing",
+      "It is definitely snowing",
+      "The sky is clear",
+      "It never snows when cloudy"
+    ],
+    "explanation": "Affirming the consequent is a fallacy. P→Q (snow → cloudy) and Q true (cloudy) does NOT mean P is true. Skies can be cloudy without snow."
+  },
+  {
+    "id": "TLR2_16",
+    "question": "If the battery is charged, the flashlight works. The flashlight does not work. What can you conclude?",
+    "hint": "The flashlight fails (Q false). What does that tell you about the battery (P)?",
+    "options": [
+      "The battery is not charged",
+      "The battery is charged",
+      "The flashlight works",
+      "Nothing can be concluded"
+    ],
+    "explanation": "Modus Tollens: P→Q (charged → flashlight works). Q is false (doesn't work), so P is false (not charged)."
+  },
+  {
+    "id": "TLR2_17",
+    "question": "If you add sugar to tea, the tea becomes sweet. You added sugar to the tea. What can you conclude?",
+    "hint": "The condition is met. Apply Modus Ponens.",
+    "options": [
+      "The tea becomes sweet",
+      "The tea stays bitter",
+      "You did not add sugar",
+      "Sugar has no effect"
+    ],
+    "explanation": "Modus Ponens: P→Q (add sugar → tea sweet). P is true (added sugar), so Q is true (tea is sweet)."
+  },
+  {
+    "id": "TLR2_18",
+    "question": "If the Wi-Fi router is on, devices can connect to the internet. Devices cannot connect to the internet. What can you conclude?",
+    "hint": "Devices can't connect (Q false). Use Modus Tollens.",
+    "options": [
+      "The Wi-Fi router is not on",
+      "The Wi-Fi router is on",
+      "Devices can connect",
+      "The internet does not exist"
+    ],
+    "explanation": "Modus Tollens: P→Q (router on → devices connect). Q is false (can't connect), so P is false (router not on)."
+  },
+  {
+    "id": "TLR2_19",
+    "question": "If a student enrolls in a course, they receive a syllabus. Emma enrolled in the course. What can you conclude?",
+    "hint": "Emma satisfied the antecedent. What must follow?",
+    "options": [
+      "Emma receives a syllabus",
+      "Emma does not receive a syllabus",
+      "Emma did not enroll",
+      "The course has no syllabus"
+    ],
+    "explanation": "Modus Ponens: P→Q (enroll → receive syllabus). P is true (Emma enrolled), so Q is true (Emma receives a syllabus)."
+  },
+  {
+    "id": "TLR2_20",
+    "question": "If it is Sunday, the shop is closed. It is not Sunday. What can you conclude?",
+    "hint": "The antecedent is false. Does that tell you whether Q is true or false? Think about the denying-the-antecedent fallacy.",
+    "options": [
+      "We cannot conclude whether the shop is open or closed",
+      "The shop is definitely open",
+      "The shop is definitely closed",
+      "It must be Saturday"
+    ],
+    "explanation": "Denying the antecedent is a fallacy. P→Q (Sunday → closed). P false (not Sunday) does NOT tell us Q. The shop might be closed for other reasons."
+  },
+  {
+    "id": "TLR3_01",
+    "question": "Anna is taller than Dana. Dana is taller than Ben. Ben is taller than Carl. Who is the shortest?",
+    "hint": "Write out the chain of inequalities and find the bottom.",
+    "options": [
+      "Carl",
+      "Ben",
+      "Dana",
+      "Anna"
+    ],
+    "explanation": "Anna > Dana > Ben > Carl. Carl is at the bottom, so Carl is the shortest."
+  },
+  {
+    "id": "TLR3_02",
+    "question": "Felix is lighter than George. Harry is heavier than George. Ivan is lighter than Felix. Who is the heaviest?",
+    "hint": "Order each pair: H>G, G>F, F>I. Chain them.",
+    "options": [
+      "Harry",
+      "George",
+      "Felix",
+      "Ivan"
+    ],
+    "explanation": "Harry > George > Felix > Ivan. Harry is the heaviest."
+  },
+  {
+    "id": "TLR3_03",
+    "question": "Mia is younger than Nina. Oscar is older than Nina. Pam is younger than Mia. Who is the oldest?",
+    "hint": "Write inequalities: O>N>M>P. Who is at the top?",
+    "options": [
+      "Oscar",
+      "Nina",
+      "Mia",
+      "Pam"
+    ],
+    "explanation": "Oscar > Nina > Mia > Pam. Oscar is the oldest."
+  },
+  {
+    "id": "TLR3_04",
+    "question": "In a race, Raj finished after Sam. Tina finished before Sam. Uma finished after Raj. Who finished first?",
+    "hint": "Before = faster. Chain finishing positions: Tina before Sam before Raj before Uma.",
+    "options": [
+      "Tina",
+      "Sam",
+      "Raj",
+      "Uma"
+    ],
+    "explanation": "Order of finish: Tina → Sam → Raj → Uma. Tina finished first."
+  },
+  {
+    "id": "TLR3_05",
+    "question": "Victor earns less than Wendy. Wendy earns less than Xavier. Yara earns more than Xavier. Who earns the most?",
+    "hint": "Chain: V<W<X<Y. Who is at the top?",
+    "options": [
+      "Yara",
+      "Xavier",
+      "Wendy",
+      "Victor"
+    ],
+    "explanation": "Yara > Xavier > Wendy > Victor. Yara earns the most."
+  },
+  {
+    "id": "TLR3_06",
+    "question": "Eve scored higher than Frank. Grace scored lower than Frank. Dave scored higher than Eve. Who scored the lowest?",
+    "hint": "D>E>F>G. Who is at the bottom?",
+    "options": [
+      "Grace",
+      "Frank",
+      "Eve",
+      "Dave"
+    ],
+    "explanation": "Dave > Eve > Frank > Grace. Grace scored the lowest."
+  },
+  {
+    "id": "TLR3_07",
+    "question": "Lily swims faster than Max. Olivia swims faster than Lily. Noah swims slower than Max. Who is the slowest?",
+    "hint": "O>L>M>N. Who is at the bottom?",
+    "options": [
+      "Noah",
+      "Max",
+      "Lily",
+      "Olivia"
+    ],
+    "explanation": "Olivia > Lily > Max > Noah (speed). Noah is the slowest."
+  },
+  {
+    "id": "TLR3_08",
+    "question": "Quinn is shorter than Ruth. Steve is taller than Tom. Tom is taller than Ruth. Who is the tallest?",
+    "hint": "Chain: S>T>R>Q. Who is at the top?",
+    "options": [
+      "Steve",
+      "Tom",
+      "Ruth",
+      "Quinn"
+    ],
+    "explanation": "Steve > Tom > Ruth > Quinn. Steve is the tallest."
+  },
+  {
+    "id": "TLR3_09",
+    "question": "Amy weighs less than Brian. Clara weighs more than Dan. Dan weighs more than Brian. Who is the lightest?",
+    "hint": "C>D>B>A. Who is at the bottom?",
+    "options": [
+      "Amy",
+      "Brian",
+      "Dan",
+      "Clara"
+    ],
+    "explanation": "Clara > Dan > Brian > Amy. Amy is the lightest."
+  },
+  {
+    "id": "TLR3_10",
+    "question": "Jake runs slower than Kim. Leo runs faster than Mona. Mona runs faster than Kim. Who is the second fastest?",
+    "hint": "L>M>K>J. Who comes second?",
+    "options": [
+      "Mona",
+      "Kim",
+      "Leo",
+      "Jake"
+    ],
+    "explanation": "Leo > Mona > Kim > Jake. Mona is the second fastest."
+  },
+  {
+    "id": "TLR3_11",
+    "question": "In a group of 20 students, 12 play tennis and 10 play soccer. Every student plays at least one of these sports. How many play both?",
+    "hint": "Use: Both = A + B − Total (when everyone does at least one).",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "10"
+    ],
+    "explanation": "Both = 12 + 10 − 20 = 2. Two students play both sports."
+  },
+  {
+    "id": "TLR3_12",
+    "question": "In a group of 25 people, 18 like coffee and 13 like tea. Everyone likes at least one. How many like both?",
+    "hint": "Both = coffee + tea − total.",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "explanation": "Both = 18 + 13 − 25 = 6. Six people like both."
+  },
+  {
+    "id": "TLR3_13",
+    "question": "In a company of 35 employees, 20 speak French and 22 speak German. Every employee speaks at least one of these languages. How many speak both?",
+    "hint": "Both = French + German − Total.",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "13"
+    ],
+    "explanation": "Both = 20 + 22 − 35 = 7. Seven employees speak both."
+  },
+  {
+    "id": "TLR3_14",
+    "question": "In a group of 40 tourists, 28 visited the museum and 18 visited the park. Every tourist visited at least one place. How many visited both?",
+    "hint": "Both = museum + park − total.",
+    "options": [
+      "6",
+      "10",
+      "8",
+      "4"
+    ],
+    "explanation": "Both = 28 + 18 − 40 = 6. Six tourists visited both."
+  },
+  {
+    "id": "TLR3_15",
+    "question": "In a group of 30 readers, 16 read fiction and 20 read non-fiction. Every reader reads at least one type. How many read both?",
+    "hint": "Both = fiction + non-fiction − total.",
+    "options": [
+      "6",
+      "4",
+      "10",
+      "14"
+    ],
+    "explanation": "Both = 16 + 20 − 30 = 6. Six readers read both."
+  },
+  {
+    "id": "TLR3_16",
+    "question": "In a row of people, Alice is 3rd from the left and 5th from the right. How many people are in the row?",
+    "hint": "Total = left position + right position − 1.",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "explanation": "Total = 3 + 5 − 1 = 7. There are 7 people in the row."
+  },
+  {
+    "id": "TLR3_17",
+    "question": "In a row, Bob is 7th from the left and 4th from the right. How many people are in the row?",
+    "hint": "Total = left position + right position − 1.",
+    "options": [
+      "10",
+      "11",
+      "9",
+      "12"
+    ],
+    "explanation": "Total = 7 + 4 − 1 = 10. There are 10 people in the row."
+  },
+  {
+    "id": "TLR3_18",
+    "question": "In a queue, Carol is 5th from the front and 9th from the back. How many people are in the queue?",
+    "hint": "Total = front position + back position − 1.",
+    "options": [
+      "13",
+      "14",
+      "12",
+      "15"
+    ],
+    "explanation": "Total = 5 + 9 − 1 = 13. There are 13 people in the queue."
+  },
+  {
+    "id": "TLR3_19",
+    "question": "In a line, David is 9th from the front and 3rd from the back. How many people are in the line?",
+    "hint": "Total = front position + back position − 1.",
+    "options": [
+      "11",
+      "12",
+      "10",
+      "13"
+    ],
+    "explanation": "Total = 9 + 3 − 1 = 11. There are 11 people in the line."
+  },
+  {
+    "id": "TLR3_20",
+    "question": "In a row, Emily is 6th from the left and 6th from the right. How many people are in the row?",
+    "hint": "Total = left position + right position − 1.",
+    "options": [
+      "11",
+      "12",
+      "10",
+      "13"
+    ],
+    "explanation": "Total = 6 + 6 − 1 = 11. There are 11 people in the row."
+  },
+  {
+    "id": "TLR4_01",
+    "question": "Five people are compared by weight. E is heavier than A. A is heavier than B. C is heavier than D. D is heavier than B. A is heavier than C. Rank from heaviest to lightest.",
+    "hint": "List each pair: E>A, A>B, C>D>B, A>C. Combine into one chain.",
+    "options": [
+      "E, A, C, D, B",
+      "E, A, D, C, B",
+      "A, E, C, D, B",
+      "E, C, A, D, B"
+    ],
+    "explanation": "E > A > C > D > B. E is heaviest, then A, C, D, and B is lightest."
+  },
+  {
+    "id": "TLR4_02",
+    "question": "Five runners finish a race. Sam finishes before Priya. Priya finishes before Quinn. Quinn finishes before Tara. Tara finishes before Rosa. Who finishes third?",
+    "hint": "Chain the finish order: Sam → Priya → Quinn → Tara → Rosa.",
+    "options": [
+      "Quinn",
+      "Priya",
+      "Tara",
+      "Sam"
+    ],
+    "explanation": "Finish order: Sam, Priya, Quinn, Tara, Rosa. Quinn finishes third."
+  },
+  {
+    "id": "TLR4_03",
+    "question": "Five students scored differently on a test. Jack scored higher than Fred. Fred scored higher than Gina. Gina scored higher than Iris. Iris scored higher than Hank. Who scored second lowest?",
+    "hint": "Chain: J>F>G>I>H. Count from the bottom.",
+    "options": [
+      "Iris",
+      "Gina",
+      "Hank",
+      "Fred"
+    ],
+    "explanation": "Jack > Fred > Gina > Iris > Hank. Second lowest (second from bottom) is Iris."
+  },
+  {
+    "id": "TLR4_04",
+    "question": "Six athletes ranked by speed: Diana is faster than Ava. Ava is faster than Bella. Bella is faster than Chloe. Elena is faster than Diana. Fiona is slower than Chloe. Rank from fastest to slowest.",
+    "hint": "E>D>A>B>C>F. Build the chain step by step.",
+    "options": [
+      "Elena, Diana, Ava, Bella, Chloe, Fiona",
+      "Diana, Elena, Ava, Bella, Chloe, Fiona",
+      "Elena, Ava, Diana, Bella, Chloe, Fiona",
+      "Elena, Diana, Bella, Ava, Chloe, Fiona"
+    ],
+    "explanation": "Elena > Diana > Ava > Bella > Chloe > Fiona."
+  },
+  {
+    "id": "TLR4_05",
+    "question": "Five cities ranked by population: Penny has more people than Liam. Liam has more than Mason. Noah has fewer than Oliver. Oliver has fewer than Mason. Rank from most to least populated.",
+    "hint": "P>L>M>O>N. Combine the relationships.",
+    "options": [
+      "Penny, Liam, Mason, Oliver, Noah",
+      "Liam, Penny, Mason, Oliver, Noah",
+      "Penny, Mason, Liam, Oliver, Noah",
+      "Penny, Liam, Oliver, Mason, Noah"
+    ],
+    "explanation": "Penny > Liam > Mason > Oliver > Noah."
+  },
+  {
+    "id": "TLR4_06",
+    "question": "In a company of 60 employees, 38 use Windows and 30 use Mac. Every employee uses at least one operating system. How many use both?",
+    "hint": "Both = Windows + Mac − Total.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "6"
+    ],
+    "explanation": "Both = 38 + 30 − 60 = 8."
+  },
+  {
+    "id": "TLR4_07",
+    "question": "In a school of 80 students, 55 study Mathematics and 42 study Science. Every student studies at least one subject. How many study both?",
+    "hint": "Both = Math + Science − Total.",
+    "options": [
+      "17",
+      "15",
+      "20",
+      "23"
+    ],
+    "explanation": "Both = 55 + 42 − 80 = 17."
+  },
+  {
+    "id": "TLR4_08",
+    "question": "In a club of 75 members, 50 play chess and 40 play checkers. Every member plays at least one game. How many play both?",
+    "hint": "Both = chess + checkers − total.",
+    "options": [
+      "15",
+      "10",
+      "20",
+      "25"
+    ],
+    "explanation": "Both = 50 + 40 − 75 = 15."
+  },
+  {
+    "id": "TLR4_09",
+    "question": "In a survey of 90 people, 60 like chocolate and 52 like vanilla. Everyone likes at least one flavor. How many like both?",
+    "hint": "Both = chocolate + vanilla − total.",
+    "options": [
+      "22",
+      "18",
+      "30",
+      "12"
+    ],
+    "explanation": "Both = 60 + 52 − 90 = 22."
+  },
+  {
+    "id": "TLR4_10",
+    "question": "In a group of 100 voters, 72 support Proposal A and 65 support Proposal B. Every voter supports at least one proposal. How many support both?",
+    "hint": "Both = A + B − Total.",
+    "options": [
+      "37",
+      "35",
+      "40",
+      "28"
+    ],
+    "explanation": "Both = 72 + 65 − 100 = 37."
+  },
+  {
+    "id": "TLR4_11",
+    "question": "In a survey of 50 people, 30 own a car, 25 own a bicycle, and 10 own both. How many own neither?",
+    "hint": "At-least-one = car + bicycle − both. Neither = total − at-least-one.",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "0"
+    ],
+    "explanation": "At least one = 30 + 25 − 10 = 45. Neither = 50 − 45 = 5."
+  },
+  {
+    "id": "TLR4_12",
+    "question": "In a class of 45 students, 28 passed math, 20 passed science, and 8 passed both. How many passed exactly one subject?",
+    "hint": "Exactly one = (math only) + (science only) = (28−8) + (20−8).",
+    "options": [
+      "32",
+      "40",
+      "28",
+      "20"
+    ],
+    "explanation": "Math only = 28 − 8 = 20. Science only = 20 − 8 = 12. Exactly one = 20 + 12 = 32."
+  },
+  {
+    "id": "TLR4_13",
+    "question": "In a group of 60 people, 40 play guitar, 30 play piano, and everyone plays at least one instrument. How many play exactly one instrument?",
+    "hint": "First find Both = guitar + piano − total. Then exactly one = total − both.",
+    "options": [
+      "50",
+      "60",
+      "40",
+      "30"
+    ],
+    "explanation": "Both = 40 + 30 − 60 = 10. Exactly one = 60 − 10 = 50 (or equivalently (40−10) + (30−10) = 30 + 20 = 50)."
+  },
+  {
+    "id": "TLR4_14",
+    "question": "In a school of 55 students, 32 joined the art club, 28 joined the music club, and 12 joined both. How many joined neither club?",
+    "hint": "At-least-one = art + music − both. Neither = total − at-least-one.",
+    "options": [
+      "7",
+      "5",
+      "10",
+      "3"
+    ],
+    "explanation": "At least one = 32 + 28 − 12 = 48. Neither = 55 − 48 = 7."
+  },
+  {
+    "id": "TLR4_15",
+    "question": "In a survey of 70 people, 45 read newspapers, 38 read magazines, and 20 read both. How many read exactly one type of publication?",
+    "hint": "Exactly one = (newspaper only) + (magazine only).",
+    "options": [
+      "43",
+      "63",
+      "50",
+      "33"
+    ],
+    "explanation": "Newspaper only = 45 − 20 = 25. Magazine only = 38 − 20 = 18. Exactly one = 25 + 18 = 43."
+  },
+  {
+    "id": "TLR4_16",
+    "question": "If it is cold, Tom wears a jacket. If Tom wears a jacket, he brings an umbrella. It is cold. What does Tom bring?",
+    "hint": "Chain the conditionals: cold → jacket → umbrella. Apply Modus Ponens twice.",
+    "options": [
+      "An umbrella",
+      "A hat",
+      "Nothing",
+      "Only a jacket"
+    ],
+    "explanation": "Cold → jacket → umbrella. It is cold, so Tom wears a jacket, and therefore brings an umbrella."
+  },
+  {
+    "id": "TLR4_17",
+    "question": "If Alice studies, she passes the exam. If she passes the exam, she graduates. If she graduates, she gets a job offer. Alice studies. What is the final outcome?",
+    "hint": "Chain: study → pass → graduate → job offer. Apply Modus Ponens step by step.",
+    "options": [
+      "Alice gets a job offer",
+      "Alice only passes the exam",
+      "Alice only graduates",
+      "Nothing can be concluded"
+    ],
+    "explanation": "Study → pass → graduate → job offer. Alice studies, so she passes, graduates, and gets a job offer."
+  },
+  {
+    "id": "TLR4_18",
+    "question": "If the power goes out, the computer shuts down. If the computer shuts down, unsaved work is lost. The unsaved work was not lost. What can you conclude?",
+    "hint": "Chain Modus Tollens backwards: work not lost → computer didn't shut down → power didn't go out.",
+    "options": [
+      "The power did not go out",
+      "The power went out",
+      "The computer shut down",
+      "The work was lost"
+    ],
+    "explanation": "Work not lost → computer didn't shut down → power didn't go out (Modus Tollens applied twice)."
+  },
+  {
+    "id": "TLR4_19",
+    "question": "If it rains, the match is cancelled. If the match is cancelled, tickets are refunded. Tickets were not refunded. What can you conclude?",
+    "hint": "Tollens chain: not refunded → not cancelled → no rain.",
+    "options": [
+      "It did not rain",
+      "It rained",
+      "The match was cancelled",
+      "Tickets were refunded"
+    ],
+    "explanation": "Not refunded → match not cancelled → it did not rain (double Modus Tollens)."
+  },
+  {
+    "id": "TLR4_20",
+    "question": "If you eat too much sugar, you gain weight. If you gain weight, you need more exercise. If you need more exercise, you join a gym. You did not join a gym. What can you conclude?",
+    "hint": "Chain Modus Tollens: no gym → no need for exercise → no weight gain → no excess sugar.",
+    "options": [
+      "You did not eat too much sugar",
+      "You ate too much sugar",
+      "You gained weight",
+      "You joined a gym"
+    ],
+    "explanation": "Didn't join gym → don't need exercise → didn't gain weight → didn't eat too much sugar (triple Modus Tollens)."
+  },
+  {
+    "id": "TLR5_01",
+    "question": "Three people: A, B, and C. Exactly one tells the truth. A says 'B and C are both liars.' B says 'A is a liar.' C says 'A is telling the truth.' Who tells the truth?",
+    "hint": "Test each person as the sole truth-teller. Only one assumption avoids all contradictions.",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "None of them"
+    ],
+    "explanation": "If B is the truth-teller: A lies → it's false that B and C are both liars (at least one isn't) → B isn't a liar ✓. C lies → 'A is telling truth' is false → A is a liar ✓. Only B tells truth — consistent. Testing A or C as truth-teller leads to contradictions."
+  },
+  {
+    "id": "TLR5_02",
+    "question": "Three people: D, E, and F. Exactly one tells the truth. D says 'E is a liar.' E says 'F is a liar.' F says 'D and E are both liars.' Who tells the truth?",
+    "hint": "Assume each person is the truth-teller and check for contradictions.",
+    "options": [
+      "E",
+      "D",
+      "F",
+      "None of them"
+    ],
+    "explanation": "If E tells truth: F is a liar ✓. D says 'E is a liar' — D lies → E is NOT a liar ✓. F says 'D and E both liars' — F lies → at least one of D, E tells truth → E does ✓. Only E is the truth-teller — consistent."
+  },
+  {
+    "id": "TLR5_03",
+    "question": "G, H, and I are suspects in a case. Exactly one is guilty. The guilty person always lies; the innocent always tell the truth. G says 'H is guilty.' H says 'I am not guilty.' I says 'G is guilty.' Who is guilty?",
+    "hint": "Assume each person is guilty (and therefore lies). Check if the others' truthful statements are consistent.",
+    "options": [
+      "G",
+      "H",
+      "I",
+      "Cannot be determined"
+    ],
+    "explanation": "If G is guilty: G lies → H is NOT guilty ✓. H (innocent, truthful) says 'I am not guilty' → H is not guilty ✓. I (innocent, truthful) says 'G is guilty' → G is guilty ✓. All consistent. Testing H or I as guilty leads to contradictions."
+  },
+  {
+    "id": "TLR5_04",
+    "question": "J, K, and L each make a statement. Exactly one tells the truth. J says 'I tell the truth.' K says 'J tells the truth.' L says 'J is a liar.' Who tells the truth?",
+    "hint": "If J tells truth, what must K's statement mean? Test each carefully.",
+    "options": [
+      "L",
+      "J",
+      "K",
+      "None of them"
+    ],
+    "explanation": "If L tells truth: J is a liar ✓. J lies → 'I tell the truth' is false → J is a liar ✓. K lies → 'J tells truth' is false → J doesn't tell truth ✓. Only L is truth-teller — consistent. Testing J or K leads to two truth-tellers (contradiction)."
+  },
+  {
+    "id": "TLR5_05",
+    "question": "M, N, and O each make a statement. Exactly one tells the truth. M says 'N and O both tell the truth.' N says 'M is a liar.' O says 'N is a liar.' Who tells the truth?",
+    "hint": "If M tells truth, then N and O both tell truth — but only one can. Try the others.",
+    "options": [
+      "N",
+      "M",
+      "O",
+      "None of them"
+    ],
+    "explanation": "If N tells truth: M is a liar ✓. M lies → 'N and O both tell truth' is false → at least one of N, O lies → O lies ✓ (only N is truthful). O lies → 'N is a liar' is false → N is NOT a liar ✓. Only N — consistent."
+  },
+  {
+    "id": "TLR5_06",
+    "question": "If three days from now is Wednesday, what day is today?",
+    "hint": "Count backwards three days from Wednesday.",
+    "options": [
+      "Sunday",
+      "Monday",
+      "Saturday",
+      "Tuesday"
+    ],
+    "explanation": "Today + 3 = Wednesday. Counting back: Wednesday − 1 = Tuesday, − 2 = Monday, − 3 = Sunday. Today is Sunday."
+  },
+  {
+    "id": "TLR5_07",
+    "question": "If yesterday was Friday, what day is the day after tomorrow?",
+    "hint": "Find today first, then count forward two days.",
+    "options": [
+      "Monday",
+      "Sunday",
+      "Tuesday",
+      "Saturday"
+    ],
+    "explanation": "Yesterday = Friday → today = Saturday → tomorrow = Sunday → day after tomorrow = Monday."
+  },
+  {
+    "id": "TLR5_08",
+    "question": "If two days ago was Monday, what day will it be in three days?",
+    "hint": "Find today from 'two days ago,' then add three days.",
+    "options": [
+      "Saturday",
+      "Friday",
+      "Sunday",
+      "Thursday"
+    ],
+    "explanation": "Two days ago = Monday → today = Wednesday → in three days = Saturday."
+  },
+  {
+    "id": "TLR5_09",
+    "question": "If the day before yesterday was Thursday, what day is tomorrow?",
+    "hint": "Day before yesterday = two days ago. Find today, then add one.",
+    "options": [
+      "Sunday",
+      "Saturday",
+      "Monday",
+      "Friday"
+    ],
+    "explanation": "Day before yesterday = Thursday → yesterday = Friday → today = Saturday → tomorrow = Sunday."
+  },
+  {
+    "id": "TLR5_10",
+    "question": "If four days from now is Tuesday, what day was yesterday?",
+    "hint": "Find today by subtracting 4 from Tuesday, then subtract 1 more for yesterday.",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Wednesday",
+      "Saturday"
+    ],
+    "explanation": "Today + 4 = Tuesday → today = Tuesday − 4 = Friday. Yesterday = Thursday."
+  },
+  {
+    "id": "TLR5_11",
+    "question": "Six students are ranked by test scores. Fay scored higher than Diana. Diana scored higher than Abby. Abby scored higher than Brian. Brian scored higher than Carl. Carl scored higher than Elena. Who scored third highest?",
+    "hint": "Build the full chain from highest to lowest and count to position 3.",
+    "options": [
+      "Abby",
+      "Diana",
+      "Brian",
+      "Fay"
+    ],
+    "explanation": "Fay > Diana > Abby > Brian > Carl > Elena. Third highest is Abby."
+  },
+  {
+    "id": "TLR5_12",
+    "question": "Five jars have different weights. Jar 5 is heavier than Jar 1. Jar 1 is heavier than Jar 2. Jar 2 is heavier than Jar 4. Jar 4 is heavier than Jar 3. Which jar is in the middle (3rd out of 5)?",
+    "hint": "Chain: 5>1>2>4>3. The middle is position 3.",
+    "options": [
+      "Jar 2",
+      "Jar 1",
+      "Jar 4",
+      "Jar 3"
+    ],
+    "explanation": "Jar 5 > Jar 1 > Jar 2 > Jar 4 > Jar 3. The middle (3rd) jar is Jar 2."
+  },
+  {
+    "id": "TLR5_13",
+    "question": "Seven people are ranked by age: T is older than U. U is older than V. V is older than W. W is older than X. X is older than Y. Y is older than Z. Who is the fourth oldest?",
+    "hint": "Write the full chain T>U>V>W>X>Y>Z and count to position 4.",
+    "options": [
+      "W",
+      "V",
+      "X",
+      "U"
+    ],
+    "explanation": "T > U > V > W > X > Y > Z. The fourth oldest is W."
+  },
+  {
+    "id": "TLR5_14",
+    "question": "Five cities ranked by population: City E has more people than City A. City A has more than City B. City B has more than City D. City D has more than City C. Which city is the least populated?",
+    "hint": "Build the chain E>A>B>D>C.",
+    "options": [
+      "City C",
+      "City D",
+      "City B",
+      "City A"
+    ],
+    "explanation": "City E > City A > City B > City D > City C. City C is the least populated."
+  },
+  {
+    "id": "TLR5_15",
+    "question": "Six books ranked by page count: Book T has more pages than Book P. Book P has more than Book Q. Book Q has more than Book U. Book U has more than Book R. Book R has more than Book S. Which book has the second fewest pages?",
+    "hint": "T>P>Q>U>R>S. Second fewest = second from the bottom.",
+    "options": [
+      "Book R",
+      "Book S",
+      "Book U",
+      "Book Q"
+    ],
+    "explanation": "T > P > Q > U > R > S. Second fewest pages is Book R."
+  },
+  {
+    "id": "TLR5_16",
+    "question": "Three boxes are labeled 'Apples,' 'Oranges,' and 'Mixed.' Every label is wrong. You draw one fruit from the box labeled 'Mixed' and it is an apple. What does the box labeled 'Apples' actually contain?",
+    "hint": "The 'Mixed' label is wrong, so that box is pure. You drew an apple, so it's the Apples box. Now assign the remaining contents.",
+    "options": [
+      "Oranges",
+      "Apples",
+      "Mixed",
+      "Cannot be determined"
+    ],
+    "explanation": "Box labeled 'Mixed' is not mixed (all labels wrong). Drawing an apple means it's the pure Apples box. Remaining contents: Oranges and Mixed. Box labeled 'Oranges' ≠ oranges → it's Mixed. Box labeled 'Apples' ≠ apples → it's Oranges."
+  },
+  {
+    "id": "TLR5_17",
+    "question": "Alice, Bob, and Carol each work on a different day: Monday, Tuesday, or Wednesday. Alice does not work on Monday. Bob does not work on Tuesday or Wednesday. Carol does not work on Wednesday. What day does Carol work?",
+    "hint": "Start with the most constrained person. Bob can only work one day.",
+    "options": [
+      "Tuesday",
+      "Monday",
+      "Wednesday",
+      "Cannot be determined"
+    ],
+    "explanation": "Bob can't work Tue or Wed → Bob works Monday. Alice can't work Monday → Alice works Tue or Wed. Carol can't work Wednesday → Carol works Tuesday. Alice works Wednesday."
+  },
+  {
+    "id": "TLR5_18",
+    "question": "If P is true, then Q is true. If Q is true, then R is false. If R is false, then S is true. P is true. What is the truth value of S?",
+    "hint": "Follow the chain step by step: P → Q → ¬R → S.",
+    "options": [
+      "S is true",
+      "S is false",
+      "S is unknown",
+      "S depends on R"
+    ],
+    "explanation": "P true → Q true → R false → S true. Therefore S is true."
+  },
+  {
+    "id": "TLR5_19",
+    "question": "Five friends have different ages. Alex is older than Drew. Drew is older than Blake. Blake is older than Casey. Casey is older than Ellie. Who is the middle (3rd oldest)?",
+    "hint": "Write the full chain: A>D>B>C>E. The middle of 5 is position 3.",
+    "options": [
+      "Blake",
+      "Drew",
+      "Casey",
+      "Alex"
+    ],
+    "explanation": "Alex > Drew > Blake > Casey > Ellie. The 3rd oldest (middle) is Blake."
+  },
+  {
+    "id": "TLR5_20",
+    "question": "In a logic tournament, five contestants (V, W, X, Y, Z) are ranked 1st to 5th. V finishes ahead of W. X finishes directly after Y. Z finishes in 3rd place. W finishes in 5th place. Y finishes ahead of Z. What is V's finishing position?",
+    "hint": "Place the known positions first (Z=3rd, W=5th). Y is ahead of Z, and X is directly after Y. Then place V.",
+    "options": [
+      "4th",
+      "1st",
+      "2nd",
+      "3rd"
+    ],
+    "explanation": "Z = 3rd, W = 5th. Y is ahead of Z (position 1 or 2). X is directly after Y → if Y=1 then X=2; if Y=2 then X=3, but Z=3 (conflict). So Y=1, X=2, Z=3. Remaining: V and W for 4th and 5th. W=5th → V=4th."
+  },
+  {
+    "id": "TSR1_01",
+    "question": "How many sides does a pentagon have?",
+    "hint": "The prefix 'penta-' refers to a specific number.",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "explanation": "'Pentagon' comes from the Greek word for five. A pentagon has exactly 5 sides."
+  },
+  {
+    "id": "TSR1_02",
+    "question": "How many sides does a hexagon have?",
+    "hint": "The prefix 'hexa-' means a number — think of hexadecimal.",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "explanation": "'Hexagon' comes from the Greek word for six. A hexagon has 6 sides."
+  },
+  {
+    "id": "TSR1_03",
+    "question": "How many sides does an octagon have?",
+    "hint": "Think of 'octopus' — how many arms does it have?",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "7"
+    ],
+    "explanation": "The prefix 'octa-' means eight, just like an octopus has 8 arms. An octagon has 8 sides."
+  },
+  {
+    "id": "TSR1_04",
+    "question": "How many angles does a triangle have?",
+    "hint": "The prefix 'tri-' tells you the answer directly.",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "explanation": "A triangle has 3 angles — one at each vertex where two sides meet."
+  },
+  {
+    "id": "TSR1_05",
+    "question": "How many angles does a pentagon have?",
+    "hint": "Each side meets the next side at an angle. Count the sides.",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "explanation": "Any polygon has as many angles as it has sides. A pentagon has 5 sides and 5 angles."
+  },
+  {
+    "id": "TSR1_06",
+    "question": "How many faces does a rectangular box (rectangular prism) have?",
+    "hint": "Think about top, bottom, front, back, left, and right.",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "5"
+    ],
+    "explanation": "A rectangular prism has 6 faces: top, bottom, front, back, left, and right."
+  },
+  {
+    "id": "TSR1_07",
+    "question": "How many vertices (corners) does a triangle have?",
+    "hint": "A vertex is where two sides meet. Count the corners.",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "6"
+    ],
+    "explanation": "A triangle has 3 vertices — one at each corner where two sides meet."
+  },
+  {
+    "id": "TSR1_08",
+    "question": "Which 2D shape has exactly 3 sides and 3 angles?",
+    "hint": "This is one of the simplest polygons.",
+    "options": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Circle"
+    ],
+    "explanation": "A triangle is the polygon with 3 sides and 3 angles."
+  },
+  {
+    "id": "TSR1_09",
+    "question": "If you fold a sheet of paper in half once, how many layers of paper do you have?",
+    "hint": "Before folding you have 1 layer. Folding doubles the count.",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "explanation": "Each fold in half doubles the number of layers. Starting with 1, one fold gives 2 layers."
+  },
+  {
+    "id": "TSR1_10",
+    "question": "What shape is every face of a standard cube?",
+    "hint": "All faces of a cube are identical. What regular shape has 4 equal sides and 4 right angles?",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Triangle",
+      "Circle"
+    ],
+    "explanation": "A cube has 6 faces, and every one of them is a square."
+  },
+  {
+    "id": "TSR1_11",
+    "question": "Which 3D shape looks exactly the same no matter how you slice through its center?",
+    "hint": "This shape has no edges, no vertices, and is perfectly round.",
+    "options": [
+      "Sphere",
+      "Cylinder",
+      "Cone",
+      "Cube"
+    ],
+    "explanation": "A sphere is perfectly symmetrical. Any cut through its center produces an identical circle."
+  },
+  {
+    "id": "TSR1_12",
+    "question": "How many straight sides does a circle have?",
+    "hint": "A circle is curved everywhere. Are there any straight parts?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "Infinite"
+    ],
+    "explanation": "A circle has no straight sides at all — it is a continuous curve with no corners or straight segments."
+  },
+  {
+    "id": "TSR1_13",
+    "question": "How many sides does a triangle have?",
+    "hint": "The name tells you: 'tri' means three.",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "explanation": "A triangle is a polygon with exactly 3 sides."
+  },
+  {
+    "id": "TSR1_14",
+    "question": "How many sides does a square have?",
+    "hint": "Think of a window pane or a chessboard tile.",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "explanation": "A square has 4 equal sides and 4 right angles."
+  },
+  {
+    "id": "TSR1_15",
+    "question": "How many vertices (corners) does a square have?",
+    "hint": "Count the points where two sides meet.",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "explanation": "A square has 4 vertices — one at each corner."
+  },
+  {
+    "id": "TSR1_16",
+    "question": "How many vertices does a hexagon have?",
+    "hint": "A polygon always has the same number of vertices as sides.",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "4"
+    ],
+    "explanation": "A hexagon has 6 sides and therefore 6 vertices."
+  },
+  {
+    "id": "TSR1_17",
+    "question": "If you fold a piece of paper in half twice, how many layers do you end up with?",
+    "hint": "Each fold doubles the current number of layers.",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "8"
+    ],
+    "explanation": "First fold: 1 → 2 layers. Second fold: 2 → 4 layers."
+  },
+  {
+    "id": "TSR1_18",
+    "question": "Which shape has 4 sides with all angles equal to 90° and opposite sides parallel?",
+    "hint": "This is the most common shape for doors, screens, and books.",
+    "options": [
+      "Rectangle",
+      "Trapezoid",
+      "Rhombus",
+      "Parallelogram"
+    ],
+    "explanation": "A rectangle has 4 sides with opposite sides parallel and all interior angles at 90°."
+  },
+  {
+    "id": "TSR1_19",
+    "question": "How many corners does a rectangle have?",
+    "hint": "A corner is where two sides meet at an angle.",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "explanation": "A rectangle has 4 corners (vertices), one at each of its four right angles."
+  },
+  {
+    "id": "TSR1_20",
+    "question": "Which 2D shape has every point on its boundary the same distance from the center?",
+    "hint": "Think of a coin viewed from above, or a pizza.",
+    "options": [
+      "Circle",
+      "Ellipse",
+      "Square",
+      "Oval"
+    ],
+    "explanation": "A circle is defined as the set of all points equidistant from a center point. This constant distance is the radius."
+  },
+  {
+    "id": "TSR2_01",
+    "question": "How many edges does a rectangular prism (box) have?",
+    "hint": "Count the edges on the top face, the bottom face, and the vertical edges connecting them.",
+    "options": [
+      "12",
+      "8",
+      "10",
+      "6"
+    ],
+    "explanation": "A rectangular prism has 4 edges on top + 4 on the bottom + 4 vertical edges = 12 edges total."
+  },
+  {
+    "id": "TSR2_02",
+    "question": "How many vertices does a rectangular prism have?",
+    "hint": "Count the corners on the top face and the bottom face separately.",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "12"
+    ],
+    "explanation": "A rectangular prism has 4 vertices on top and 4 on the bottom = 8 vertices total."
+  },
+  {
+    "id": "TSR2_03",
+    "question": "How many faces does a pentagonal prism have?",
+    "hint": "A prism with an n-sided base has n rectangular side faces plus 2 base faces.",
+    "options": [
+      "7",
+      "5",
+      "10",
+      "6"
+    ],
+    "explanation": "A pentagonal prism has 2 pentagonal bases + 5 rectangular side faces = 7 faces."
+  },
+  {
+    "id": "TSR2_04",
+    "question": "How many edges does a triangular prism have?",
+    "hint": "Count edges on each triangular base, then the edges connecting them.",
+    "options": [
+      "9",
+      "6",
+      "8",
+      "12"
+    ],
+    "explanation": "A triangular prism has 3 edges on top + 3 on the bottom + 3 connecting edges = 9 total."
+  },
+  {
+    "id": "TSR2_05",
+    "question": "How many vertices does a triangular prism have?",
+    "hint": "Each triangular base contributes its own set of vertices.",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "9"
+    ],
+    "explanation": "A triangular prism has 3 vertices on each triangular base: 3 + 3 = 6 vertices."
+  },
+  {
+    "id": "TSR2_06",
+    "question": "If 4 identical cubes are placed in a straight line, each sharing one face with the next, how many faces are visible in total (including the bottom)?",
+    "hint": "Start with the total faces of 4 separate cubes, then subtract the hidden faces at each joint.",
+    "options": [
+      "18",
+      "20",
+      "16",
+      "24"
+    ],
+    "explanation": "4 cubes have 4 × 6 = 24 faces. There are 3 joints, each hiding 2 faces: 24 − 6 = 18 visible."
+  },
+  {
+    "id": "TSR2_07",
+    "question": "How many faces does a hexagonal prism have?",
+    "hint": "A prism based on an n-sided polygon has n + 2 faces.",
+    "options": [
+      "8",
+      "6",
+      "12",
+      "10"
+    ],
+    "explanation": "A hexagonal prism has 2 hexagonal bases + 6 rectangular sides = 8 faces."
+  },
+  {
+    "id": "TSR2_08",
+    "question": "How many edges does a pentagonal prism have?",
+    "hint": "For any prism with an n-sided base, the total edges are 3n.",
+    "options": [
+      "15",
+      "10",
+      "12",
+      "20"
+    ],
+    "explanation": "A pentagonal prism: 5 edges on top + 5 on bottom + 5 vertical = 3 × 5 = 15 edges."
+  },
+  {
+    "id": "TSR2_09",
+    "question": "How many vertices does a pentagonal prism have?",
+    "hint": "A prism doubles the vertices of its base polygon.",
+    "options": [
+      "10",
+      "12",
+      "8",
+      "15"
+    ],
+    "explanation": "A pentagonal prism has 5 vertices on each base: 5 × 2 = 10 vertices."
+  },
+  {
+    "id": "TSR2_10",
+    "question": "How many edges does a square pyramid have?",
+    "hint": "Count the base edges, then the edges from each base corner to the apex.",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "10"
+    ],
+    "explanation": "A square pyramid has 4 base edges + 4 lateral edges to the apex = 8 edges."
+  },
+  {
+    "id": "TSR2_11",
+    "question": "How many vertices does a square pyramid have?",
+    "hint": "Don't forget the apex on top!",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "8"
+    ],
+    "explanation": "A square pyramid has 4 base corners + 1 apex = 5 vertices."
+  },
+  {
+    "id": "TSR2_12",
+    "question": "How many faces does a square pyramid have?",
+    "hint": "Count the base and each triangular side face.",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "8"
+    ],
+    "explanation": "A square pyramid has 1 square base + 4 triangular faces = 5 faces."
+  },
+  {
+    "id": "TSR2_13",
+    "question": "How many edges does a hexagonal prism have?",
+    "hint": "Apply the formula: edges = 3 × (number of sides in the base).",
+    "options": [
+      "18",
+      "12",
+      "24",
+      "15"
+    ],
+    "explanation": "A hexagonal prism: 6 top edges + 6 bottom edges + 6 vertical edges = 3 × 6 = 18 edges."
+  },
+  {
+    "id": "TSR2_14",
+    "question": "How many vertices does a hexagonal prism have?",
+    "hint": "Each hexagonal base has 6 corners.",
+    "options": [
+      "12",
+      "8",
+      "6",
+      "18"
+    ],
+    "explanation": "A hexagonal prism has 6 vertices per base × 2 bases = 12 vertices."
+  },
+  {
+    "id": "TSR2_15",
+    "question": "If 5 identical cubes are placed in a straight line sharing faces, how many total faces are visible (including bottom)?",
+    "hint": "5 cubes = 30 total faces. How many joints are there, and how many faces does each hide?",
+    "options": [
+      "22",
+      "20",
+      "24",
+      "26"
+    ],
+    "explanation": "5 cubes have 30 faces. 4 joints × 2 hidden faces = 8 hidden. 30 − 8 = 22 visible."
+  },
+  {
+    "id": "TSR2_16",
+    "question": "How many faces does an octagonal prism have?",
+    "hint": "Prism formula: n + 2 faces for an n-sided base.",
+    "options": [
+      "10",
+      "8",
+      "12",
+      "16"
+    ],
+    "explanation": "An octagonal prism has 2 octagonal bases + 8 rectangular sides = 10 faces."
+  },
+  {
+    "id": "TSR2_17",
+    "question": "How many edges does an octagonal prism have?",
+    "hint": "Prism formula: 3n edges for an n-sided base.",
+    "options": [
+      "24",
+      "16",
+      "20",
+      "32"
+    ],
+    "explanation": "An octagonal prism has 3 × 8 = 24 edges."
+  },
+  {
+    "id": "TSR2_18",
+    "question": "How many vertices does a triangular pyramid (tetrahedron) have?",
+    "hint": "A triangular pyramid has a triangular base and one point on top.",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "explanation": "A tetrahedron has 3 base vertices + 1 apex = 4 vertices."
+  },
+  {
+    "id": "TSR2_19",
+    "question": "Euler's formula states V − E + F = 2 for convex polyhedra. If a polyhedron has 6 vertices and 12 edges, how many faces does it have?",
+    "hint": "Rearrange: F = 2 − V + E.",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "7"
+    ],
+    "explanation": "F = 2 − V + E = 2 − 6 + 12 = 8 faces. (This matches a cube or a regular octahedron.)"
+  },
+  {
+    "id": "TSR2_20",
+    "question": "How many diagonals does a square have?",
+    "hint": "A diagonal connects two non-adjacent vertices. A square has 4 vertices.",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "explanation": "A square has 2 diagonals, each connecting opposite corners."
+  },
+  {
+    "id": "TSR3_01",
+    "question": "A 3×3×3 cube is painted on all faces, then cut into 27 small cubes. How many small cubes have at least one painted face?",
+    "hint": "Only the cube at the very center of the 3×3×3 has no paint. How many cubes are NOT at the center?",
+    "options": [
+      "26",
+      "24",
+      "20",
+      "27"
+    ],
+    "explanation": "Only 1 cube (the center) has 0 painted faces. So 27 − 1 = 26 cubes have at least one painted face."
+  },
+  {
+    "id": "TSR3_02",
+    "question": "A 3×3×3 cube is painted on all faces and cut into 27 small cubes. What is the total number of painted unit-faces across all 27 small cubes?",
+    "hint": "Each of the 6 original faces is a 3×3 grid of 9 painted unit-faces.",
+    "options": [
+      "54",
+      "48",
+      "36",
+      "27"
+    ],
+    "explanation": "Each of the 6 faces of the original cube contributes 9 painted unit-faces: 6 × 9 = 54."
+  },
+  {
+    "id": "TSR3_03",
+    "question": "A 3×3×3 painted cube is cut into 27 small cubes. How many small cubes have at most 1 painted face?",
+    "hint": "Count the cubes with 0 painted faces and 1 painted face, then add them.",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "12"
+    ],
+    "explanation": "1 cube has 0 painted faces (center) and 6 cubes have exactly 1 (face centers). Total: 1 + 6 = 7."
+  },
+  {
+    "id": "TSR3_04",
+    "question": "A 3×3×3 painted cube is cut into 27 small cubes. How many small cubes have at least 2 painted faces?",
+    "hint": "These are the corner cubes (3 faces) and the edge cubes (2 faces).",
+    "options": [
+      "20",
+      "12",
+      "8",
+      "18"
+    ],
+    "explanation": "8 corners (3 painted) + 12 edges (2 painted) = 20 cubes with 2 or more painted faces."
+  },
+  {
+    "id": "TSR3_05",
+    "question": "If you slice a cube with a plane parallel to one of its faces, what shape is the cross-section?",
+    "hint": "A cut parallel to a square face produces a shape congruent to that face.",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Triangle",
+      "Hexagon"
+    ],
+    "explanation": "A plane parallel to a face of a cube cuts through four edges evenly, producing a square."
+  },
+  {
+    "id": "TSR3_06",
+    "question": "If you cut a cylinder with a plane perpendicular to its axis, what shape is the cross-section?",
+    "hint": "The axis runs through the center of the two circular bases.",
+    "options": [
+      "Circle",
+      "Ellipse",
+      "Rectangle",
+      "Oval"
+    ],
+    "explanation": "A cut perpendicular to the axis of a cylinder is parallel to its circular bases and produces a circle."
+  },
+  {
+    "id": "TSR3_07",
+    "question": "If you slice a cone with a plane parallel to its circular base, what shape do you get?",
+    "hint": "The base of a cone is a circle. A parallel cut produces a similar shape.",
+    "options": [
+      "Circle",
+      "Ellipse",
+      "Triangle",
+      "Parabola"
+    ],
+    "explanation": "A plane parallel to the base of a cone intersects the cone in a circle (smaller than the base)."
+  },
+  {
+    "id": "TSR3_08",
+    "question": "How many vertices does a sphere have?",
+    "hint": "A vertex is a point where edges meet. Does a sphere have any edges?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "Infinite"
+    ],
+    "explanation": "A sphere is a perfectly smooth surface with no edges and therefore no vertices."
+  },
+  {
+    "id": "TSR3_09",
+    "question": "How many edges does a sphere have?",
+    "hint": "An edge is a line segment where two flat faces meet.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "Infinite"
+    ],
+    "explanation": "A sphere has no flat faces, so it has no edges at all."
+  },
+  {
+    "id": "TSR3_10",
+    "question": "How many faces does a hexagonal pyramid have?",
+    "hint": "A pyramid has 1 base plus triangular side faces — one for each side of the base.",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "12"
+    ],
+    "explanation": "A hexagonal pyramid has 1 hexagonal base + 6 triangular side faces = 7 faces."
+  },
+  {
+    "id": "TSR3_11",
+    "question": "How many edges does a hexagonal pyramid have?",
+    "hint": "Count the base edges and the edges from each base vertex to the apex.",
+    "options": [
+      "12",
+      "6",
+      "8",
+      "18"
+    ],
+    "explanation": "A hexagonal pyramid has 6 base edges + 6 lateral edges to the apex = 12 edges."
+  },
+  {
+    "id": "TSR3_12",
+    "question": "How many vertices does a hexagonal pyramid have?",
+    "hint": "Count the base vertices and the single apex.",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "12"
+    ],
+    "explanation": "A hexagonal pyramid has 6 base vertices + 1 apex = 7 vertices. (Check: 7 − 12 + 7 = 2 ✓)"
+  },
+  {
+    "id": "TSR3_13",
+    "question": "If you cut a cube from one edge midpoint straight across to the midpoint of the opposite parallel edge, what shape can the cross-section be?",
+    "hint": "Cutting between two parallel edges produces a flat quadrilateral.",
+    "options": [
+      "Rectangle",
+      "Triangle",
+      "Pentagon",
+      "Circle"
+    ],
+    "explanation": "A plane passing through midpoints of two opposite parallel edges creates a rectangular cross-section."
+  },
+  {
+    "id": "TSR3_14",
+    "question": "How many faces does a pentagonal pyramid have?",
+    "hint": "1 base + side faces (one per base edge).",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "10"
+    ],
+    "explanation": "A pentagonal pyramid has 1 pentagonal base + 5 triangular sides = 6 faces."
+  },
+  {
+    "id": "TSR3_15",
+    "question": "How many edges does a pentagonal pyramid have?",
+    "hint": "Pyramid edge formula: 2n edges for an n-sided base.",
+    "options": [
+      "10",
+      "5",
+      "8",
+      "15"
+    ],
+    "explanation": "A pentagonal pyramid has 5 base edges + 5 lateral edges = 10 edges."
+  },
+  {
+    "id": "TSR3_16",
+    "question": "How many vertices does a pentagonal pyramid have?",
+    "hint": "Base vertices plus the single apex.",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "10"
+    ],
+    "explanation": "A pentagonal pyramid has 5 base vertices + 1 apex = 6 vertices. (Check: 6 − 10 + 6 = 2 ✓)"
+  },
+  {
+    "id": "TSR3_17",
+    "question": "Using Euler's formula (V − E + F = 2), if a polyhedron has 5 vertices and 8 edges, how many faces does it have?",
+    "hint": "Solve for F: F = 2 − V + E.",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "explanation": "F = 2 − 5 + 8 = 5. (This describes a square pyramid: 5 vertices, 8 edges, 5 faces.)"
+  },
+  {
+    "id": "TSR3_18",
+    "question": "How many diagonals does a regular hexagon have?",
+    "hint": "The diagonal formula for an n-sided polygon is n(n − 3) / 2.",
+    "options": [
+      "9",
+      "6",
+      "12",
+      "3"
+    ],
+    "explanation": "Diagonals = 6 × (6 − 3) / 2 = 6 × 3 / 2 = 9."
+  },
+  {
+    "id": "TSR3_19",
+    "question": "In a 3×3×3 painted cube cut into 27 small cubes, what is the total number of painted faces on just the 8 corner cubes combined?",
+    "hint": "Each corner cube has exactly 3 painted faces.",
+    "options": [
+      "24",
+      "8",
+      "12",
+      "18"
+    ],
+    "explanation": "8 corner cubes × 3 painted faces each = 24 painted faces on corners."
+  },
+  {
+    "id": "TSR3_20",
+    "question": "How many diagonals does a regular pentagon have?",
+    "hint": "Use n(n − 3) / 2 with n = 5.",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "explanation": "Diagonals = 5 × (5 − 3) / 2 = 5 × 2 / 2 = 5."
+  },
+  {
+    "id": "TSR4_01",
+    "question": "A 4×4×4 cube is painted on all faces, then cut into 64 small cubes. How many small cubes have at least one painted face?",
+    "hint": "The unpainted interior forms a smaller cube of side (4 − 2) = 2.",
+    "options": [
+      "56",
+      "48",
+      "52",
+      "60"
+    ],
+    "explanation": "Interior cubes with 0 paint = 2³ = 8. So cubes with at least 1 painted face = 64 − 8 = 56."
+  },
+  {
+    "id": "TSR4_02",
+    "question": "A 4×4×4 painted cube is cut into 64 small cubes. How many small cubes have at least 2 painted faces?",
+    "hint": "These are corner cubes (3 faces) and edge cubes (2 faces). Add them up.",
+    "options": [
+      "32",
+      "24",
+      "36",
+      "28"
+    ],
+    "explanation": "Corners: 8 cubes. Edges: 12 edges × 2 middle cubes = 24. Total: 8 + 24 = 32."
+  },
+  {
+    "id": "TSR4_03",
+    "question": "A 4×4×4 painted cube is cut into 64 small cubes. What is the total number of painted unit-faces across all 64 small cubes?",
+    "hint": "Each of the 6 original faces is a 4×4 grid of painted unit-faces.",
+    "options": [
+      "96",
+      "64",
+      "72",
+      "108"
+    ],
+    "explanation": "6 faces × 16 painted unit-faces per face = 96. (Check: 8×3 + 24×2 + 24×1 = 24 + 48 + 24 = 96 ✓)"
+  },
+  {
+    "id": "TSR4_04",
+    "question": "A 4×4×4 painted cube is cut into 64 small cubes. How many small cubes have at most 1 painted face?",
+    "hint": "Add the cubes with 0 painted faces and those with exactly 1.",
+    "options": [
+      "32",
+      "24",
+      "28",
+      "36"
+    ],
+    "explanation": "0 painted: 8 (interior 2×2×2). 1 painted: 24 (face centers). Total: 8 + 24 = 32."
+  },
+  {
+    "id": "TSR4_05",
+    "question": "If you remove one corner cube from a 3×3×3 cube, how many unit-cube faces are visible on the remaining solid (including the bottom)?",
+    "hint": "Removing a corner loses 3 outer faces but exposes 3 previously hidden inner faces.",
+    "options": [
+      "54",
+      "51",
+      "57",
+      "48"
+    ],
+    "explanation": "Original surface: 6 × 9 = 54. Removing a corner: −3 outer + 3 newly exposed inner = net 0 change. Still 54."
+  },
+  {
+    "id": "TSR4_06",
+    "question": "How many diagonals does a regular octagon have?",
+    "hint": "Use the formula n(n − 3) / 2 with n = 8.",
+    "options": [
+      "20",
+      "16",
+      "24",
+      "8"
+    ],
+    "explanation": "Diagonals = 8 × (8 − 3) / 2 = 8 × 5 / 2 = 20."
+  },
+  {
+    "id": "TSR4_07",
+    "question": "How many space diagonals does a cube have? (A space diagonal goes through the interior from one vertex to the opposite vertex.)",
+    "hint": "A cube has 8 vertices. Each space diagonal pairs a vertex with its opposite.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "explanation": "A cube has 4 space diagonals. Each connects a vertex to the one diagonally opposite through the center."
+  },
+  {
+    "id": "TSR4_08",
+    "question": "How many face diagonals does a cube have in total?",
+    "hint": "Each face is a square. How many diagonals does a square have? Multiply by the number of faces.",
+    "options": [
+      "12",
+      "6",
+      "8",
+      "24"
+    ],
+    "explanation": "Each of the 6 faces has 2 diagonals: 6 × 2 = 12 face diagonals."
+  },
+  {
+    "id": "TSR4_09",
+    "question": "A regular octahedron (two square pyramids base-to-base) has how many faces?",
+    "hint": "Each pyramid contributes 4 triangular faces. The shared square base is interior.",
+    "options": [
+      "8",
+      "6",
+      "12",
+      "20"
+    ],
+    "explanation": "A regular octahedron has 8 equilateral triangular faces."
+  },
+  {
+    "id": "TSR4_10",
+    "question": "How many edges does a regular octahedron have?",
+    "hint": "Use Euler's formula if you know V = 6 and F = 8.",
+    "options": [
+      "12",
+      "8",
+      "6",
+      "24"
+    ],
+    "explanation": "From Euler's formula: E = V + F − 2 = 6 + 8 − 2 = 12 edges."
+  },
+  {
+    "id": "TSR4_11",
+    "question": "How many vertices does a regular octahedron have?",
+    "hint": "Think of it as two pyramids joined at the base. Count the distinct vertices.",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "4"
+    ],
+    "explanation": "4 vertices around the shared square equator + 1 top apex + 1 bottom apex = 6 vertices."
+  },
+  {
+    "id": "TSR4_12",
+    "question": "If 8 unit cubes are arranged in a 2×2×2 cube, how many unit-cube faces are visible on the outside (including the bottom)?",
+    "hint": "The result is a larger cube of side 2. What is the surface area of a 2×2×2 cube in unit-faces?",
+    "options": [
+      "24",
+      "28",
+      "32",
+      "20"
+    ],
+    "explanation": "A 2×2×2 cube has surface area 6 × (2×2) = 24 unit-faces."
+  },
+  {
+    "id": "TSR4_13",
+    "question": "A regular dodecahedron has 12 pentagonal faces and 30 edges. Using Euler's formula, how many vertices does it have?",
+    "hint": "V = 2 + E − F.",
+    "options": [
+      "20",
+      "12",
+      "24",
+      "30"
+    ],
+    "explanation": "V = 2 + 30 − 12 = 20 vertices."
+  },
+  {
+    "id": "TSR4_14",
+    "question": "A regular icosahedron has 20 triangular faces and 12 vertices. How many edges does it have?",
+    "hint": "Apply Euler's formula: E = V + F − 2.",
+    "options": [
+      "30",
+      "20",
+      "24",
+      "36"
+    ],
+    "explanation": "E = 12 + 20 − 2 = 30 edges."
+  },
+  {
+    "id": "TSR4_15",
+    "question": "In a 4×4×4 painted cube, what is the total number of painted faces on the 8 corner cubes combined?",
+    "hint": "Every corner cube always has exactly 3 painted faces, regardless of cube size.",
+    "options": [
+      "24",
+      "8",
+      "12",
+      "32"
+    ],
+    "explanation": "8 corners × 3 painted faces each = 24."
+  },
+  {
+    "id": "TSR4_16",
+    "question": "In a 4×4×4 painted cube, what is the total number of painted faces on just the edge cubes (those with exactly 2 painted faces)?",
+    "hint": "First find how many edge cubes there are, then multiply by 2.",
+    "options": [
+      "48",
+      "24",
+      "36",
+      "60"
+    ],
+    "explanation": "There are 24 edge cubes (12 edges × 2 each), each with 2 painted faces: 24 × 2 = 48."
+  },
+  {
+    "id": "TSR4_17",
+    "question": "If you slice a cube with a plane that passes through the midpoints of three edges meeting at one vertex, what shape is the cross-section?",
+    "hint": "The three midpoints are equidistant from the corner. What triangle has all sides equal?",
+    "options": [
+      "Equilateral triangle",
+      "Square",
+      "Right triangle",
+      "Regular hexagon"
+    ],
+    "explanation": "The plane cuts equally through three edges at a corner, forming an equilateral triangle."
+  },
+  {
+    "id": "TSR4_18",
+    "question": "How many diagonals does a regular decagon (10 sides) have?",
+    "hint": "Diagonal formula: n(n − 3) / 2.",
+    "options": [
+      "35",
+      "30",
+      "40",
+      "25"
+    ],
+    "explanation": "Diagonals = 10 × (10 − 3) / 2 = 10 × 7 / 2 = 35."
+  },
+  {
+    "id": "TSR4_19",
+    "question": "A prism has exactly 10 vertices. What shape is its base?",
+    "hint": "A prism with an n-sided base has 2n vertices.",
+    "options": [
+      "Pentagon",
+      "Square",
+      "Hexagon",
+      "Triangle"
+    ],
+    "explanation": "2n = 10, so n = 5. The base is a pentagon."
+  },
+  {
+    "id": "TSR4_20",
+    "question": "A pyramid has exactly 7 faces. What shape is its base?",
+    "hint": "A pyramid with an n-sided base has n + 1 faces.",
+    "options": [
+      "Hexagon",
+      "Pentagon",
+      "Heptagon",
+      "Octagon"
+    ],
+    "explanation": "n + 1 = 7, so n = 6. The base is a hexagon."
+  },
+  {
+    "id": "TSR5_01",
+    "question": "A 5×5×5 cube is painted on all faces, then cut into 125 small cubes. How many small cubes have exactly 2 painted faces?",
+    "hint": "Edge cubes (not corners) have 2 painted faces. Formula: 12(n − 2).",
+    "options": [
+      "36",
+      "24",
+      "48",
+      "30"
+    ],
+    "explanation": "12 edges × (5 − 2) = 12 × 3 = 36 cubes with exactly 2 painted faces."
+  },
+  {
+    "id": "TSR5_02",
+    "question": "A 5×5×5 cube is painted on all faces and cut into 125 small cubes. How many small cubes have exactly 3 painted faces?",
+    "hint": "Only corner cubes have 3 painted faces. How many corners does any cube have?",
+    "options": [
+      "8",
+      "12",
+      "20",
+      "6"
+    ],
+    "explanation": "A cube always has 8 corners, regardless of size. So 8 cubes have exactly 3 painted faces."
+  },
+  {
+    "id": "TSR5_03",
+    "question": "A 5×5×5 painted cube is cut into 125 small cubes. How many small cubes have at least one painted face?",
+    "hint": "Subtract the unpainted interior cubes: (n − 2)³.",
+    "options": [
+      "98",
+      "96",
+      "100",
+      "90"
+    ],
+    "explanation": "Interior cubes = (5 − 2)³ = 27. At least 1 painted = 125 − 27 = 98."
+  },
+  {
+    "id": "TSR5_04",
+    "question": "A 5×5×5 painted cube is cut into 125 small cubes. What is the total number of painted unit-faces across all cubes?",
+    "hint": "Each of the 6 original faces is a 5×5 grid.",
+    "options": [
+      "150",
+      "125",
+      "144",
+      "162"
+    ],
+    "explanation": "6 × 25 = 150. (Verify: 8×3 + 36×2 + 54×1 + 27×0 = 24 + 72 + 54 = 150 ✓)"
+  },
+  {
+    "id": "TSR5_05",
+    "question": "A 6×6×6 cube is painted on all faces and cut into 216 small cubes. How many have exactly 2 painted faces?",
+    "hint": "Use 12(n − 2) with n = 6.",
+    "options": [
+      "48",
+      "36",
+      "60",
+      "24"
+    ],
+    "explanation": "12 × (6 − 2) = 12 × 4 = 48."
+  },
+  {
+    "id": "TSR5_06",
+    "question": "A 6×6×6 cube is painted on all faces and cut into 216 small cubes. How many have exactly 1 painted face?",
+    "hint": "Use 6(n − 2)² with n = 6.",
+    "options": [
+      "96",
+      "72",
+      "108",
+      "84"
+    ],
+    "explanation": "6 × (6 − 2)² = 6 × 16 = 96."
+  },
+  {
+    "id": "TSR5_07",
+    "question": "A 6×6×6 painted cube is cut into 216 small cubes. How many have no painted face at all?",
+    "hint": "Interior block is (n − 2)³.",
+    "options": [
+      "64",
+      "48",
+      "36",
+      "27"
+    ],
+    "explanation": "(6 − 2)³ = 4³ = 64 cubes have no paint."
+  },
+  {
+    "id": "TSR5_08",
+    "question": "A 6×6×6 painted cube is cut into 216 small cubes. How many have exactly 3 painted faces?",
+    "hint": "Corner cubes always number the same regardless of cube size.",
+    "options": [
+      "8",
+      "12",
+      "6",
+      "24"
+    ],
+    "explanation": "A cube always has exactly 8 corners. So 8 cubes have 3 painted faces. (Check: 8 + 48 + 96 + 64 = 216 ✓)"
+  },
+  {
+    "id": "TSR5_09",
+    "question": "A 6×6×6 painted cube is cut into 216 small cubes. What is the total number of painted unit-faces across all cubes?",
+    "hint": "Each original face is a 6×6 grid of unit-faces.",
+    "options": [
+      "216",
+      "200",
+      "192",
+      "240"
+    ],
+    "explanation": "6 × 36 = 216. (Verify: 8×3 + 48×2 + 96×1 = 24 + 96 + 96 = 216 ✓)"
+  },
+  {
+    "id": "TSR5_10",
+    "question": "In a 10×10×10 painted cube cut into 1000 small cubes, how many have exactly 2 painted faces?",
+    "hint": "Formula: 12(n − 2) for edge cubes.",
+    "options": [
+      "96",
+      "120",
+      "80",
+      "108"
+    ],
+    "explanation": "12 × (10 − 2) = 12 × 8 = 96."
+  },
+  {
+    "id": "TSR5_11",
+    "question": "In a 10×10×10 painted cube, how many small cubes have exactly 1 painted face?",
+    "hint": "Formula: 6(n − 2)² for face-center cubes.",
+    "options": [
+      "384",
+      "360",
+      "400",
+      "480"
+    ],
+    "explanation": "6 × (10 − 2)² = 6 × 64 = 384."
+  },
+  {
+    "id": "TSR5_12",
+    "question": "In a 10×10×10 painted cube, how many small cubes have no painted face at all?",
+    "hint": "The unpainted interior is a cube of side (n − 2).",
+    "options": [
+      "512",
+      "480",
+      "500",
+      "343"
+    ],
+    "explanation": "(10 − 2)³ = 8³ = 512. (Check: 8 + 96 + 384 + 512 = 1000 ✓)"
+  },
+  {
+    "id": "TSR5_13",
+    "question": "Which of these shapes CAN be obtained as a cross-section of a cube?",
+    "hint": "A plane can intersect up to 6 faces of a cube. Think about symmetry — can you cut through 6 edge midpoints?",
+    "options": [
+      "Regular hexagon",
+      "Regular pentagon",
+      "Regular octagon",
+      "Ellipse"
+    ],
+    "explanation": "Cutting a cube through the midpoints of 6 edges produces a regular hexagon. A cube's symmetry cannot produce 5-fold shapes, octagons (max 6 sides), or curves."
+  },
+  {
+    "id": "TSR5_14",
+    "question": "What is the maximum number of sides a cross-section of a cube can have?",
+    "hint": "A cross-sectional polygon gains one side for each face the cutting plane intersects.",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "12"
+    ],
+    "explanation": "A cube has 6 faces. A plane can intersect all 6, producing at most a hexagon (6 sides)."
+  },
+  {
+    "id": "TSR5_15",
+    "question": "A regular dodecahedron has 12 pentagonal faces. Each face has 5 edges, but each edge is shared by 2 faces. How many edges does it have?",
+    "hint": "Total edge-slots = 12 × 5, but each edge is counted twice.",
+    "options": [
+      "30",
+      "24",
+      "36",
+      "60"
+    ],
+    "explanation": "Edges = 12 × 5 / 2 = 30."
+  },
+  {
+    "id": "TSR5_16",
+    "question": "In a 7×7×7 painted cube cut into 343 small cubes, how many have exactly 2 painted faces?",
+    "hint": "Apply 12(n − 2) with n = 7.",
+    "options": [
+      "60",
+      "48",
+      "72",
+      "36"
+    ],
+    "explanation": "12 × (7 − 2) = 12 × 5 = 60."
+  },
+  {
+    "id": "TSR5_17",
+    "question": "In a 7×7×7 painted cube, how many small cubes have no painted face?",
+    "hint": "Interior cube: (n − 2)³.",
+    "options": [
+      "125",
+      "64",
+      "100",
+      "27"
+    ],
+    "explanation": "(7 − 2)³ = 5³ = 125."
+  },
+  {
+    "id": "TSR5_18",
+    "question": "For an n×n×n painted cube, the number of small cubes with exactly 1 painted face is 6(n − 2)². For which value of n does this equal 96?",
+    "hint": "Solve 6(n − 2)² = 96 → (n − 2)² = 16.",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "explanation": "6(n − 2)² = 96 → (n − 2)² = 16 → n − 2 = 4 → n = 6."
+  },
+  {
+    "id": "TSR5_19",
+    "question": "What is the maximum number of sides a cross-section of a triangular prism can have?",
+    "hint": "A triangular prism has 5 faces (2 triangles + 3 rectangles). Can a single plane intersect all 5?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "explanation": "A plane tilted to intersect both triangular bases and all 3 rectangular faces produces a pentagonal cross-section — 5 is the maximum."
+  },
+  {
+    "id": "TSR5_20",
+    "question": "In a 7×7×7 painted cube, what is the total number of painted unit-faces across all 343 small cubes?",
+    "hint": "Each of the 6 original faces is a 7×7 grid.",
+    "options": [
+      "294",
+      "252",
+      "300",
+      "343"
+    ],
+    "explanation": "6 × 49 = 294. (Verify: 8×3 + 60×2 + 150×1 + 125×0 = 24 + 120 + 150 = 294 ✓)"
+  },
+  {
+    "id": "TMP1_1",
+    "question": "A farmer has 12 sheep. All but 5 die. How many sheep are left?",
+    "hint": "Focus on the phrase 'all but 5'.",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "0"
+    ],
+    "explanation": "'All but 5 die' means 5 survive. The answer is 5, not 12 minus 5."
+  },
+  {
+    "id": "TMP1_2",
+    "question": "You pass the person in 3rd place in a race. What place are you in now?",
+    "hint": "Think about what happens when you overtake someone — whose position do you take?",
+    "options": [
+      "3rd",
+      "2nd",
+      "4th",
+      "1st"
+    ],
+    "explanation": "When you pass the person in 3rd place, you take their position and become 3rd — not 2nd."
+  },
+  {
+    "id": "TMP1_3",
+    "question": "How many birthdays does the average person have?",
+    "hint": "You are born only once.",
+    "options": [
+      "1",
+      "About 75",
+      "365",
+      "It depends on age"
+    ],
+    "explanation": "Everyone has exactly one birthday — the day they were born. The rest are anniversaries of that day."
+  },
+  {
+    "id": "TMP1_4",
+    "question": "If you have 5 oranges and take away 2, how many do YOU have?",
+    "hint": "Who took the oranges?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "0"
+    ],
+    "explanation": "You took 2 oranges, so you have 2. The question asks how many you have, not how many are left."
+  },
+  {
+    "id": "TMP1_5",
+    "question": "A is the father of B, but B is not A's son. How is that possible?",
+    "hint": "Consider all possible genders for B.",
+    "options": [
+      "B is A's daughter",
+      "A is not really B's father",
+      "B is adopted",
+      "They are step-relatives"
+    ],
+    "explanation": "B is female — she is A's daughter. Not every child is a son."
+  },
+  {
+    "id": "TMP1_6",
+    "question": "How many times can you subtract 10 from 100?",
+    "hint": "After the first subtraction, is it still 100?",
+    "options": [
+      "1",
+      "10",
+      "9",
+      "Infinite"
+    ],
+    "explanation": "Only once — after the first subtraction you have 90, so you're subtracting 10 from 90, not from 100."
+  },
+  {
+    "id": "TMP1_7",
+    "question": "If a rooster lays an egg on the peak of a roof, which way does it roll?",
+    "hint": "Think about what a rooster actually is.",
+    "options": [
+      "Roosters don't lay eggs",
+      "Left",
+      "Right",
+      "It stays on top"
+    ],
+    "explanation": "Roosters are male chickens and cannot lay eggs. The premise is impossible."
+  },
+  {
+    "id": "TMP1_8",
+    "question": "What weighs more: a pound of feathers or a pound of bricks?",
+    "hint": "Pay close attention to the unit of measurement.",
+    "options": [
+      "They weigh the same",
+      "Bricks",
+      "Feathers",
+      "It depends on the type"
+    ],
+    "explanation": "A pound is a pound regardless of material. Both weigh exactly one pound."
+  },
+  {
+    "id": "TMP1_9",
+    "question": "A shirt originally costs $50 and is on sale at 50% off. What do you pay?",
+    "hint": "Calculate 50% of the original price.",
+    "options": [
+      "$25",
+      "$50",
+      "$30",
+      "$15"
+    ],
+    "explanation": "50% of $50 = $25. You pay $25."
+  },
+  {
+    "id": "TMP1_10",
+    "question": "You're in a dark room with a candle, an oil lamp, and a fireplace. You have one match. What do you light first?",
+    "hint": "You need to light something before anything else can work.",
+    "options": [
+      "The match",
+      "The candle",
+      "The oil lamp",
+      "The fireplace"
+    ],
+    "explanation": "You must light the match first before you can use it to light anything else."
+  },
+  {
+    "id": "TMP1_11",
+    "question": "A plane crashes exactly on the border of two countries. Where do you bury the survivors?",
+    "hint": "Read the question carefully — who exactly are we burying?",
+    "options": [
+      "You don't bury survivors",
+      "In the country of departure",
+      "In the country of destination",
+      "On the border"
+    ],
+    "explanation": "Survivors are alive — you don't bury living people."
+  },
+  {
+    "id": "TMP1_12",
+    "question": "How many animals of each kind did Moses take on the ark?",
+    "hint": "Check the name in the question very carefully.",
+    "options": [
+      "None — it was Noah, not Moses",
+      "2",
+      "7",
+      "1"
+    ],
+    "explanation": "Moses didn't have an ark — it was Noah. The question uses the wrong name to trick you."
+  },
+  {
+    "id": "TMP1_13",
+    "question": "There are 10 birds sitting on a fence. You shoot one. How many remain on the fence?",
+    "hint": "Think about how the other birds would react to a gunshot.",
+    "options": [
+      "0",
+      "9",
+      "10",
+      "1"
+    ],
+    "explanation": "The gunshot scares the rest away. No birds remain on the fence."
+  },
+  {
+    "id": "TMP1_14",
+    "question": "A farmer has 20 cows. All but 12 die. How many are left?",
+    "hint": "Focus on the phrase 'all but 12'.",
+    "options": [
+      "12",
+      "8",
+      "20",
+      "0"
+    ],
+    "explanation": "'All but 12 die' means 12 survive."
+  },
+  {
+    "id": "TMP1_15",
+    "question": "What goes up but never comes down?",
+    "hint": "Think about something that only increases over time.",
+    "options": [
+      "Your age",
+      "A balloon",
+      "The sun",
+      "Temperature"
+    ],
+    "explanation": "Your age only increases and never decreases."
+  },
+  {
+    "id": "TMP1_16",
+    "question": "A girl kicks a soccer ball 10 feet away. It comes back to her with no wall, no other person, and no spin. How?",
+    "hint": "Think about the direction she kicked it.",
+    "options": [
+      "She kicked it straight up",
+      "The wind blew it back",
+      "It bounced off a tree",
+      "The ground was sloped"
+    ],
+    "explanation": "She kicked the ball straight up into the air, and gravity brought it back down to her."
+  },
+  {
+    "id": "TMP1_17",
+    "question": "What has a head and a tail but no body?",
+    "hint": "Think about everyday objects, not animals.",
+    "options": [
+      "A coin",
+      "A snake",
+      "A pin",
+      "A comet"
+    ],
+    "explanation": "A coin has a 'heads' side and a 'tails' side but no body."
+  },
+  {
+    "id": "TMP1_18",
+    "question": "A doctor gives you 5 pills and tells you to take one every hour. How long do the pills last?",
+    "hint": "When do you take the very first pill?",
+    "options": [
+      "4 hours",
+      "5 hours",
+      "6 hours",
+      "3 hours"
+    ],
+    "explanation": "Take the 1st at hour 0, 2nd at hour 1, 3rd at hour 2, 4th at hour 3, 5th at hour 4. Total: 4 hours."
+  },
+  {
+    "id": "TMP1_19",
+    "question": "If you have a bowl with 6 eggs and you take out 2, how many do you have?",
+    "hint": "Who has the eggs you took?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "0"
+    ],
+    "explanation": "You took 2 eggs, so you have 2. The bowl still has 4, but the question asks how many you have."
+  },
+  {
+    "id": "TMP1_20",
+    "question": "A boy is 4 years old, and his sister is half his age. When the boy is 100, how old will his sister be?",
+    "hint": "What is the constant age difference between them?",
+    "options": [
+      "98",
+      "50",
+      "100",
+      "96"
+    ],
+    "explanation": "The sister is 2 years younger (4 ÷ 2 = 2). The age gap stays the same: 100 − 2 = 98."
+  },
+  {
+    "id": "TMP2_1",
+    "question": "A pen and a notebook together cost $1.10. The notebook costs $1.00 more than the pen. How much does the pen cost?",
+    "hint": "If the pen costs X, the notebook costs X + $1.00. Set up the equation.",
+    "options": [
+      "$0.05",
+      "$0.10",
+      "$1.00",
+      "$0.50"
+    ],
+    "explanation": "Let pen = x. Then notebook = x + 1. So x + (x + 1) = 1.10 → 2x = 0.10 → x = $0.05."
+  },
+  {
+    "id": "TMP2_2",
+    "question": "A doctor gives you 3 pills and says to take one every 45 minutes. How long do the pills last?",
+    "hint": "When do you take the first pill?",
+    "options": [
+      "90 minutes",
+      "135 minutes",
+      "45 minutes",
+      "120 minutes"
+    ],
+    "explanation": "Take 1st at 0 min, 2nd at 45 min, 3rd at 90 min. Total elapsed: 90 minutes."
+  },
+  {
+    "id": "TMP2_3",
+    "question": "If 5 workers can build 5 walls in 5 days, how long would it take 10 workers to build 10 walls?",
+    "hint": "How long does one worker take to build one wall?",
+    "options": [
+      "5 days",
+      "10 days",
+      "2.5 days",
+      "1 day"
+    ],
+    "explanation": "Each worker builds 1 wall in 5 days. With 10 workers building 10 walls, each still takes 5 days."
+  },
+  {
+    "id": "TMP2_4",
+    "question": "Two coins add up to 30 cents. One of them is not a nickel. What are the two coins?",
+    "hint": "The statement says ONE of them is not a nickel — what about the other one?",
+    "options": [
+      "A quarter and a nickel",
+      "Two dimes",
+      "A half-dollar",
+      "A dime and a nickel"
+    ],
+    "explanation": "'One of them is not a nickel' — that's the quarter (25¢). The other one IS a nickel (5¢). Total: 30¢."
+  },
+  {
+    "id": "TMP2_5",
+    "question": "Multiply all the digits on a telephone keypad (0 through 9). What is the product?",
+    "hint": "Consider what happens when you multiply by one particular digit.",
+    "options": [
+      "0",
+      "3,628,800",
+      "362,880",
+      "45"
+    ],
+    "explanation": "The digits include 0. Any number multiplied by 0 equals 0."
+  },
+  {
+    "id": "TMP2_6",
+    "question": "A family has 4 boys and 3 girls. Each boy has as many sisters as brothers. Each girl has twice as many brothers as sisters. How many children are there?",
+    "hint": "Count brothers and sisters from each child's perspective.",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "10"
+    ],
+    "explanation": "Each boy has 3 brothers and 3 sisters ✓. Each girl has 4 brothers and 2 sisters (4 = 2 × 2) ✓. Total: 4 + 3 = 7."
+  },
+  {
+    "id": "TMP2_7",
+    "question": "An electric train is heading north. The wind is blowing west. Which direction does the smoke go?",
+    "hint": "What kind of power does this train use?",
+    "options": [
+      "There is no smoke",
+      "West",
+      "North",
+      "East"
+    ],
+    "explanation": "Electric trains don't burn fuel and produce no smoke."
+  },
+  {
+    "id": "TMP2_8",
+    "question": "If 8 people can build a wall in 10 hours, how long would it take 4 people to build the same wall?",
+    "hint": "Halving the workers doubles the time.",
+    "options": [
+      "20 hours",
+      "5 hours",
+      "40 hours",
+      "10 hours"
+    ],
+    "explanation": "Half the workers = double the time. 10 × 2 = 20 hours."
+  },
+  {
+    "id": "TMP2_9",
+    "question": "How many months of the year have 30 days?",
+    "hint": "Think carefully — do some months have MORE than 30 days?",
+    "options": [
+      "11",
+      "4",
+      "6",
+      "7"
+    ],
+    "explanation": "All months have at least 30 days except February (28 or 29). So 11 months have 30 days."
+  },
+  {
+    "id": "TMP2_10",
+    "question": "You dig 6 holes: 3 big ones and 3 small ones. How many holes do you have?",
+    "hint": "Does the size of a hole change what it is?",
+    "options": [
+      "6",
+      "3",
+      "9",
+      "0"
+    ],
+    "explanation": "A hole is a hole regardless of size. You dug 6 holes, so you have 6 holes."
+  },
+  {
+    "id": "TMP2_11",
+    "question": "Can you name three consecutive days without using Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?",
+    "hint": "Think of relative terms for days rather than proper names.",
+    "options": [
+      "Yesterday, today, and tomorrow",
+      "Day 1, Day 2, Day 3",
+      "This is impossible",
+      "Morning, afternoon, evening"
+    ],
+    "explanation": "Yesterday, today, and tomorrow are always three consecutive days."
+  },
+  {
+    "id": "TMP2_12",
+    "question": "What is 1/2 of 2/3 of 3/4 of 4/5 of 100?",
+    "hint": "Try simplifying the fractions step by step before multiplying.",
+    "options": [
+      "20",
+      "10",
+      "50",
+      "25"
+    ],
+    "explanation": "The fractions simplify: 1/2 × 2/3 × 3/4 × 4/5 = 1/5. Then 1/5 × 100 = 20."
+  },
+  {
+    "id": "TMP2_13",
+    "question": "A lily pad doubles in size every day. If it completely fills a pond on day 20, on what day was it exactly 25% of the pond?",
+    "hint": "Work backwards — if it doubles each day, halve it going back.",
+    "options": [
+      "Day 18",
+      "Day 5",
+      "Day 15",
+      "Day 10"
+    ],
+    "explanation": "Day 20: 100%. Day 19: 50%. Day 18: 25%. Two doublings back from full."
+  },
+  {
+    "id": "TMP2_14",
+    "question": "A brick weighs 1 kg plus half a brick. How heavy is the brick?",
+    "hint": "Set up an equation: let b = weight of the brick.",
+    "options": [
+      "2 kg",
+      "1.5 kg",
+      "3 kg",
+      "1 kg"
+    ],
+    "explanation": "b = 1 + b/2 → b/2 = 1 → b = 2 kg."
+  },
+  {
+    "id": "TMP2_15",
+    "question": "If it takes 6 people 6 hours to dig 6 holes, how long does it take 3 people to dig 3 holes?",
+    "hint": "How long does one person take to dig one hole?",
+    "options": [
+      "6 hours",
+      "3 hours",
+      "12 hours",
+      "9 hours"
+    ],
+    "explanation": "Each person digs 1 hole in 6 hours. 3 people each dig 1 hole — still 6 hours."
+  },
+  {
+    "id": "TMP2_16",
+    "question": "What is the next letter in the sequence: O, T, T, F, F, S, S, ?",
+    "hint": "Think about the first letter of each counting number in English.",
+    "options": [
+      "E",
+      "N",
+      "T",
+      "H"
+    ],
+    "explanation": "One, Two, Three, Four, Five, Six, Seven, Eight — the first letters spell O, T, T, F, F, S, S, E."
+  },
+  {
+    "id": "TMP2_17",
+    "question": "You have 8 balls. Seven weigh the same and one is heavier. Using a balance scale, what is the minimum number of weighings to find the heavy one?",
+    "hint": "Divide the balls into three groups, not two.",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "explanation": "Weigh 3 vs 3. If equal, weigh the remaining 2. If unequal, take the heavier group and weigh 1 vs 1. Always 2 weighings."
+  },
+  {
+    "id": "TMP2_18",
+    "question": "In a race, you pass the person in last place. What position are you in now?",
+    "hint": "Think about who is behind the person in last place.",
+    "options": [
+      "It's impossible",
+      "Last place",
+      "Second to last",
+      "First place"
+    ],
+    "explanation": "No one is behind the last-place person. If you were behind them, you would be in last place — so you can't pass them."
+  },
+  {
+    "id": "TMP2_19",
+    "question": "If 3 cats catch 3 mice in 3 minutes, how long does it take 100 cats to catch 100 mice?",
+    "hint": "Each cat catches one mouse in how many minutes?",
+    "options": [
+      "3 minutes",
+      "100 minutes",
+      "33 minutes",
+      "1 minute"
+    ],
+    "explanation": "Each cat catches 1 mouse in 3 minutes. 100 cats catch 100 mice in parallel — still 3 minutes."
+  },
+  {
+    "id": "TMP2_20",
+    "question": "What fraction of a day is 6 hours?",
+    "hint": "How many hours are in a full day?",
+    "options": [
+      "1/4",
+      "1/6",
+      "1/3",
+      "1/2"
+    ],
+    "explanation": "A day has 24 hours. 6 ÷ 24 = 1/4."
+  },
+  {
+    "id": "TMP3_1",
+    "question": "If 6 machines make 6 toys in 6 minutes, how long does it take 12 machines to make 12 toys?",
+    "hint": "Each machine makes one toy in how many minutes?",
+    "options": [
+      "6 minutes",
+      "12 minutes",
+      "3 minutes",
+      "1 minute"
+    ],
+    "explanation": "Each machine makes 1 toy in 6 minutes. 12 machines each make 1 toy in 6 minutes — still 6 minutes total."
+  },
+  {
+    "id": "TMP3_2",
+    "question": "A clock shows 6:00. What is the angle between the hour and minute hands?",
+    "hint": "Where are the hands pointing at exactly 6:00?",
+    "options": [
+      "180°",
+      "90°",
+      "120°",
+      "360°"
+    ],
+    "explanation": "At 6:00, the minute hand points to 12 and the hour hand points to 6 — a straight line of 180°."
+  },
+  {
+    "id": "TMP3_3",
+    "question": "A clock shows 9:00. What is the angle between the hour and minute hands?",
+    "hint": "Where are the hands pointing at exactly 9:00?",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "45°"
+    ],
+    "explanation": "At 9:00, the minute hand points to 12 and the hour hand points to 9 — a right angle of 90°."
+  },
+  {
+    "id": "TMP3_4",
+    "question": "In a number grid, the rule is: column 1 + column 2 = column 3. Rows: [3, 5, 8], [7, 2, 9], [4, 6, ?]. Find the missing number.",
+    "hint": "Apply the same addition rule to the third row.",
+    "options": [
+      "10",
+      "8",
+      "12",
+      "6"
+    ],
+    "explanation": "Following the rule: 4 + 6 = 10."
+  },
+  {
+    "id": "TMP3_5",
+    "question": "In a number grid, the rule is: column 1 × column 2 = column 3. Rows: [2, 5, 10], [3, 4, 12], [6, 3, ?]. Find the missing number.",
+    "hint": "Multiply the first two columns of the third row.",
+    "options": [
+      "18",
+      "9",
+      "15",
+      "21"
+    ],
+    "explanation": "Following the rule: 6 × 3 = 18."
+  },
+  {
+    "id": "TMP3_6",
+    "question": "A snail climbs 4 meters during the day and slides back 2 meters at night. The wall is 12 meters tall. How many days does it take to reach the top?",
+    "hint": "On the final day, the snail reaches the top and doesn't slide back.",
+    "options": [
+      "5 days",
+      "6 days",
+      "4 days",
+      "10 days"
+    ],
+    "explanation": "Each full day-night cycle: net +2m. After 4 days: 8m. On day 5, the snail climbs 8 + 4 = 12m — it reaches the top before nightfall."
+  },
+  {
+    "id": "TMP3_7",
+    "question": "If 2 people can paint 2 rooms in 2 hours, how long would it take 4 people to paint 4 rooms?",
+    "hint": "Each person paints one room in how many hours?",
+    "options": [
+      "2 hours",
+      "4 hours",
+      "1 hour",
+      "8 hours"
+    ],
+    "explanation": "Each person paints 1 room in 2 hours. 4 people paint 4 rooms in parallel — still 2 hours."
+  },
+  {
+    "id": "TMP3_8",
+    "question": "You buy an item for $3 and sell it for $5. Then you buy another item for $6 and sell it for $9. What is your total profit?",
+    "hint": "Calculate the profit from each transaction separately.",
+    "options": [
+      "$5",
+      "$3",
+      "$2",
+      "$6"
+    ],
+    "explanation": "First deal: $5 − $3 = $2 profit. Second deal: $9 − $6 = $3 profit. Total: $2 + $3 = $5."
+  },
+  {
+    "id": "TMP3_9",
+    "question": "A frog jumps 3 meters forward and then slides 1 meter back each cycle. How many jumps does it need to travel past 10 meters?",
+    "hint": "On the final jump, the frog passes the target without sliding back.",
+    "options": [
+      "5 jumps",
+      "4 jumps",
+      "6 jumps",
+      "10 jumps"
+    ],
+    "explanation": "After 4 cycles: 4 × 2 = 8m. On jump 5: 8 + 3 = 11m, which is past 10m. So 5 jumps."
+  },
+  {
+    "id": "TMP3_10",
+    "question": "Tom is 3 times as old as Jim. In 10 years, Tom will be twice Jim's age. How old is Jim now?",
+    "hint": "Set up two equations: T = 3J and T + 10 = 2(J + 10).",
+    "options": [
+      "10",
+      "5",
+      "15",
+      "20"
+    ],
+    "explanation": "T = 3J. In 10 years: 3J + 10 = 2(J + 10) → 3J + 10 = 2J + 20 → J = 10."
+  },
+  {
+    "id": "TMP3_11",
+    "question": "You buy a horse for $60, sell it for $70, buy it back for $80, and sell it again for $90. What is your total profit?",
+    "hint": "Track each transaction's gain or loss separately.",
+    "options": [
+      "$20",
+      "$10",
+      "$30",
+      "$0"
+    ],
+    "explanation": "First trade: $70 − $60 = +$10. Second trade: $90 − $80 = +$10. Total profit: $20."
+  },
+  {
+    "id": "TMP3_12",
+    "question": "If you fold a piece of paper in half 7 times, how many layers does it have?",
+    "hint": "Each fold doubles the number of layers.",
+    "options": [
+      "128",
+      "64",
+      "14",
+      "256"
+    ],
+    "explanation": "Each fold doubles the layers: 2⁷ = 128."
+  },
+  {
+    "id": "TMP3_13",
+    "question": "A prime number multiplied by itself equals 169. What is the prime number?",
+    "hint": "Find the square root of 169.",
+    "options": [
+      "13",
+      "11",
+      "17",
+      "7"
+    ],
+    "explanation": "√169 = 13, and 13 is indeed a prime number."
+  },
+  {
+    "id": "TMP3_14",
+    "question": "Two trains are 100 miles apart, each traveling at 50 mph toward each other. A fly at 75 mph bounces between them. How far does the fly travel before the trains meet?",
+    "hint": "First figure out how long until the trains meet.",
+    "options": [
+      "75 miles",
+      "100 miles",
+      "50 miles",
+      "150 miles"
+    ],
+    "explanation": "Combined speed: 100 mph. They meet in 1 hour. Fly travels 75 mph × 1 hour = 75 miles."
+  },
+  {
+    "id": "TMP3_15",
+    "question": "What is the smallest number that is evenly divisible by every integer from 1 through 6?",
+    "hint": "Find the least common multiple (LCM) of 1, 2, 3, 4, 5, and 6.",
+    "options": [
+      "60",
+      "30",
+      "120",
+      "720"
+    ],
+    "explanation": "LCM(1,2,3,4,5,6) = 60. Check: 60 ÷ 1, 2, 3, 4, 5, 6 all yield whole numbers."
+  },
+  {
+    "id": "TMP3_16",
+    "question": "If you count from 1 to 100, how many times does the digit 7 appear?",
+    "hint": "Count appearances in the units place and tens place separately.",
+    "options": [
+      "20",
+      "10",
+      "11",
+      "19"
+    ],
+    "explanation": "Units place: 7, 17, 27, ..., 97 = 10 times. Tens place: 70, 71, ..., 79 = 10 times. Total: 20."
+  },
+  {
+    "id": "TMP3_17",
+    "question": "A number increased by 20% becomes 60. What was the original number?",
+    "hint": "If the number is x, then 1.2x = 60.",
+    "options": [
+      "50",
+      "48",
+      "72",
+      "40"
+    ],
+    "explanation": "1.2x = 60 → x = 60 ÷ 1.2 = 50."
+  },
+  {
+    "id": "TMP3_18",
+    "question": "If you fold a piece of paper in half 10 times, how many layers does it have?",
+    "hint": "Each fold doubles the number of layers.",
+    "options": [
+      "1024",
+      "100",
+      "512",
+      "2048"
+    ],
+    "explanation": "2¹⁰ = 1024 layers."
+  },
+  {
+    "id": "TMP3_19",
+    "question": "The product of two consecutive positive integers is 156. What are the two integers?",
+    "hint": "Find two neighboring whole numbers that multiply to 156.",
+    "options": [
+      "12 and 13",
+      "11 and 12",
+      "13 and 14",
+      "10 and 15"
+    ],
+    "explanation": "12 × 13 = 156. They are consecutive integers."
+  },
+  {
+    "id": "TMP3_20",
+    "question": "In a 3×3 magic square where every row, column, and diagonal sums to 15: top row is [2, 7, 6], middle row is [9, 5, 1]. What is the first number in the bottom row?",
+    "hint": "The first column must also sum to 15.",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "8"
+    ],
+    "explanation": "First column: 2 + 9 + ? = 15 → ? = 4."
+  },
+  {
+    "id": "TMP4_1",
+    "question": "A bacterial colony doubles every hour and completely fills a jar at noon. At what time was the jar one-quarter full?",
+    "hint": "Work backwards — if it doubles hourly, halve it each step back.",
+    "options": [
+      "10:00 AM",
+      "11:00 AM",
+      "9:00 AM",
+      "6:00 AM"
+    ],
+    "explanation": "Noon: 100%. 11 AM: 50%. 10 AM: 25%. Two hours before noon."
+  },
+  {
+    "id": "TMP4_2",
+    "question": "You have 24 coins. One is fake and lighter than the rest. What is the minimum number of weighings on a balance scale to guarantee finding it?",
+    "hint": "Divide the coins into three groups each time.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "explanation": "Split 24 into groups of 8. Weigh 8 vs 8 (identify the lighter group). Then 3 vs 3 within that group. Then 1 vs 1. Three weighings."
+  },
+  {
+    "id": "TMP4_3",
+    "question": "A rope is cut into 3 pieces. Each piece is then cut into 3 smaller pieces. How many total pieces are there?",
+    "hint": "Each of the 3 original pieces becomes 3 pieces.",
+    "options": [
+      "9",
+      "6",
+      "12",
+      "27"
+    ],
+    "explanation": "3 original pieces × 3 sub-pieces each = 9 total pieces."
+  },
+  {
+    "id": "TMP4_4",
+    "question": "A worm is at the bottom of a 30-meter well. It climbs 5 meters during the day and slides back 4 meters at night. How many days to reach the top?",
+    "hint": "On the final day, the worm exits the well and doesn't slide back.",
+    "options": [
+      "26 days",
+      "30 days",
+      "25 days",
+      "27 days"
+    ],
+    "explanation": "Net gain: 1m per day-night cycle. After 25 days: 25m. Day 26: 25 + 5 = 30m — top reached before night."
+  },
+  {
+    "id": "TMP4_5",
+    "question": "If 8 men can build a wall in 10 days, how many days will it take 5 men to build the same wall?",
+    "hint": "Total work = number of men × number of days.",
+    "options": [
+      "16 days",
+      "12 days",
+      "20 days",
+      "8 days"
+    ],
+    "explanation": "Total work: 8 × 10 = 80 man-days. For 5 men: 80 ÷ 5 = 16 days."
+  },
+  {
+    "id": "TMP4_6",
+    "question": "Pipe A fills a tank in 6 hours. Pipe B fills it in 3 hours. How long does it take to fill the tank with both pipes open?",
+    "hint": "Add the rates: 1/6 + 1/3 per hour.",
+    "options": [
+      "2 hours",
+      "4.5 hours",
+      "3 hours",
+      "1.5 hours"
+    ],
+    "explanation": "Combined rate: 1/6 + 1/3 = 1/6 + 2/6 = 3/6 = 1/2 per hour. Time: 2 hours."
+  },
+  {
+    "id": "TMP4_7",
+    "question": "A rectangle is 3 times as long as it is wide. Its perimeter is 48 meters. What is its area?",
+    "hint": "Let width = w, so length = 3w. Perimeter = 2(w + 3w).",
+    "options": [
+      "108 m²",
+      "96 m²",
+      "144 m²",
+      "48 m²"
+    ],
+    "explanation": "2(w + 3w) = 48 → 8w = 48 → w = 6. Length = 18. Area = 6 × 18 = 108 m²."
+  },
+  {
+    "id": "TMP4_8",
+    "question": "A number is increased by 20% and then decreased by 20%. What is the net percentage change from the original?",
+    "hint": "Start with 100 and apply both percentage changes sequentially.",
+    "options": [
+      "4% decrease",
+      "0% (no change)",
+      "4% increase",
+      "2% decrease"
+    ],
+    "explanation": "100 → +20% → 120 → −20% → 96. Net change: 96 − 100 = −4, which is a 4% decrease."
+  },
+  {
+    "id": "TMP4_9",
+    "question": "A store raises all prices by 25%, then offers a 20% discount. What is the net price change from the original?",
+    "hint": "Apply both percentage changes to a starting price of $100.",
+    "options": [
+      "0% (no change)",
+      "5% increase",
+      "5% decrease",
+      "45% increase"
+    ],
+    "explanation": "1.25 × 0.80 = 1.00. The price returns to exactly the original — 0% net change."
+  },
+  {
+    "id": "TMP4_10",
+    "question": "What is the sum of the first 20 positive integers?",
+    "hint": "Use the formula: n(n + 1) / 2.",
+    "options": [
+      "210",
+      "200",
+      "190",
+      "220"
+    ],
+    "explanation": "Sum = 20 × 21 / 2 = 210."
+  },
+  {
+    "id": "TMP4_11",
+    "question": "What is the angle between the hour and minute hands of a clock at 4:30?",
+    "hint": "At 4:30, the hour hand has moved halfway between the 4 and the 5.",
+    "options": [
+      "45°",
+      "90°",
+      "60°",
+      "30°"
+    ],
+    "explanation": "Minute hand at 180° (pointing to 6). Hour hand at 135° (4 × 30° + 0.5 × 30°). Difference: 180° − 135° = 45°."
+  },
+  {
+    "id": "TMP4_12",
+    "question": "A car drives 60 km at 30 km/h, then 60 km at 60 km/h. What is the average speed for the entire trip?",
+    "hint": "Average speed = total distance ÷ total time (not the average of the two speeds).",
+    "options": [
+      "40 km/h",
+      "45 km/h",
+      "50 km/h",
+      "35 km/h"
+    ],
+    "explanation": "Time 1: 60/30 = 2 hours. Time 2: 60/60 = 1 hour. Average: 120 km / 3 hours = 40 km/h."
+  },
+  {
+    "id": "TMP4_13",
+    "question": "If 2^10 = 1024, what is 2^12?",
+    "hint": "2^12 = 2^10 × 2^2.",
+    "options": [
+      "4096",
+      "2048",
+      "8192",
+      "1248"
+    ],
+    "explanation": "2^12 = 1024 × 4 = 4096."
+  },
+  {
+    "id": "TMP4_14",
+    "question": "A tap fills a pool in 4 hours. A drain empties it in 8 hours. With both open, how long to fill the pool?",
+    "hint": "Net fill rate = fill rate minus drain rate.",
+    "options": [
+      "8 hours",
+      "6 hours",
+      "12 hours",
+      "4 hours"
+    ],
+    "explanation": "Fill rate: 1/4 per hour. Drain rate: 1/8 per hour. Net: 1/4 − 1/8 = 1/8 per hour. Time: 8 hours."
+  },
+  {
+    "id": "TMP4_15",
+    "question": "A price drops by 10%, then drops by another 10%. What is the total percentage drop from the original price?",
+    "hint": "The second 10% discount is applied to the already-reduced price.",
+    "options": [
+      "19%",
+      "20%",
+      "18%",
+      "21%"
+    ],
+    "explanation": "0.90 × 0.90 = 0.81. Total drop: 1 − 0.81 = 0.19 = 19%."
+  },
+  {
+    "id": "TMP4_16",
+    "question": "Find x: 3x + 7 = 22.",
+    "hint": "Isolate x by undoing operations step by step.",
+    "options": [
+      "5",
+      "7",
+      "3",
+      "10"
+    ],
+    "explanation": "3x = 22 − 7 = 15. x = 15 ÷ 3 = 5."
+  },
+  {
+    "id": "TMP4_17",
+    "question": "A train 100 meters long travels at 50 m/s. How long does it take to completely pass a pole?",
+    "hint": "The entire train must pass the pole — it needs to cover its own length.",
+    "options": [
+      "2 seconds",
+      "1 second",
+      "4 seconds",
+      "0.5 seconds"
+    ],
+    "explanation": "Time = distance / speed = 100m / 50 m/s = 2 seconds."
+  },
+  {
+    "id": "TMP4_18",
+    "question": "Two workers together finish a job in 12 days. One of them alone takes 20 days. How long does the other one take alone?",
+    "hint": "Combined rate minus one worker's rate gives the other's rate.",
+    "options": [
+      "30 days",
+      "24 days",
+      "15 days",
+      "40 days"
+    ],
+    "explanation": "1/12 − 1/20 = 5/60 − 3/60 = 2/60 = 1/30. The other worker takes 30 days alone."
+  },
+  {
+    "id": "TMP4_19",
+    "question": "You invest $1000 at 5% simple interest per year for 3 years. How much total interest do you earn?",
+    "hint": "Simple interest = principal × rate × time.",
+    "options": [
+      "$150",
+      "$1150",
+      "$50",
+      "$300"
+    ],
+    "explanation": "Interest = $1000 × 0.05 × 3 = $150."
+  },
+  {
+    "id": "TMP4_20",
+    "question": "A farmer has chickens and cows. There are 20 heads and 56 legs in total. How many chickens are there?",
+    "hint": "Set up two equations: one for heads, one for legs.",
+    "options": [
+      "12",
+      "8",
+      "14",
+      "10"
+    ],
+    "explanation": "c + w = 20 and 2c + 4w = 56. Solving: w = 8, c = 12. There are 12 chickens."
+  },
+  {
+    "id": "TMP5_1",
+    "question": "You have two ropes. Each takes exactly 1 hour to burn completely, but they burn unevenly. How do you measure exactly 45 minutes?",
+    "hint": "What happens if you light a rope from both ends at once?",
+    "options": [
+      "Light rope 1 at both ends and rope 2 at one end simultaneously",
+      "Light both ropes at one end at the same time",
+      "Cut one rope into quarters and light one piece",
+      "Light one rope and wait for it to finish, then light the other"
+    ],
+    "explanation": "Rope 1 (both ends) burns out in 30 min. At that moment, light rope 2's other end — it finishes in 15 more min. Total: 45 min."
+  },
+  {
+    "id": "TMP5_2",
+    "question": "Two fathers and two sons sit down to eat. They eat exactly 3 eggs, with each person eating exactly 1 egg. How is this possible?",
+    "hint": "Can one person fill two roles at the same time?",
+    "options": [
+      "They are a grandfather, a father, and a son (3 people)",
+      "One person didn't actually eat",
+      "There were 4 people but one shared",
+      "Someone ate two eggs"
+    ],
+    "explanation": "Three generations: grandfather (a father), father (both a son and a father), and son. Two fathers + two sons = 3 people."
+  },
+  {
+    "id": "TMP5_3",
+    "question": "100 lockers are in a row, all closed. 100 students walk by in sequence: student k toggles every k-th locker. How many lockers are open at the end?",
+    "hint": "A locker ends up open only if it is toggled an odd number of times. Which numbers have an odd number of divisors?",
+    "options": [
+      "10",
+      "50",
+      "25",
+      "0"
+    ],
+    "explanation": "Only perfect squares have an odd number of divisors: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100. That's 10 lockers."
+  },
+  {
+    "id": "TMP5_4",
+    "question": "Three switches outside a closed room control three light bulbs inside. You may only enter the room once. How do you determine which switch controls which bulb?",
+    "hint": "A light bulb that was on for a while will feel warm even after being turned off.",
+    "options": [
+      "Turn switch 1 on and wait, turn it off, turn switch 2 on, then enter: warm off = 1, on = 2, cold off = 3",
+      "Flip each switch one at a time and check each time",
+      "Turn all three on and off quickly, then enter",
+      "Look through the keyhole after each switch"
+    ],
+    "explanation": "Turn switch 1 on for a few minutes, turn it off, turn switch 2 on, enter. Warm but off = switch 1. On = switch 2. Cold and off = switch 3."
+  },
+  {
+    "id": "TMP5_5",
+    "question": "Three boxes are labeled 'Apples', 'Oranges', and 'Mixed'. ALL labels are wrong. You can pick one fruit from one box. Which box should you pick from to determine all labels?",
+    "hint": "Since all labels are wrong, the 'Mixed' box cannot actually contain mixed fruit.",
+    "options": [
+      "The box labeled 'Mixed'",
+      "The box labeled 'Apples'",
+      "The box labeled 'Oranges'",
+      "Any box — it doesn't matter"
+    ],
+    "explanation": "Pick from 'Mixed' (which isn't mixed). If you get an apple, it's the Apples box. Then 'Apples' (mislabeled) must be Oranges, and 'Oranges' must be Mixed."
+  },
+  {
+    "id": "TMP5_6",
+    "question": "A man has three daughters. The product of their ages is 36. The sum of their ages equals the house number next door (which is ambiguous). The oldest plays piano. What are their ages?",
+    "hint": "Two different sets of factors of 36 share the same sum. The word 'oldest' eliminates one set.",
+    "options": [
+      "2, 2, and 9",
+      "1, 6, and 6",
+      "3, 3, and 4",
+      "1, 4, and 9"
+    ],
+    "explanation": "Factor sets of 36 summing to 13: {1,6,6} and {2,2,9}. Since there's an 'oldest' (unique), it must be {2, 2, 9}."
+  },
+  {
+    "id": "TMP5_7",
+    "question": "Monty Hall problem: you pick door 1 of 3 (one has a car, two have goats). The host opens door 3 to reveal a goat. Should you switch to door 2?",
+    "hint": "What was the probability the car was behind your original door?",
+    "options": [
+      "Yes — switching wins 2/3 of the time",
+      "No — it's 50/50 either way",
+      "It doesn't matter",
+      "No — your first choice is usually right"
+    ],
+    "explanation": "Your initial pick had a 1/3 chance. The remaining door now carries the other 2/3. Switching doubles your odds."
+  },
+  {
+    "id": "TMP5_8",
+    "question": "How many squares of all sizes are there on a standard 8×8 chessboard?",
+    "hint": "Count 1×1, 2×2, 3×3, ... up to 8×8 squares separately.",
+    "options": [
+      "204",
+      "64",
+      "256",
+      "100"
+    ],
+    "explanation": "Sum of squares: 8² + 7² + 6² + 5² + 4² + 3² + 2² + 1² = 64 + 49 + 36 + 25 + 16 + 9 + 4 + 1 = 204."
+  },
+  {
+    "id": "TMP5_9",
+    "question": "What is the sum of all integers from 1 to 100?",
+    "hint": "Use Gauss's formula: n(n + 1) / 2.",
+    "options": [
+      "5050",
+      "5000",
+      "10000",
+      "10100"
+    ],
+    "explanation": "100 × 101 / 2 = 5050."
+  },
+  {
+    "id": "TMP5_10",
+    "question": "How many trailing zeros are in 100! (100 factorial)?",
+    "hint": "Trailing zeros come from factors of 10 = 2 × 5. Count the factors of 5.",
+    "options": [
+      "24",
+      "20",
+      "25",
+      "10"
+    ],
+    "explanation": "⌊100/5⌋ + ⌊100/25⌋ = 20 + 4 = 24 trailing zeros."
+  },
+  {
+    "id": "TMP5_11",
+    "question": "A farmer must cross a river with a wolf, a goat, and a cabbage. The boat holds the farmer plus one item. The wolf eats the goat if left alone; the goat eats the cabbage. What should the farmer take first?",
+    "hint": "Which pair of items is safe to leave alone on either bank?",
+    "options": [
+      "The goat",
+      "The wolf",
+      "The cabbage",
+      "It doesn't matter"
+    ],
+    "explanation": "Take the goat first. The wolf and cabbage are safe together. Then shuttle the others with return trips."
+  },
+  {
+    "id": "TMP5_12",
+    "question": "Starting with 1 pair of rabbits, they mature in 1 month and produce 1 new pair each month after maturing. How many pairs are there after 6 months?",
+    "hint": "This follows the Fibonacci sequence: 1, 1, 2, 3, 5, 8, ...",
+    "options": [
+      "8",
+      "13",
+      "6",
+      "10"
+    ],
+    "explanation": "Fibonacci sequence: month 1 = 1, month 2 = 1, month 3 = 2, month 4 = 3, month 5 = 5, month 6 = 8 pairs."
+  },
+  {
+    "id": "TMP5_13",
+    "question": "What is the minimum number of moves to solve the Tower of Hanoi puzzle with 5 disks?",
+    "hint": "The formula is 2ⁿ − 1 where n is the number of disks.",
+    "options": [
+      "31",
+      "32",
+      "63",
+      "15"
+    ],
+    "explanation": "2⁵ − 1 = 32 − 1 = 31 moves."
+  },
+  {
+    "id": "TMP5_14",
+    "question": "What is the minimum number of people needed in a room for there to be a greater than 50% chance that two of them share a birthday?",
+    "hint": "This is the famous birthday paradox — the answer is much smaller than you'd expect.",
+    "options": [
+      "23",
+      "50",
+      "183",
+      "365"
+    ],
+    "explanation": "With just 23 people, the probability that at least two share a birthday exceeds 50%."
+  },
+  {
+    "id": "TMP5_15",
+    "question": "In a room of 23 people, what is the approximate probability that at least two of them share a birthday?",
+    "hint": "This is the birthday paradox result.",
+    "options": [
+      "About 50%",
+      "About 6%",
+      "About 25%",
+      "About 75%"
+    ],
+    "explanation": "With 23 people, the probability is approximately 50.7% — counterintuitively high."
+  },
+  {
+    "id": "TMP5_16",
+    "question": "On an island, knights always tell the truth and knaves always lie. Person A says: 'We are both knaves.' What is A?",
+    "hint": "If A were a knight (truth-teller), could that statement be true?",
+    "options": [
+      "A knave",
+      "A knight",
+      "Cannot be determined",
+      "Neither"
+    ],
+    "explanation": "A knight couldn't say 'we are both knaves' (it would be a lie). So A is a knave, meaning the statement is false — they aren't both knaves, so the other person is a knight."
+  },
+  {
+    "id": "TMP5_17",
+    "question": "What is the sum of the interior angles of a heptagon (7-sided polygon)?",
+    "hint": "Use the formula (n − 2) × 180°.",
+    "options": [
+      "900°",
+      "720°",
+      "1080°",
+      "1260°"
+    ],
+    "explanation": "(7 − 2) × 180° = 5 × 180° = 900°."
+  },
+  {
+    "id": "TMP5_18",
+    "question": "How many squares of all sizes exist in a 4×4 grid?",
+    "hint": "Count 1×1, 2×2, 3×3, and 4×4 squares.",
+    "options": [
+      "30",
+      "16",
+      "20",
+      "25"
+    ],
+    "explanation": "4² + 3² + 2² + 1² = 16 + 9 + 4 + 1 = 30."
+  },
+  {
+    "id": "TMP5_19",
+    "question": "If you flip a fair coin 3 times, what is the probability of getting at least one head?",
+    "hint": "It's easier to calculate the complement: the probability of getting NO heads at all.",
+    "options": [
+      "7/8",
+      "3/4",
+      "1/2",
+      "1/8"
+    ],
+    "explanation": "P(no heads) = (1/2)³ = 1/8. P(at least one head) = 1 − 1/8 = 7/8."
+  },
+  {
+    "id": "TMP5_20",
+    "question": "How many rectangles can be formed using the lines of a 3×3 grid (4 horizontal and 4 vertical lines)?",
+    "hint": "A rectangle is defined by choosing 2 horizontal and 2 vertical lines.",
+    "options": [
+      "36",
+      "18",
+      "24",
+      "9"
+    ],
+    "explanation": "C(4,2) × C(4,2) = 6 × 6 = 36 rectangles."
+  }
+]
