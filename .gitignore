@@ -1,3 +1,7 @@
+# CI / Wrangler: never publish or track VCS metadata as site assets
+.git/
+.wrangler/
+
 .DS_Store
 Thumbs.db
 *.log

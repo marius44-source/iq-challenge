@@ -1,0 +1,4 @@
+# Wrangler static asset upload ignores (same syntax as .gitignore)
+# https://developers.cloudflare.com/workers/static-assets/binding/#ignoring-assets
+.git/
+.wrangler/

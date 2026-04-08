@@ -1,6 +1,12 @@
 [build]
   publish = "."
 
+# SPA fallback (replaces _redirects; Cloudflare rejects /* → /index.html 200 in _redirects)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
 [[headers]]
   for = "/*"
   [headers.values]
