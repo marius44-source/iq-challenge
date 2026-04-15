@@ -76,7 +76,7 @@ Cloudflare builds and publishes automatically (usually under a minute). Roll bac
 ## Paid promotion & affiliate links
 
 - No special host is required: add **Google Ads**, **Meta Pixel**, affiliate scripts, etc. by editing `index.html` or `app.js` (or small includes later).
-- For **measurement**, add a real **GA4** snippet where noted in `index.html` (placeholder was removed to avoid loading a fake GA id).
+- For **measurement**, use **Cloudflare Web Analytics** (free, cookieless): [Web Analytics](https://dash.cloudflare.com/?to=/:account/web-analytics) → **Add a site** → hostname must match your live URL (e.g. `iq-challenge.your-subdomain.workers.dev`) → **Manage site** → copy the token into `CF_WEB_ANALYTICS_TOKEN` in `index.html` (before `</body>`), then deploy.
 
 ---
 
