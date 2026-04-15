@@ -430,17 +430,8 @@
   <script src="training-children-12-15.js"></script>
   <script src="training-data.js"></script>
   <script src="app.js"></script>
-  <!-- Cloudflare Web Analytics (free): https://dash.cloudflare.com/?to=/:account/web-analytics → Add site → hostname must match this site (e.g. iq-challenge.your-subdomain.workers.dev) → Manage site → copy token into CF_WEB_ANALYTICS_TOKEN below. -->
-  <script>
-    (function () {
-      var CF_WEB_ANALYTICS_TOKEN = "";
-      if (!CF_WEB_ANALYTICS_TOKEN) return;
-      var s = document.createElement("script");
-      s.src = "https://static.cloudflareinsights.com/beacon.min.js";
-      s.defer = true;
-      s.setAttribute("data-cf-beacon", JSON.stringify({ token: CF_WEB_ANALYTICS_TOKEN }));
-      document.head.appendChild(s);
-    })();
-  </script>
+  <!-- Cloudflare Web Analytics -->
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "141cb33aa745476a81a0645b055b5784"}'></script>
+  <!-- End Cloudflare Web Analytics -->
 </body>
 </html>
